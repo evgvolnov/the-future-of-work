@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>The Future Of Work Map</title>
+    <link rel="icon" href="https://assets.super.so/e899c348-a5f1-44d5-be02-6f8ab32930e3/uploads/favicon/be8fc39f-fb07-41e5-9eba-b2c39fb9bc8f.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="./styles.css?v=26" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="graph-stage">
+        <canvas id="graphCanvas" aria-label="Канвас графа знаний"></canvas>
+        <div class="topbar">
+          <div class="brand-block">
+            <img
+              class="brand-logo"
+              src="https://assets.super.so/e899c348-a5f1-44d5-be02-6f8ab32930e3/uploads/logo/d0fb7f11-e019-47bc-849d-46b2284e4d57.png"
+              alt="The Future Of Work"
+            />
+            <h1>MAP</h1>
+            <p id="graphStats">Загрузка таксономии...</p>
+          </div>
+        </div>
+        <a class="telegram-link" href="http://t.me/thefutureofwork" target="_blank" rel="noreferrer">
+          The Future Of Work
+        </a>
+        <div id="tooltip" class="tooltip" hidden></div>
+      </section>
+
+      <aside class="control-panel">
+        <section class="panel-section details" id="detailsPanel">
+          <div class="empty-state">
+            <span>Выберите бабл</span>
+            <p>Наведите курсор, чтобы увидеть соседние понятия. Нажмите на бабл, чтобы открыть описание, источники и связи.</p>
+          </div>
+        </section>
+
+        <section class="panel-section">
+          <div class="panel-title">
+            <span class="detail-title">Фильтры</span>
+            <button id="clearFilters">Сбросить</button>
+          </div>
+          <div class="filter-block control-card">
+            <span class="filter-label">Уровень</span>
+            <div id="levelFilters" class="chip-grid"></div>
+          </div>
+          <div class="filter-block control-card">
+            <span class="filter-label">Роль AI</span>
+            <div id="aiImpactFilters" class="chip-grid"></div>
+          </div>
+          <div class="filter-block control-card">
+            <span class="filter-label">Темы</span>
+            <div id="themeFilters" class="theme-list"></div>
+          </div>
+        </section>
+      </aside>
+    </main>
+
+    <script src="./graph-data.js?v=19"></script>
+    <script src="./app.js?v=24"></script>
+  </body>
+</html>

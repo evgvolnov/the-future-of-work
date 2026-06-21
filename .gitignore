@@ -1,0 +1,5 @@
+.DS_Store
+taxonomy-export.xlsx
+append_cpa_report.py
+pdfs/
+__pycache__/
