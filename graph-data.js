@@ -1,5 +1,5 @@
 window.GRAPH_DATA = {
-  "generatedAt": "2026-06-22T19:33:34",
+  "generatedAt": "2026-06-22T19:55:16",
   "reports": {
     "R-MCK-HRM-2026": {
       "title": "HR Monitor 2026: A turning point for the people function",
@@ -1931,7 +1931,7 @@ window.GRAPH_DATA = {
       "confidence": 0.86,
       "status": "candidate",
       "description": "Data-driven EVP and EX investment approach that links personalization, employee sentiment, utilization data, market data, rewards, and business outcomes.",
-      "descriptionRu": "Подход к EVP и инвестициям в опыт сотрудника на основе данных, который связывает персонализацию, sentiment сотрудников, данные об использовании, рыночные данные, вознаграждения и бизнес-результаты.",
+      "descriptionRu": "Подход к EVP и инвестициям в опыт сотрудника на основе данных, который связывает персонализацию, анализ настроений сотрудников, данные об использовании, рыночные данные, вознаграждения и бизнес-результаты.",
       "aiImpact": "AI-supported",
       "source": "R-MER-GTT-2026"
     },
@@ -2281,7 +2281,7 @@ window.GRAPH_DATA = {
       "confidence": 0.84,
       "status": "candidate",
       "description": "Shared-services model evolving from transactional centers into AI-first global business-services centers that orchestrate humans and AI agents across end-to-end processes.",
-      "descriptionRu": "Модель shared services, которая эволюционирует от транзакционных центров к AI-first глобальным бизнес-сервисным центрам, оркестрирующим людей и AI-агентов в сквозных процессах.",
+      "descriptionRu": "Модель общих бизнес-сервисов, которая эволюционирует от транзакционных центров к AI-first глобальным сервисным центрам, оркестрирующим людей и AI-агентов в сквозных процессах.",
       "aiImpact": "AI-first",
       "source": "R-MCK-SOO-2026"
     },
@@ -2365,7 +2365,7 @@ window.GRAPH_DATA = {
       "confidence": 0.86,
       "status": "candidate",
       "description": "Enterprise performance system linking financial, operational, people, goal, feedback, talent, leadership, well-being, sentiment, and accountability measures into a consistent operating rhythm.",
-      "descriptionRu": "Корпоративная система управления результативностью, которая связывает финансовые, операционные, кадровые, целевые, обратные, талантовые, лидерские, wellbeing-, sentiment- и accountability-метрики в единый операционный ритм.",
+      "descriptionRu": "Корпоративная система управления результативностью, которая связывает финансовые, операционные, кадровые, целевые, обратные, талантовые, лидерские метрики, показатели благополучия, настроений сотрудников и подотчетности в единый операционный ритм.",
       "aiImpact": "AI-supported",
       "source": "R-MCK-SOO-2026"
     },
@@ -3359,7 +3359,7 @@ window.GRAPH_DATA = {
       "confidence": 0.89,
       "status": "candidate",
       "description": "HR technology architecture with unified agent interface, specialized HR agents, human-agent orchestration, knowledge layer, guardrails, access controls, logging, and reusable workflows across employee personas.",
-      "descriptionRu": "Технологическая архитектура HR с единым интерфейсом агентов, специализированными HR-агентами, оркестрацией взаимодействия человека и агента, слоем знаний, guardrails, контролем доступа, логированием и переиспользуемыми рабочими процессами для разных персон сотрудников.",
+      "descriptionRu": "Технологическая архитектура HR с единым интерфейсом агентов, специализированными HR-агентами, оркестрацией взаимодействия человека и агента, слоем знаний, ограничительными правилами, контролем доступа, логированием и переиспользуемыми рабочими процессами для разных персон сотрудников.",
       "aiImpact": "AI-first",
       "source": "R-BCG-HRAI-2026"
     },
@@ -3597,7 +3597,7 @@ window.GRAPH_DATA = {
       "confidence": 0.86,
       "status": "candidate",
       "description": "Phased implementation pattern where skills-based pilots and use cases build on each other, demonstrate measurable business value, and then scale across functions or business units.",
-      "descriptionRu": "Поэтапный паттерн внедрения, при котором пилоты и сценарии skills-based organization наращиваются друг на друга, демонстрируют измеримую бизнес-ценность и затем масштабируются по функциям или бизнес-единицам.",
+      "descriptionRu": "Поэтапный паттерн внедрения, при котором пилоты и сценарии организации на основе навыков наращиваются друг на друга, демонстрируют измеримую бизнес-ценность и затем масштабируются по функциям или бизнес-единицам.",
       "aiImpact": "AI-supported",
       "source": "R-BCG-SBO-2025"
     },
@@ -3765,7 +3765,7 @@ window.GRAPH_DATA = {
       "confidence": 0.9,
       "status": "candidate",
       "description": "Workforce model that expands the mix of agile roles, including gig, contract, interim, fractional, remote, career-switching, AI-augmented and job-rotation arrangements to adapt how work gets done.",
-      "descriptionRu": "Модель рабочей силы, расширяющая набор гибких ролей, включая gig, контрактные, временные, fractional, удаленные, переходные карьерные, AI-усиленные и ротационные форматы, чтобы адаптировать способ выполнения работы.",
+      "descriptionRu": "Модель рабочей силы, расширяющая набор гибких ролей: проектные, контрактные, временные, частично занятые, удаленные, переходные карьерные, AI-усиленные и ротационные форматы, чтобы адаптировать способ выполнения работы.",
       "aiImpact": "AI-first",
       "source": "R-IND-WA-2025"
     },
@@ -3793,7 +3793,7 @@ window.GRAPH_DATA = {
       "confidence": 0.87,
       "status": "candidate",
       "description": "Use of AI for agile workforce planning, including matching workers to skills, predictive analytics, real-time workforce insights, sourcing external talent and supporting performance or productivity.",
-      "descriptionRu": "Использование AI для гибкого планирования рабочей силы: сопоставление работников с навыками, предиктивная аналитика, real-time инсайты о рабочей силе, поиск внешних талантов и поддержка результативности или продуктивности.",
+      "descriptionRu": "Использование AI для гибкого планирования рабочей силы: сопоставление работников с навыками, предиктивная аналитика, инсайты о рабочей силе в реальном времени, поиск внешних талантов и поддержка результативности или продуктивности.",
       "aiImpact": "AI-first",
       "source": "R-IND-WA-2025"
     },
@@ -3821,7 +3821,7 @@ window.GRAPH_DATA = {
       "confidence": 0.84,
       "status": "candidate",
       "description": "Use of part-time or short-term senior leaders and consultants to define strategy, build capacity, support change, coach emerging leaders and bridge toward permanent roles.",
-      "descriptionRu": "Использование частично занятых или краткосрочных senior-лидеров и консультантов для определения стратегии, наращивания возможностей, поддержки изменений, коучинга растущих лидеров и перехода к постоянным ролям.",
+      "descriptionRu": "Использование частично занятых или краткосрочных старших руководителей и консультантов для определения стратегии, наращивания возможностей, поддержки изменений, коучинга растущих лидеров и перехода к постоянным ролям.",
       "aiImpact": "AI-supported",
       "source": "R-IND-WA-2025"
     },
@@ -4535,7 +4535,7 @@ window.GRAPH_DATA = {
       "confidence": 0.87,
       "status": "approved",
       "description": "2030 scenario of geopolitical volatility, isolationism, allied-bloc trade, faded technology hype, innovation deserts, reshoring pressure and significant talent shortages.",
-      "descriptionRu": "Сценарий 2030 года с геополитической волатильностью, изоляционизмом, торговлей внутри союзнических блоков, угасанием технологического хайпа, инновационными пустынями, давлением reshoring и значительным дефицитом талантов.",
+      "descriptionRu": "Сценарий 2030 года с геополитической волатильностью, изоляционизмом, торговлей внутри союзнических блоков, угасанием технологического хайпа, давлением решоринга и значительным дефицитом талантов.",
       "aiImpact": "Zero-AI",
       "source": "R-WEF-FFNE-2025"
     },
@@ -4563,7 +4563,7 @@ window.GRAPH_DATA = {
       "confidence": 0.89,
       "status": "approved",
       "description": "Use of foresight, scenario planning, data infrastructure, agile governance and real-time feedback loops to identify signals and adapt strategy before shocks materialize.",
-      "descriptionRu": "Использование foresight, сценарного планирования, инфраструктуры данных, agile-управления и real-time петель обратной связи, чтобы выявлять сигналы и адаптировать стратегию до материализации шоков.",
+      "descriptionRu": "Использование форсайта, сценарного планирования, инфраструктуры данных, гибкого управления и петель обратной связи в реальном времени, чтобы выявлять сигналы и адаптировать стратегию до материализации шоков.",
       "aiImpact": "Zero-AI",
       "source": "R-WEF-FFNE-2025"
     },
@@ -4661,7 +4661,7 @@ window.GRAPH_DATA = {
       "confidence": 0.9,
       "status": "approved",
       "description": "Flatter, cross-functional team model where humans lead judgement, coaching and accountability while AI agents execute routine, analytical or multi-step workflow tasks within guardrails, escalation paths and lifecycle governance.",
-      "descriptionRu": "Более плоская кросс-функциональная командная модель, где люди отвечают за суждение, коучинг и подотчетность, а AI-агенты выполняют рутинные, аналитические или многошаговые задачи рабочих процессов внутри guardrails, путей эскалации и управления жизненным циклом.",
+      "descriptionRu": "Более плоская кросс-функциональная командная модель, где люди отвечают за суждение, коучинг и подотчетность, а AI-агенты выполняют рутинные, аналитические или многошаговые задачи рабочих процессов внутри ограничительных правил, путей эскалации и управления жизненным циклом.",
       "aiImpact": "AI-first",
       "source": "R-WEF-OTAI-2026"
     },
@@ -4731,7 +4731,7 @@ window.GRAPH_DATA = {
       "confidence": 0.9,
       "status": "approved",
       "description": "Widening gap between employer demand for AI, data and digital capabilities and the ability of education, training and labour-market systems to produce, assess and deploy those capabilities quickly enough.",
-      "descriptionRu": "Расширяющийся разрыв между спросом работодателей на AI-, data- и digital-компетенции и способностью систем образования, обучения и рынка труда достаточно быстро формировать, оценивать и задействовать эти компетенции.",
+      "descriptionRu": "Расширяющийся разрыв между спросом работодателей на AI-компетенции, работу с данными и цифровые навыки и способностью систем образования, обучения и рынка труда достаточно быстро формировать, оценивать и задействовать эти компетенции.",
       "aiImpact": "AI-first",
       "source": "R-WEF-NES-2025"
     },
@@ -4801,7 +4801,7 @@ window.GRAPH_DATA = {
       "confidence": 0.88,
       "status": "approved",
       "description": "Learning ecosystem that builds AI and digital capabilities through role-based pathways, learning-by-doing, proof of work, stackable credentials and measurable application in daily work.",
-      "descriptionRu": "Экосистема обучения, которая развивает AI- и digital-компетенции через ролевые траектории, обучение через практику, подтверждение выполненной работы, накапливаемые квалификационные модули и измеримое применение навыков в повседневной работе.",
+      "descriptionRu": "Экосистема обучения, которая развивает AI- и цифровые компетенции через ролевые траектории, обучение через практику, подтверждение выполненной работы, накапливаемые квалификационные модули и измеримое применение навыков в повседневной работе.",
       "aiImpact": "AI-first",
       "source": "R-WEF-NES-2025"
     },
@@ -4983,7 +4983,7 @@ window.GRAPH_DATA = {
       "confidence": 0.84,
       "status": "approved",
       "description": "Strategic discipline for defining HR technology architecture, integration priorities, adoption roadmap, optimization cycles and ROI logic so the stack matures beyond unused functionality and low adoption.",
-      "descriptionRu": "Стратегическая дисциплина, которая задает архитектуру HR-технологий, приоритеты интеграции, дорожную карту внедрения, циклы оптимизации и логику ROI, чтобы технологический стек не застревал в неиспользуемой функциональности и низком уровне использования.",
+      "descriptionRu": "Стратегическая дисциплина, которая задает архитектуру HR-технологий, приоритеты интеграции, дорожную карту внедрения, циклы оптимизации и логику окупаемости инвестиций, чтобы технологический стек не застревал в неиспользуемой функциональности и низком уровне использования.",
       "aiImpact": "AI-supported",
       "source": "R-AIHR-HRT-2025"
     },
@@ -5011,7 +5011,7 @@ window.GRAPH_DATA = {
       "confidence": 0.83,
       "status": "approved",
       "description": "Integrated employee experience platform layer that centralizes communication, learning, feedback, wellness support and everyday HR resources across the employee lifecycle, including frontline workers.",
-      "descriptionRu": "Интегрированный слой платформы опыта сотрудника, который объединяет коммуникации, обучение, обратную связь, поддержку wellbeing и повседневные HR-ресурсы на протяжении жизненного цикла сотрудника, включая сотрудников передней линии.",
+      "descriptionRu": "Интегрированный слой платформы опыта сотрудника, который объединяет коммуникации, обучение, обратную связь, поддержку благополучия и повседневные HR-ресурсы на протяжении жизненного цикла сотрудника, включая сотрудников передней линии.",
       "aiImpact": "AI-supported",
       "source": "R-AIHR-HRT-2025"
     },
@@ -5039,7 +5039,7 @@ window.GRAPH_DATA = {
       "confidence": 0.83,
       "status": "approved",
       "description": "Employee listening data layer that combines pulse surveys, feedback tools, sentiment analysis and real-time dashboards to detect morale, burnout, engagement and culture risks early.",
-      "descriptionRu": "Слой данных обратной связи сотрудников, который объединяет pulse-опросы, инструменты обратной связи, анализ тональности и дашборды в реальном времени, чтобы раньше замечать риски морального состояния, выгорания, вовлеченности и культуры.",
+      "descriptionRu": "Слой данных обратной связи сотрудников, который объединяет пульс-опросы, инструменты обратной связи, анализ тональности и дашборды в реальном времени, чтобы раньше замечать риски морального состояния, выгорания, вовлеченности и культуры.",
       "aiImpact": "AI-supported",
       "source": "R-AIHR-HRT-2025"
     },
@@ -5585,7 +5585,7 @@ window.GRAPH_DATA = {
       "confidence": 0.87,
       "status": "approved",
       "description": "Operating rhythm that replaces episodic training with short skill sprints, workflow-embedded learning moments, senior role modeling, performance reinforcement and continuous adaptation to business priorities.",
-      "descriptionRu": "Операционный ритм, который заменяет эпизодическое обучение короткими skill sprints, встроенными в работу моментами обучения, видимым примером senior-лидеров, закреплением через управление результативностью и постоянной адаптацией к бизнес-приоритетам.",
+      "descriptionRu": "Операционный ритм, который заменяет эпизодическое обучение короткими спринтами развития навыков, встроенными в работу моментами обучения, видимым примером старших руководителей, закреплением через управление результативностью и постоянной адаптацией к бизнес-приоритетам.",
       "aiImpact": "AI-supported",
       "source": "R-MCK-LDAI-2026"
     },
@@ -6159,7 +6159,7 @@ window.GRAPH_DATA = {
       "confidence": 0.88,
       "status": "approved",
       "description": "Trend cluster describing the L&D implications of AI workflow automation, AI anxiety, cross-functional governance, responsible AI use, copilots, agents, digital twins and emerging interface models.",
-      "descriptionRu": "Кластер трендов, описывающий последствия AI для L&D: автоматизацию рабочих процессов, тревожность вокруг AI, кросс-функциональное управление, ответственное использование AI, copilots, агентов, digital twins и новые модели интерфейсов.",
+      "descriptionRu": "Кластер трендов, описывающий последствия AI для L&D: автоматизацию рабочих процессов, тревожность вокруг AI, кросс-функциональное управление, ответственное использование AI, AI-ассистентов, агентов, цифровых двойников и новые модели интерфейсов.",
       "aiImpact": "AI-first",
       "source": "R-OFF-LDR-2026"
     },
@@ -6915,7 +6915,7 @@ window.GRAPH_DATA = {
       "confidence": 0.89,
       "status": "approved",
       "description": "Causal chain for reading AI-driven work change across capability, substitution, interface, bundle and capture rather than as isolated productivity or displacement claims.",
-      "descriptionRu": "Причинная цепочка анализа AI-driven изменений работы через capability, substitution, interface, bundle и capture, а не как набор отдельных заявлений о продуктивности или вытеснении.",
+      "descriptionRu": "Причинная цепочка анализа изменений работы, вызванных AI, через возможность, замещение, интерфейс, связку задач и присвоение ценности, а не как набор отдельных заявлений о продуктивности или вытеснении.",
       "aiImpact": "AI-first",
       "source": "R-RESH-LIN-2026"
     },
@@ -7167,7 +7167,7 @@ window.GRAPH_DATA = {
       "confidence": 0.9,
       "status": "approved",
       "description": "Operating model where structure is defined less by who performs activities and more by who owns outcomes, decides which agents run, controls access, sets intervention points and remains accountable for human-agent results.",
-      "descriptionRu": "Операционная модель, в которой структура определяется не столько тем, кто выполняет действия, сколько тем, кто владеет outcomes, решает какие агенты запускаются, управляет доступом, задает точки вмешательства и остается accountable за human-agent results.",
+      "descriptionRu": "Операционная модель, в которой структура определяется не столько тем, кто выполняет действия, сколько тем, кто владеет результатами, решает, какие агенты запускаются, управляет доступом, задает точки вмешательства и несет ответственность за результаты человеко-агентной работы.",
       "aiImpact": "AI-first",
       "source": "R-BAIN-AIOM-2026"
     },
@@ -7209,7 +7209,7 @@ window.GRAPH_DATA = {
       "confidence": 0.87,
       "status": "approved",
       "description": "Design of roles, teams and environments around human work that remains valuable as routine execution is automated: collaboration, problem solving, trust building, creative synthesis, meaning, mastery and outcome ownership.",
-      "descriptionRu": "Дизайн ролей, команд и среды вокруг человеческой работы, которая остается ценной при автоматизации рутинного исполнения: collaboration, problem solving, trust building, creative synthesis, meaning, mastery и ownership outcomes.",
+      "descriptionRu": "Дизайн ролей, команд и среды вокруг человеческой работы, которая остается ценной при автоматизации рутинного исполнения: сотрудничества, решения проблем, построения доверия, творческого синтеза, смысла, мастерства и владения результатами.",
       "aiImpact": "AI-first",
       "source": "R-BAIN-AIOM-2026"
     },
@@ -7223,7 +7223,7 @@ window.GRAPH_DATA = {
       "confidence": 0.89,
       "status": "approved",
       "description": "Near-continuous delivery cadence where humans review, resolve ambiguity, strengthen guardrails and prioritize during the day while agents execute structured work at scale overnight or across off-hours.",
-      "descriptionRu": "Почти непрерывный delivery cadence, где днем люди проверяют результаты, снимают ambiguity, усиливают guardrails и приоритизируют, а агенты ночью или вне рабочего времени выполняют структурированную работу в масштабе.",
+      "descriptionRu": "Почти непрерывный ритм поставки результатов, где днем люди проверяют результаты, снимают неопределенность, усиливают ограничительные правила и приоритизируют, а агенты ночью или вне рабочего времени выполняют структурированную работу в масштабе.",
       "aiImpact": "AI-first",
       "source": "R-MCK-AGSDLC-2026"
     },
@@ -7237,7 +7237,7 @@ window.GRAPH_DATA = {
       "confidence": 0.89,
       "status": "approved",
       "description": "Operating pipeline that replaces human translation between documents and tools with standardized, machine-readable artifacts such as requirements, guardrails, sequence diagrams, repositories and review gates.",
-      "descriptionRu": "Операционный pipeline, который заменяет человеческий перевод между документами и инструментами стандартизированными machine-readable артефактами: requirements, guardrails, sequence diagrams, repositories и review gates.",
+      "descriptionRu": "Операционный конвейер, который заменяет человеческий перевод между документами и инструментами стандартизированными машиночитаемыми артефактами: требованиями, ограничительными правилами, диаграммами последовательности, репозиториями и контрольными точками ревью.",
       "aiImpact": "AI-first",
       "source": "R-MCK-AGSDLC-2026"
     },
@@ -7251,7 +7251,7 @@ window.GRAPH_DATA = {
       "confidence": 0.9,
       "status": "approved",
       "description": "Semantically linked organizational memory that connects decisions, customer feedback, architecture, tickets, incidents, compliance rules and work artifacts so agents can reason with context and every decision remains traceable.",
-      "descriptionRu": "Семантически связанная организационная память, соединяющая decisions, customer feedback, architecture, tickets, incidents, compliance rules и work artifacts, чтобы агенты могли рассуждать в контексте, а каждое решение оставалось traceable.",
+      "descriptionRu": "Семантически связанная организационная память, соединяющая решения, обратную связь клиентов, архитектуру, тикеты, инциденты, правила комплаенса и рабочие артефакты, чтобы агенты могли рассуждать в контексте, а каждое решение оставалось прослеживаемым.",
       "aiImpact": "AI-first",
       "source": "R-MCK-AGSDLC-2026"
     },
@@ -7279,7 +7279,7 @@ window.GRAPH_DATA = {
       "confidence": 0.87,
       "status": "approved",
       "description": "Resource-allocation practice that turns productivity gains from agentic execution into structural portfolio changes, smaller expert pods, accelerated road maps, platform modernization or new product capacity instead of passive cost takeout.",
-      "descriptionRu": "Практика распределения ресурсов, которая превращает productivity gains от agentic execution в структурные изменения portfolio, smaller expert pods, ускорение roadmaps, platform modernization или capacity для новых продуктов, а не только в сокращение затрат.",
+      "descriptionRu": "Практика перераспределения ресурсов, которая превращает прирост продуктивности от агентного исполнения в структурные изменения портфеля, небольшие экспертные команды, ускорение дорожных карт, модернизацию платформ или мощности для новых продуктов, а не только в сокращение затрат.",
       "aiImpact": "AI-first",
       "source": "R-MCK-AGSDLC-2026"
     },
@@ -7293,7 +7293,7 @@ window.GRAPH_DATA = {
       "confidence": 0.89,
       "status": "approved",
       "description": "Organizational capability for repeatedly identifying, stretching, mentoring, coaching and developing next-generation managers through real work, senior-leader involvement, performance systems and feedback rather than one-off courses.",
-      "descriptionRu": "Организационная способность регулярно выявлять, развивать через сложные задачи, наставлять, коучить и готовить следующее поколение менеджеров через реальную работу, участие senior leaders, системы результативности и обратную связь, а не через разовые курсы.",
+      "descriptionRu": "Организационная способность регулярно выявлять, развивать через сложные задачи, наставлять, коучить и готовить следующее поколение менеджеров через реальную работу, участие старших руководителей, системы результативности и обратную связь, а не через разовые курсы.",
       "aiImpact": "Zero-AI",
       "source": "R-MCK-Q125-LEAD-2025"
     },
@@ -8315,7 +8315,7 @@ window.GRAPH_DATA = {
       "confidence": 0.88,
       "status": "approved",
       "description": "Five-level maturity model that moves organizations from static career-development activity to leading talent velocity, where programs across leadership, learning, AI, integrated ecosystem and career power are embedded and measured.",
-      "descriptionRu": "Пятиуровневая модель зрелости, которая переводит организации от статичной карьерной активности к лидерству в talent velocity, где программы по лидерству, обучению, AI, интегрированной экосистеме талантов и карьерной самостоятельности встроены в работу и измеряются.",
+      "descriptionRu": "Пятиуровневая модель зрелости, которая переводит организации от статичной карьерной активности к лидерству в скорости движения талантов, где программы по лидерству, обучению, AI, интегрированной экосистеме талантов и карьерной самостоятельности встроены в работу и измеряются.",
       "aiImpact": "AI-supported",
       "source": "R-LINKEDIN-TV-2026"
     },
@@ -8469,7 +8469,7 @@ window.GRAPH_DATA = {
       "confidence": 0.86,
       "status": "approved",
       "description": "Leadership practice that embeds talent priorities, learning, mobility and career development into company operating rhythms so employee growth is visible alongside revenue growth and strategic execution.",
-      "descriptionRu": "Лидерская практика, которая встраивает talent-приоритеты, обучение, мобильность и карьерное развитие в операционный ритм компании, чтобы рост сотрудников был виден рядом с ростом выручки и исполнением стратегии.",
+      "descriptionRu": "Лидерская практика, которая встраивает приоритеты в работе с талантами, обучение, мобильность и карьерное развитие в операционный ритм компании, чтобы рост сотрудников был виден рядом с ростом выручки и исполнением стратегии.",
       "aiImpact": "AI-supported",
       "source": "R-LINKEDIN-TV-2026"
     },
@@ -8483,7 +8483,7 @@ window.GRAPH_DATA = {
       "confidence": 0.86,
       "status": "approved",
       "description": "Learning culture where development flows through daily work, microlearning, peer rituals, post-project debriefs, forums and AI-powered coaching rather than staying limited to formal programs and compliance training.",
-      "descriptionRu": "Культура обучения, в которой развитие встроено в ежедневную работу, microlearning, peer-ритуалы, разборы после проектов, форумы и AI-коучинг, а не ограничивается формальными программами и обучением по требованиям compliance.",
+      "descriptionRu": "Культура обучения, в которой развитие встроено в ежедневную работу: микрообучение, коллегиальные ритуалы, разборы после проектов, форумы и AI-коучинг, а не только формальные программы и обязательное обучение по комплаенсу.",
       "aiImpact": "AI-supported",
       "source": "R-LINKEDIN-TV-2026"
     },
