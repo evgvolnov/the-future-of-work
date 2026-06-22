@@ -399,7 +399,7 @@ font-weight: 100;
 
 .detail-copy, .empty-state p {color:#fff; font-size: 12px;}
 
-.control-card detail-card .empty-state p {color:#000;}
+.control-card .empty-state p {color:#000;}
 
 .evidence-card,
 .relation-row {
