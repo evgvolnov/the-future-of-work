@@ -193,7 +193,7 @@ function updateVisibility() {
   const count = visibleNodes().length;
   const edgeCount = links.filter((link) => link.a.visible && link.b.visible).length;
   const sources = sourceCounts();
-  stats.textContent = `${count} баблов, ${edgeCount} семантических связей, ${sources.total} источников: ${sources.pdfs} PDF, ${sources.articles} статей`;
+  stats.textContent = `${count} концепций, ${edgeCount} семантических связей, ${sources.total} источников: ${sources.pdfs} PDF, ${sources.articles} статей`;
 }
 
 function initControls() {
@@ -339,8 +339,8 @@ function draw() {
     ctx.beginPath();
     ctx.moveTo(link.a.x, link.a.y);
     ctx.lineTo(link.b.x, link.b.y);
-    ctx.strokeStyle = active ? "rgba(255,255,255,0.52)" : "rgba(255,255,255,0.08)";
-    ctx.lineWidth = active ? 1.7 : 0.7;
+    ctx.strokeStyle = active ? "rgba(255,255,255,0.72)" : "rgba(255,255,255,0.16)";
+    ctx.lineWidth = active ? 1.9 : 0.85;
     ctx.stroke();
   }
 
@@ -421,6 +421,7 @@ function setHovered(node, event) {
   state.hovered = node;
   if (!node) {
     tooltip.hidden = true;
+    tooltip.innerHTML = "";
     return;
   }
   tooltip.hidden = false;
@@ -458,7 +459,7 @@ function isPublicSourceUrl(url) {
 function reportLinkMarkup(report, label) {
   const text = escapeHtml(label);
   if (!isPublicSourceUrl(report?.url)) return text;
-  return `<a href="${escapeHtml(report.url)}" target="_blank" rel="noreferrer">${text}</a>`;
+  return `<a class="evidence-source-link" href="${escapeHtml(report.url)}" target="_blank" rel="noreferrer">${text}</a>`;
 }
 
 function statusLabel(status) {
@@ -490,15 +491,8 @@ function textRu(primary, fallback = "") {
 
 function extendedDescription(node, evidenceItems, reports) {
   const description = textRu(node.descriptionRu, node.description);
-  const pdfCount = reports.filter((report) => report.sourceType !== "article").length;
-  const articleCount = reports.filter((report) => report.sourceType === "article").length;
-  const sourceBits = [];
-  if (pdfCount) sourceBits.push(`${pdfCount} PDF-источник${pdfCount === 1 ? "ом" : "ами"}`);
-  if (articleCount) sourceBits.push(`${articleCount} стать${articleCount === 1 ? "ей" : "ями"}`);
-  const reportText = reports.length
-    ? `Сейчас оно подтверждено ${sourceBits.join(" и ")} и ${evidenceItems.length} evidence-фрагмент${evidenceItems.length === 1 ? "ом" : "ами"}.`
-    : "Сейчас это понятие находится на уровне таксономии и требует дополнительных evidence-фрагментов, привязанных к источникам.";
-  return `${description} В графе это понятие относится к уровню ${levelLabels[node.level] || node.level} внутри темы ${node.theme}. Статус: ${statusLabel(node.status)}. ${reportText}`;
+  const level = levelLabels[node.level] || node.level;
+  return `${description} В графе это понятие относится к уровню «${level}» внутри темы «${node.theme}».`;
 }
 
 function aliasList(node) {
@@ -521,7 +515,7 @@ function selectNode(node) {
       const other = link.a === node ? link.b : link.a;
       const relation = relationTypeLabel(link.type);
       const text = link.a === node ? `${relation}: ${other.label}` : `${other.label}: ${relation}`;
-      return `<div class="relation-row">${escapeHtml(text)}</div>`;
+      return `<li class="relation-row">${escapeHtml(text)}</li>`;
     })
     .join("");
   const evidence = evidenceItems
@@ -531,7 +525,7 @@ function selectNode(node) {
       const pages = String(item.pages || "");
       const pageText = report?.sourceType === "article" || !pages || pages === "url" ? "" : `, страницы: ${escapeHtml(pages)}`;
       const reportLink = report ? reportLinkMarkup(report, item.report) : escapeHtml(item.report);
-      return `<div class="evidence-card">${escapeHtml(textRu(item.excerptRu, item.excerpt))}<span>${reportLink}${pageText}</span></div>`;
+      return `<li class="evidence-card"><div>${escapeHtml(textRu(item.excerptRu, item.excerpt))}</div><span>${reportLink}${pageText}</span></li>`;
     })
     .join("");
   const pdfLinks = reports
@@ -557,11 +551,11 @@ function selectNode(node) {
     </div>
     <div class="control-card detail-card">
       <div class="detail-subhead">Семантические связи</div>
-      ${related || '<div class="empty-state"><p>При текущих фильтрах видимых связей нет.</p></div>'}
+      ${related ? `<ul class="relation-list">${related}</ul>` : '<div class="empty-state"><p>При текущих фильтрах видимых связей нет.</p></div>'}
     </div>
     <div class="control-card detail-card">
       <div class="detail-subhead">Фрагменты подтверждения</div>
-      ${evidence || '<div class="empty-state"><p>В прототипных данных пока нет короткого evidence-фрагмента.</p></div>'}
+      ${evidence ? `<ul class="evidence-list">${evidence}</ul>` : '<div class="empty-state"><p>В прототипных данных пока нет короткого evidence-фрагмента.</p></div>'}
     </div>
   `;
 }
@@ -580,6 +574,9 @@ canvas.addEventListener("mousemove", (event) => {
 });
 
 canvas.addEventListener("mouseleave", () => setHovered(null));
+canvas.addEventListener("mouseout", (event) => {
+  if (!canvas.contains(event.relatedTarget)) setHovered(null);
+});
 canvas.addEventListener("mousedown", (event) => {
   const pos = pointerPosition(event);
   state.dragging = findNodeAt(pos.x, pos.y);

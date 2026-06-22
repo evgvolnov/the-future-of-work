@@ -23,6 +23,7 @@ body {
     linear-gradient(0deg, #ffffff30 1px, transparent 1px),
     linear-gradient(90deg, #ffffff30 1px, transparent 1px);
   background-size: 60px 60px;
+  background-position: 30px -10px !important;
   background-color: #000000;
 }
 
@@ -71,6 +72,7 @@ button.active {
     linear-gradient(0deg, #ffffff30 1px, transparent 1px),
     linear-gradient(90deg, #ffffff30 1px, transparent 1px);
   background-size: 60px 60px;
+  background-position: 30px -10px !important;
   background-color: #000000;
 }
 
@@ -102,16 +104,6 @@ button.active {
   height: 40px;
   object-fit: contain;
   object-position: left center;
-}
-
-.topbar h1 {
-  margin: 0;
-  font-size: 20px;
-  line-height: 1.05;
-  letter-spacing: 0;
-  font-family: "IBM Plex Sans", ui-sans-serif, system-ui, sans-serif;
-  font-weight: 700;
-  text-transform: uppercase;
 }
 
 .topbar p {
@@ -195,10 +187,11 @@ button.active {
 .panel-title .detail-title {
   margin: 0;
   color: #fff;
-  font-size: 30px;
+  font-size: 17px;
   line-height: 1.05;
+  letter-spacing:0.7px;
   text-transform: uppercase;
-  font-weight: 700 !important;
+  font-weight: 500 !important;
   border: 0;
   padding: 0;
 }
@@ -226,8 +219,9 @@ button.active {
   color: #000;
   border-radius: 10px;
   padding: 17px;
-Padding-bottom:23px;
-Padding-top:23px;
+Padding-bottom:19px;
+Padding-top:19px;
+Margin-bottom:25px;
 
 
 }
@@ -360,7 +354,7 @@ font-weight: 100;
 }
 
 .details {
-  border-bottom: 1px solid #ffffff;
+ 
   padding-bottom: 18px;
 }
 
@@ -387,10 +381,10 @@ font-weight: 100;
 
 .empty-state span {
   display: block;
-  width: fit-content;
+  width: 100%;
   background-color: #000 !important;
   color: #fff !important;
-  font-size: 30px !important;
+  font-size: 40px !important;
   line-height: 1.05;
   text-transform: uppercase;
   white-space: normal;
@@ -405,12 +399,18 @@ font-weight: 100;
 
 .detail-copy, .empty-state p {color:#fff; font-size: 12px;}
 
+.control-card detail-card .empty-state p {color:#000;}
 
 .evidence-card,
 .relation-row {
   font-size: 12px;
 Color:#000;
   line-height: 1.45;
+
+}
+
+.relation-row::first-letter {
+  text-transform: uppercase;
 }
 
 .detail-kicker {
@@ -433,7 +433,7 @@ Color:#000;
 
 .detail-title {
   margin: 6px 0 10px;
-  font-size: 30px;
+  font-size: 40px;
   line-height: 1.05;
   font-family: "IBM Plex Sans", ui-sans-serif, system-ui, sans-serif;
   text-transform: uppercase;
@@ -492,6 +492,26 @@ Color:#000;
   background: transparent;
 }
 
+.relation-list,
+.evidence-list {
+  list-style: disc;
+  margin: 8px 0 0;
+  padding: 0 0 0 18px;
+}
+
+.relation-list .relation-row,
+.evidence-list .evidence-card {
+  display: list-item;
+  padding-left: 2px;
+  margin-top: 10px;
+}
+
+.relation-list .relation-row::marker,
+.evidence-list .evidence-card::marker {
+  color: #000;
+  font-size: 13px;
+}
+
 .relation-row strong {
   color: #000;
   font-weight: 400;
@@ -510,6 +530,15 @@ Color:#000;
 .evidence-card a,
 .source-link {
   color: #000;
+}
+
+.evidence-source-link {
+  color: #000 !important;
+  text-decoration-skip-ink: none;
+  text-decoration-color: #fd95d9 !important;
+  text-decoration: underline;
+  text-underline-offset: 2px !important;
+  text-decoration-thickness: 3px !important;
 }
 
 .source-link {
@@ -554,8 +583,8 @@ Color:#000;
 
 .source-link span {
   display: inline;
-  font-size: 15px;
-  line-height: 1.35;
+  font-size: 14px;
+  line-height: 1.4;
 }
 
 .tooltip {
@@ -574,6 +603,16 @@ Color:#000;
   font-size: 12px;
   line-height: 1.35;
   font-family: "IBM Plex Sans", ui-sans-serif, system-ui, sans-serif;
+}
+
+.tooltip[hidden] {
+  display: none !important;
+}
+
+.tooltip strong {
+  font-size: 14px;
+  line-height: 1.2;
+  text-transform: uppercase;
 }
 
 .tooltip-type {

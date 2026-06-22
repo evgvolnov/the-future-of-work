@@ -1,151 +1,151 @@
 window.GRAPH_DATA = {
-  "generatedAt": "2026-06-21T19:44:25",
+  "generatedAt": "2026-06-22T19:33:34",
   "reports": {
     "R-MCK-HRM-2026": {
       "title": "HR Monitor 2026: A turning point for the people function",
       "publisher": "McKinsey & Company",
       "year": "2026",
-      "url": "",
+      "url": "https://the-future-of-work.ru/reports/hr-monitor-2026",
       "sourceType": "pdf"
     },
     "R-BCG-AIW-2026": {
       "title": "AI at Work: Strategy Matters More Than Tools",
       "publisher": "Boston Consulting Group",
       "year": "2026",
-      "url": "",
+      "url": "https://the-future-of-work.ru/reports/ai-at-work-strategy-matters-more-than-tools",
       "sourceType": "pdf"
     },
     "R-TA-FOW-2026": {
       "title": "The Future of Work Report 2026: Lost and Found in Flexibility",
       "publisher": "Talent Alpha",
       "year": "2026",
-      "url": "",
+      "url": "https://the-future-of-work.ru/reports/future-of-work-report-2026-lost-found-in-flexibility",
       "sourceType": "pdf"
     },
     "R-JBC-HR2030-2026": {
       "title": "HR 2030: The Agentic HR Vision - Executive Summary",
-      "publisher": "The Josh Bersin Company",
+      "publisher": "Josh Bersin",
       "year": "2026",
-      "url": "",
+      "url": "https://the-future-of-work.ru/reports/hr-2030-the-agentic-hr-vision",
       "sourceType": "pdf"
     },
     "R-MS-WTI-2026": {
       "title": "2026 Work Trend Index Annual Report: Agents, human agency, and the opportunity for every organization",
       "publisher": "Microsoft WorkLab",
       "year": "2026",
-      "url": "",
+      "url": "https://the-future-of-work.ru/reports/2026-work-trend-index",
       "sourceType": "pdf"
     },
     "R-ACC-TR-2026": {
       "title": "Talent Reinventors: Delivering value with and for people in the age of AI",
       "publisher": "Accenture",
       "year": "2026",
-      "url": "",
+      "url": "https://the-future-of-work.ru/reports/talent-reinventors-delivering-value-with-and-for-people-in-the-age-of-ai",
       "sourceType": "pdf"
     },
     "R-MER-GTT-2026": {
       "title": "Global Talent Trends 2026: Driving exponential performance - Solving the human-machine equation",
       "publisher": "Mercer",
       "year": "2026",
-      "url": "",
+      "url": "https://the-future-of-work.ru/reports/global-talent-trends-2026-solving-the-humanmachine-equation",
       "sourceType": "pdf"
     },
     "R-DEL-GHCT-2026": {
       "title": "2026 Global Human Capital Trends: From tensions to tipping points - Choosing the human advantage",
       "publisher": "Deloitte",
       "year": "2026",
-      "url": "",
+      "url": "https://the-future-of-work.ru/reports/2026-global-human-capital-trends",
       "sourceType": "pdf"
     },
     "R-MCK-SOO-2026": {
       "title": "The State of Organizations 2026",
       "publisher": "McKinsey & Company",
       "year": "2026",
-      "url": "",
+      "url": "https://the-future-of-work.ru/reports/the-state-of-organizations-2026",
       "sourceType": "pdf"
     },
     "R-LC-FL-2026": {
       "title": "Fault Lines",
       "publisher": "Lightcast",
       "year": "2026",
-      "url": "",
+      "url": "https://the-future-of-work.ru/reports/fault-lines-the-three-cracks-in-the-global-labor-market",
       "sourceType": "pdf"
     },
     "R-BGI-BTB-2026": {
       "title": "Beyond the Binary: How Automation and Augmentation Are Combining to Reshape Work",
       "publisher": "Burning Glass Institute",
       "year": "2026",
-      "url": "",
+      "url": "https://the-future-of-work.ru/reports/beyond-the-binary-how-automation-and-augmentation-are-combining-to-reshape-work",
       "sourceType": "pdf"
     },
     "R-JBC-SWO-2026": {
       "title": "The Superworker Organization: AI Goes Enterprise - HR and Leadership Imperatives for 2026",
-      "publisher": "The Josh Bersin Company",
+      "publisher": "Josh Bersin",
       "year": "2026",
-      "url": "",
+      "url": "https://the-future-of-work.ru/reports/ai-goes-enterprise-hr-and-leadership-imperatives-for-2026",
       "sourceType": "pdf"
     },
     "R-MPG-HE-2026": {
       "title": "The Human Edge: 2026 Global Trends Report",
       "publisher": "ManpowerGroup",
       "year": "2026",
-      "url": "",
+      "url": "https://the-future-of-work.ru/reports/the-human-edge-global-future-of-work-trends",
       "sourceType": "pdf"
     },
     "R-GART-CHRO-FOW-2026": {
       "title": "CHRO Guide: 9 Future of Work Trends for 2026",
       "publisher": "Gartner",
       "year": "2026",
-      "url": "",
+      "url": "https://the-future-of-work.ru/reports/chro-guide-9-future-of-work-trends-for-2026",
       "sourceType": "pdf"
     },
     "R-WEF-FFJ-2026": {
       "title": "Four Futures for Jobs in the New Economy: AI and Talent in 2030",
       "publisher": "World Economic Forum",
       "year": "2026",
-      "url": "",
+      "url": "https://the-future-of-work.ru/reports/four-futures-for-jobs-in-the-new-economy-ai-and-talent-in-2030",
       "sourceType": "pdf"
     },
     "R-BCG-HRAI-2026": {
       "title": "Executive Perspectives: Human Resources - Unlocking Impact from GenAI and Agentic AI",
       "publisher": "Boston Consulting Group",
       "year": "2026",
-      "url": "",
+      "url": "https://the-future-of-work.ru/reports/bcg/the-reinvention-of-the-chro-in-an-ai-driven-enterprise",
       "sourceType": "pdf"
     },
     "R-BCG-CPA-2026": {
       "title": "Creating People Advantage 2026: Four Power Moves for the CHRO",
-      "publisher": "Boston Consulting Group and WFPMA",
+      "publisher": "Boston Consulting Group",
       "year": "2026",
-      "url": "",
+      "url": "https://the-future-of-work.ru/reports/four-power-moves-for-the-chro-creating-people-advantage-2026",
       "sourceType": "pdf"
     },
     "R-BCG-SBO-2025": {
       "title": "Skills-Based Organizations Aren't Reaching Their Potential. Here's How They Can Succeed.",
       "publisher": "Boston Consulting Group",
       "year": "2025",
-      "url": "",
+      "url": "https://the-future-of-work.ru/reports/skills-based-organizations-arent-reaching-their-potential-heres-how-they-can-succeed",
       "sourceType": "pdf"
     },
     "R-WEF-SFL-2026": {
       "title": "Shaping the Future of Learning: Education Readiness for the Age of AI",
       "publisher": "World Economic Forum",
       "year": "2026",
-      "url": "",
+      "url": "https://the-future-of-work.ru/reports/shaping-the-future-of-learning-education-readiness-for-the-age-of-ai",
       "sourceType": "pdf"
     },
     "R-IND-WA-2025": {
       "title": "Indeed Global Talent Report: How Workforce Agility Drives Business Results",
       "publisher": "Indeed",
       "year": "2025",
-      "url": "",
+      "url": "https://the-future-of-work.ru/reports/indeed-global-talent-report-how-workforce-agility-drives-business-results",
       "sourceType": "pdf"
     },
     "R-WT-AITAX-2026": {
       "title": "Mapping Tax Risks From Labour-Displacing AI",
       "publisher": "Windfall Trust",
       "year": "2026",
-      "url": "",
+      "url": "https://the-future-of-work.ru/reports/mapping-tax-risks-from-labour-displacing-ai",
       "sourceType": "pdf"
     },
     "R-WT-GDS-2026": {
@@ -159,56 +159,56 @@ window.GRAPH_DATA = {
       "title": "State of the Global Workplace: The Human Side of the AI Revolution",
       "publisher": "Gallup",
       "year": "2026",
-      "url": "",
+      "url": "https://the-future-of-work.ru/reports/state-of-the-global-workplace-2026",
       "sourceType": "pdf"
     },
     "R-MCK-ARU-EU-2026": {
       "title": "Agents, Robots, and Us: How AI Reshapes Work and Skills in Europe",
-      "publisher": "McKinsey Global Institute",
+      "publisher": "McKinsey & Company",
       "year": "2026",
-      "url": "",
+      "url": "https://the-future-of-work.ru/reports/agents-robots-and-us-how-ai-reshapes-work-and-skills-in-europe",
       "sourceType": "pdf"
     },
     "R-ILO-AIHRM-2025": {
       "title": "AI in Human Resource Management: The Limits of Empiricism",
       "publisher": "International Labour Organization",
       "year": "2025",
-      "url": "",
+      "url": "https://the-future-of-work.ru/reports/ai-in-human-resource-management-the-limits-of-empiricism",
       "sourceType": "pdf"
     },
     "R-ILO-EST-2026": {
       "title": "Employment and Social Trends 2026",
       "publisher": "International Labour Organization",
       "year": "2026",
-      "url": "",
+      "url": "https://the-future-of-work.ru/reports/employment-and-social-trends-2026",
       "sourceType": "pdf"
     },
     "R-WEF-FFNE-2025": {
       "title": "Four Futures for the New Economy: Geoeconomics and Technology in 2030",
       "publisher": "World Economic Forum",
       "year": "2025",
-      "url": "",
+      "url": "https://the-future-of-work.ru/reports/four-futures-for-the-new-economy-geoeconomics-and-technology-in-2030",
       "sourceType": "pdf"
     },
     "R-WEF-OTAI-2026": {
       "title": "Organizational Transformation in the Age of AI: How Organizations Maximize AI's Potential",
-      "publisher": "World Economic Forum and Accenture",
+      "publisher": "World Economic Forum",
       "year": "2026",
-      "url": "",
+      "url": "https://the-future-of-work.ru/reports/organizational-transformation-in-the-age-of-ai-how-organizations-maximize-ais-potential",
       "sourceType": "pdf"
     },
     "R-WEF-NES-2025": {
       "title": "New Economy Skills: Building AI, Data and Digital Capabilities for Growth",
-      "publisher": "World Economic Forum and Cognizant",
+      "publisher": "World Economic Forum",
       "year": "2025",
-      "url": "",
+      "url": "https://the-future-of-work.ru/reports/new-economy-skills-building-ai-data-and-digital-capabilities-for-growth",
       "sourceType": "pdf"
     },
     "R-WAI-INDEX-2026": {
       "title": "The Work AI Index: Global Botsitting, botshitting, and the hidden human labor of AI at work",
       "publisher": "Work AI Institute",
       "year": "2026",
-      "url": "",
+      "url": "https://the-future-of-work.ru/reports/the-work-ai-index-2026",
       "sourceType": "pdf"
     },
     "R-AIHR-HRT-2025": {
@@ -220,42 +220,42 @@ window.GRAPH_DATA = {
     },
     "R-EMERGE-HCD-2026": {
       "title": "AI and the Future of Work: How a $4 Trillion Market Is Reshaping How We Learn, Hire and Work",
-      "publisher": "Emerge Insights / Medium",
+      "publisher": "Emerge",
       "year": "2026",
-      "url": "",
+      "url": "https://medium.com/emerge-edtech-insights/ai-and-the-future-of-work-how-a-4-trillion-market-is-reshaping-how-we-learn-hire-and-work-fefad25ae0b1",
       "sourceType": "article"
     },
     "R-EMERGE-CNAV-2025": {
       "title": "The future of career navigation",
-      "publisher": "Emerge Insights / Medium",
+      "publisher": "Emerge",
       "year": "2025",
-      "url": "",
+      "url": "https://medium.com/emerge-edtech-insights/the-future-of-career-navigation-182ae81be8a7",
       "sourceType": "article"
     },
     "R-EMERGE-TA-2025": {
       "title": "The Future of Talent Acquisition: How AI is Transforming Recruitment and Hiring",
-      "publisher": "Emerge Insights / Medium",
+      "publisher": "Emerge",
       "year": "2025",
-      "url": "",
+      "url": "https://medium.com/emerge-edtech-insights/the-future-of-talent-acquisition-how-ai-is-transforming-recruitment-and-hiring-69589f6c7ee4",
       "sourceType": "article"
     },
     "R-EMERGE-AICNAV-2025": {
       "title": "AI Career Navigation: How Intelligent Talent Platforms Are Disrupting the $1.8tn Hiring Market",
-      "publisher": "Emerge Insights / Medium",
+      "publisher": "Emerge",
       "year": "2025",
-      "url": "",
+      "url": "https://medium.com/emerge-edtech-insights/ai-career-navigation-how-intelligent-talent-platforms-are-disrupting-the-1-8tn-hiring-market-b4f114f8e22f",
       "sourceType": "article"
     },
     "R-EMERGE-HCDD-2026": {
       "title": "Human Capital Development Market Deep Dive",
-      "publisher": "Emerge Capital",
+      "publisher": "Emerge",
       "year": "2026",
-      "url": "",
+      "url": "https://the-future-of-work.ru/reports/market-deep-dive-human-capital-development",
       "sourceType": "pdf"
     },
     "R-A16Z-AIJA-2026": {
       "title": "The \"AI Job Apocalypse\" Is a Complete Fantasy",
-      "publisher": "a16z / Substack",
+      "publisher": "Andreessen Horowitz",
       "year": "2026",
       "url": "https://www.a16z.news/p/the-ai-job-apocalypse-is-a-complete",
       "sourceType": "article"
@@ -481,7 +481,7 @@ window.GRAPH_DATA = {
       "title": "The Future of Talent Strategy",
       "publisher": "Gartner",
       "year": "2026",
-      "url": "",
+      "url": "https://the-future-of-work.ru/reports/the-future-of-talent-strategy-a-chros-guide",
       "sourceType": "pdf"
     },
     "R-AIHR-HRTRENDS-2026": {
@@ -511,6 +511,104 @@ window.GRAPH_DATA = {
       "year": "2026",
       "url": "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/rewiring-software-delivery-for-the-agentic-era",
       "sourceType": "article"
+    },
+    "R-MCK-Q125-LEAD-2025": {
+      "title": "McKinsey Quarterly 2025 #1: The Future of Leadership",
+      "publisher": "McKinsey & Company",
+      "year": "2025",
+      "url": "https://the-future-of-work.ru/the-future-of-leadership",
+      "sourceType": "pdf"
+    },
+    "R-FWF-MM-2026": {
+      "title": "The Future of Middle Management",
+      "publisher": "Future Work Forum",
+      "year": "2026",
+      "url": "https://the-future-of-work.ru/reports/future-of-middle-management",
+      "sourceType": "pdf"
+    },
+    "R-BCG-FOF-2026": {
+      "title": "Corporate Functions of the Future Won't Look Like Functions at All",
+      "publisher": "Boston Consulting Group",
+      "year": "2026",
+      "url": "https://the-future-of-work.ru/reports/corporate-functions-of-the-future-wont-look-like-functions-at-all",
+      "sourceType": "pdf"
+    },
+    "R-WEF-NGL-2026": {
+      "title": "Next Generation Leadership for a World in Transformation: Driving Dialogue and Action",
+      "publisher": "World Economic Forum",
+      "year": "2026",
+      "url": "https://the-future-of-work.ru/reports/next-generation-leadership-for-a-world-in-transformation-driving-dialogue-and-action",
+      "sourceType": "pdf"
+    },
+    "R-IBM-CEO-2026": {
+      "title": "2026 CEO Study: Rewiring the C-suite - The fast track to 2030",
+      "publisher": "IBM Institute for Business Value",
+      "year": "2026",
+      "url": "https://the-future-of-work.ru/reports/rewiring-the-c-suite-the-fast-track-to-2030",
+      "sourceType": "pdf"
+    },
+    "R-IBM-ENT2030-2026": {
+      "title": "The enterprise in 2030: Engineered for perpetual innovation",
+      "publisher": "IBM Institute for Business Value",
+      "year": "2026",
+      "url": "https://the-future-of-work.ru/reports/the-enterprise-in-2030",
+      "sourceType": "pdf"
+    },
+    "R-IBM-TRENDS26-2026": {
+      "title": "5 trends for 2026: Capture fleeting opportunities with confidence",
+      "publisher": "IBM Institute for Business Value",
+      "year": "2026",
+      "url": "https://the-future-of-work.ru/reports/5-trends-for-2026",
+      "sourceType": "pdf"
+    },
+    "R-IBM-CEO25-MINDSHIFTS-2025": {
+      "title": "2025 CEO Study: 5 mindshifts to supercharge business growth",
+      "publisher": "IBM Institute for Business Value",
+      "year": "2025",
+      "url": "https://the-future-of-work.ru/reports/5-mindshifts-to-superchargebusiness-growth",
+      "sourceType": "pdf"
+    },
+    "R-LINKEDIN-TV-2026": {
+      "title": "2026 LinkedIn Talent Report: The talent velocity advantage",
+      "publisher": "LinkedIn",
+      "year": "2026",
+      "url": "https://the-future-of-work.ru/reports/the-talent-velocity-advantage",
+      "sourceType": "pdf"
+    },
+    "R-ACC-LR25-2025": {
+      "title": "Learning, Reinvented: Accelerating collaboration between humans and AI",
+      "publisher": "Accenture",
+      "year": "2025",
+      "url": "https://the-future-of-work.ru/reports/learning-reinvented-accelerating-humanai-collaboration",
+      "sourceType": "pdf"
+    },
+    "R-OAI-AIJTF-2026": {
+      "title": "The AI Jobs Transition Framework: Mapping AI’s Near-Term Impact on Jobs",
+      "publisher": "OpenAI Economic Research",
+      "year": "2026",
+      "url": "https://the-future-of-work.ru/reports/the-ai-jobs-transition-framework",
+      "sourceType": "pdf"
+    },
+    "R-WEF-CPO26-2026": {
+      "title": "Chief People Officers’ Outlook May 2026",
+      "publisher": "World Economic Forum",
+      "year": "2026",
+      "url": "https://the-future-of-work.ru/reports/chief-people-officers-outlook-may-2026",
+      "sourceType": "pdf"
+    },
+    "R-ACC-COINT-2026": {
+      "title": "The Age of Co-Intelligence: How Humans, AI Agents and Robots Are Redefining Value",
+      "publisher": "Accenture",
+      "year": "2026",
+      "url": "https://the-future-of-work.ru/reports/the-age-of-co-intelligence-how-humans-ai-agents-and-robots-are-redefining-value",
+      "sourceType": "pdf"
+    },
+    "R-LINKEDIN-LMR-2026": {
+      "title": "Labor Market Report: Building a Future of Work That Works",
+      "publisher": "LinkedIn",
+      "year": "2026",
+      "url": "https://the-future-of-work.ru/reports/labor-market-report",
+      "sourceType": "pdf"
     }
   },
   "themes": {
@@ -530,9 +628,9 @@ window.GRAPH_DATA = {
     "Talent Marketplaces and Platforms": "#FFBE0B",
     "Agentic HR Architecture": "#00A6A6",
     "Work Design and Operating Model": "#FD95D9",
-    "Regional Talent Hubs": "#F97316",
-    "Employee Experience and Wellbeing": "#14B8A6",
-    "Leadership and Management": "#E879F9"
+    "Leadership and Management": "#E879F9",
+    "Regional Talent Hubs": "#14B8A6",
+    "Employee Experience and Wellbeing": "#E879F9"
   },
   "nodes": [
     {
@@ -545,7 +643,7 @@ window.GRAPH_DATA = {
       "confidence": 0.86,
       "status": "candidate",
       "description": "Work model where human judgment and AI or agentic systems jointly perform tasks, reshape roles, and change capability needs.",
-      "descriptionRu": "Модель работы, в которой человеческое суждение и AI или agentic-системы совместно выполняют задачи, меняют роли и формируют новые требования к компетенциям.",
+      "descriptionRu": "Модель работы, в которой человеческое суждение и AI или агентные системы совместно выполняют задачи, меняют роли и формируют новые требования к компетенциям.",
       "aiImpact": "AI-first",
       "source": "R-MCK-HRM-2026"
     },
@@ -587,7 +685,7 @@ window.GRAPH_DATA = {
       "confidence": 0.87,
       "status": "candidate",
       "description": "Structured inventory of skills used to document capabilities, identify adjacencies, and support evidence-based talent decisions.",
-      "descriptionRu": "Структурированный реестр навыки, который используется для описания компетенций, выявления смежностей и поддержки evidence-based решений о талантах.",
+      "descriptionRu": "Структурированный реестр навыков, который используется для описания компетенций, выявления смежностей и поддержки решений о талантах на основе данных и доказательств.",
       "aiImpact": "AI-supported",
       "source": "R-MCK-HRM-2026"
     },
@@ -601,7 +699,7 @@ window.GRAPH_DATA = {
       "confidence": 0.83,
       "status": "candidate",
       "description": "Forecasting workforce needs at the skill level rather than only by role, position, or job family.",
-      "descriptionRu": "Прогнозирование потребностей в рабочей силе на уровне навыки, а не только по ролям, позициям или job families.",
+      "descriptionRu": "Прогнозирование потребностей в рабочей силе на уровне навыков, а не только по ролям, позициям или семействам должностей.",
       "aiImpact": "AI-supported",
       "source": "R-MCK-HRM-2026"
     },
@@ -657,7 +755,7 @@ window.GRAPH_DATA = {
       "confidence": 0.8,
       "status": "candidate",
       "description": "Use of AI or digital tools to automate screening, coordination, communication, and other hiring workflow tasks.",
-      "descriptionRu": "Использование AI или цифровых инструментов для автоматизации скрининга, координации, коммуникации и других задач hiring рабочий процесс.",
+      "descriptionRu": "Использование AI или цифровых инструментов для автоматизации скрининга, координации, коммуникации и других задач процесса найма.",
       "aiImpact": "AI-first",
       "source": "R-MCK-HRM-2026"
     },
@@ -671,7 +769,7 @@ window.GRAPH_DATA = {
       "confidence": 0.78,
       "status": "candidate",
       "description": "Building candidate relationships before roles open to reduce reactive hiring and sourcing time.",
-      "descriptionRu": "Выстраивание отношений с кандидатами до открытия конкретных вакансий, чтобы снизить реактивность найма и сократить время sourcing.",
+      "descriptionRu": "Выстраивание отношений с кандидатами до открытия конкретных вакансий, чтобы снизить реактивность найма и сократить время поиска кандидатов.",
       "aiImpact": "AI-supported",
       "source": "R-MCK-HRM-2026"
     },
@@ -699,7 +797,7 @@ window.GRAPH_DATA = {
       "confidence": 0.82,
       "status": "candidate",
       "description": "Using expectations, feedback, and performance insights to guide skill development and learning priorities.",
-      "descriptionRu": "Использование ожиданий, обратной связи и performance-инсайтов для управления развитием навыки и приоритетами обучения.",
+      "descriptionRu": "Использование ожиданий, обратной связи и данных о результативности для управления развитием навыков и приоритетами обучения.",
       "aiImpact": "AI-supported",
       "source": "R-MCK-HRM-2026"
     },
@@ -755,7 +853,7 @@ window.GRAPH_DATA = {
       "confidence": 0.78,
       "status": "candidate",
       "description": "Clear communication about compensation approach, total rewards, and links between performance and pay decisions.",
-      "descriptionRu": "Прозрачная коммуникация о подходе к оплате, total rewards и связи между результативностью и решениями о вознаграждении.",
+      "descriptionRu": "Прозрачная коммуникация о подходе к оплате, совокупному вознаграждению и связи между результативностью и решениями о вознаграждении.",
       "aiImpact": "AI-supported",
       "source": "R-MCK-HRM-2026"
     },
@@ -797,7 +895,7 @@ window.GRAPH_DATA = {
       "confidence": 0.88,
       "status": "candidate",
       "description": "Harmonized HR architecture with interoperable data across the employee life cycle to support AI, self-service, and EX.",
-      "descriptionRu": "Согласованная HR-архитектура с интероперабельными данными по всему employee life cycle для поддержки AI, self-service и опыт сотрудника.",
+      "descriptionRu": "Согласованная HR-архитектура с интероперабельными данными по всему жизненному циклу сотрудника для поддержки AI, самообслуживания и опыта сотрудника.",
       "aiImpact": "AI-first",
       "source": "R-MCK-HRM-2026"
     },
@@ -1063,7 +1161,7 @@ window.GRAPH_DATA = {
       "confidence": 0.9,
       "status": "approved",
       "description": "Canonical concept for redesigning workflows, processes, roles, and task flows around AI rather than layering AI tools on top of existing work.",
-      "descriptionRu": "Каноническое понятие для перепроектирование рабочие процессы, процессов, ролей и task flows вокруг AI, а не наложения AI tools поверх существующей работы.",
+      "descriptionRu": "Каноническое понятие для сквозного перепроектирования рабочих процессов, ролей и потоков задач вокруг AI, а не наложения AI-инструментов поверх существующей работы.",
       "aiImpact": "AI-first",
       "source": "Taxonomy synthesis"
     },
@@ -1077,7 +1175,7 @@ window.GRAPH_DATA = {
       "confidence": 0.88,
       "status": "approved",
       "description": "Canonical concept for rules, oversight, accountability, and continuous steering of human-AI teams and agent-enabled work.",
-      "descriptionRu": "Каноническое понятие для правил, контроль, ответственность и непрерывного steering human-AI teams и agent-enabled work.",
+      "descriptionRu": "Каноническое понятие для правил, контроля, ответственности и непрерывного управленческого сопровождения human-AI команд и работы с поддержкой агентов.",
       "aiImpact": "AI-first",
       "source": "Taxonomy synthesis"
     },
@@ -1091,7 +1189,7 @@ window.GRAPH_DATA = {
       "confidence": 0.89,
       "status": "candidate",
       "description": "Workforce model combining internal employees with external specialists, partners, freelancers, software houses, project teams, and platform-based talent.",
-      "descriptionRu": "Модель рабочей силы, объединяющая внутренних сотрудников с внешними специалистами, партнерами, freelancers, software houses, проектными командами и platform-based talent.",
+      "descriptionRu": "Модель рабочей силы, объединяющая внутренних сотрудников с внешними специалистами, партнёрами, фрилансерами, разработческими компаниями, проектными командами и специалистами с платформ.",
       "aiImpact": "Zero-AI",
       "source": "R-TA-FOW-2026"
     },
@@ -1105,7 +1203,7 @@ window.GRAPH_DATA = {
       "confidence": 0.88,
       "status": "candidate",
       "description": "Umbrella concept for outsourcing, subcontracting, gig work, freelance work, staff augmentation, team leasing, and project-based external work.",
-      "descriptionRu": "Зонтичное понятие для outsourcing, subcontracting, gig work, freelance work, staff augmentation, team leasing и проектной внешней работы.",
+      "descriptionRu": "Зонтичное понятие для аутсорсинга, субподряда, гиг-работы, фриланса, усиления штата, аренды команд и проектной внешней работы.",
       "aiImpact": "Zero-AI",
       "source": "R-TA-FOW-2026"
     },
@@ -1119,7 +1217,7 @@ window.GRAPH_DATA = {
       "confidence": 0.87,
       "status": "candidate",
       "description": "Curated platforms that connect organizations with verified external providers, software houses, specialists, or project teams.",
-      "descriptionRu": "Курируемые платформы, которые соединяют организации с проверенными внешними провайдерами, software houses, специалистами или проектными командами.",
+      "descriptionRu": "Курируемые платформы, которые соединяют организации с проверенными внешними провайдерами, разработческими компаниями, специалистами или проектными командами.",
       "aiImpact": "Zero-AI",
       "source": "R-TA-FOW-2026"
     },
@@ -1133,7 +1231,7 @@ window.GRAPH_DATA = {
       "confidence": 0.84,
       "status": "candidate",
       "description": "Delivery model where individual specialists or full teams augment internal capacity for projects or capability gaps.",
-      "descriptionRu": "Delivery model, при котором отдельные специалисты или полные команды усиливают внутреннюю мощность для проектов или закрытия capability gaps.",
+      "descriptionRu": "Модель выполнения работы, при которой отдельные специалисты или полные команды усиливают внутреннюю мощность для проектов или закрытия разрывов в компетенциях.",
       "aiImpact": "Zero-AI",
       "source": "R-TA-FOW-2026"
     },
@@ -1147,7 +1245,7 @@ window.GRAPH_DATA = {
       "confidence": 0.86,
       "status": "candidate",
       "description": "Rules, processes, trust mechanisms, quality controls, compliance, and coordination needed to manage distributed internal-external workforces coherently.",
-      "descriptionRu": "Правила, процессы, механизмы доверия, контроль качества, compliance и координация, необходимые для согласованного управления распределенной internal-external workforce.",
+      "descriptionRu": "Правила, процессы, механизмы доверия, контроль качества, соответствие требованиям и координация, необходимые для согласованного управления смешанной внутренней и внешней рабочей силой.",
       "aiImpact": "Zero-AI",
       "source": "R-TA-FOW-2026"
     },
@@ -1161,7 +1259,7 @@ window.GRAPH_DATA = {
       "confidence": 0.84,
       "status": "candidate",
       "description": "Management capability that grants workers agency while maintaining clear priorities, mature processes, and accountability for outcomes.",
-      "descriptionRu": "Управленческая способность давать работникам agency, сохраняя ясные приоритеты, зрелые процессы и ответственность за outcomes.",
+      "descriptionRu": "Управленческая способность давать работникам субъектность и автономию, сохраняя ясные приоритеты, зрелые процессы и ответственность за результаты.",
       "aiImpact": "Zero-AI",
       "source": "R-TA-FOW-2026"
     },
@@ -1175,7 +1273,7 @@ window.GRAPH_DATA = {
       "confidence": 0.82,
       "status": "candidate",
       "description": "Designing fairness, access, inclusion, digital belonging, and AI literacy into systems where freelancers, contractors, AI agents, and employees collaborate.",
-      "descriptionRu": "Проектирование fairness, access, inclusion, digital belonging и AI literacy в системах, где freelancers, contractors, AI-агенты и employees работают совместно.",
+      "descriptionRu": "Проектирование справедливости, доступа, инклюзии, цифровой принадлежности и AI-грамотности в системах, где фрилансеры, подрядчики, AI-агенты и сотрудники работают совместно.",
       "aiImpact": "AI-first",
       "source": "R-TA-FOW-2026"
     },
@@ -1189,7 +1287,7 @@ window.GRAPH_DATA = {
       "confidence": 0.82,
       "status": "candidate",
       "description": "Regional supply markets that provide specialized technology talent with proximity, legal alignment, cost-quality positioning, and delivery maturity.",
-      "descriptionRu": "Региональные рынки предложения, которые дают специализированный technology talent с близостью, правовой совместимостью, cost-quality positioning и зрелостью delivery.",
+      "descriptionRu": "Региональные рынки предложения, которые дают специализированных технологических специалистов с географической близостью, правовой совместимостью, хорошим соотношением стоимости и качества и зрелостью исполнения.",
       "aiImpact": "Zero-AI",
       "source": "R-TA-FOW-2026"
     },
@@ -1203,7 +1301,7 @@ window.GRAPH_DATA = {
       "confidence": 0.8,
       "status": "candidate",
       "description": "Market pressure where cost optimization matters, but client retention and project success depend more heavily on specialist quality and collaboration.",
-      "descriptionRu": "Рыночное давление, при котором оптимизация затрат важна, но удержание клиентов и успех проектов сильнее зависят от качества специалистов и сотрудничества.",
+      "descriptionRu": "Паттерн снижения качества работы или коммуникации, возникающий при использовании внешней рабочей силы без достаточного контроля качества, контекста, интеграции или общего стандарта результата.",
       "aiImpact": "Zero-AI",
       "source": "R-TA-FOW-2026"
     },
@@ -1217,7 +1315,7 @@ window.GRAPH_DATA = {
       "confidence": 0.82,
       "status": "candidate",
       "description": "Organizational ability to adapt and maintain delivery capacity by using flexible external talent models and partner ecosystems.",
-      "descriptionRu": "Способность организации адаптироваться и сохранять delivery capacity за счет гибких моделей внешнего таланта и партнерских экосистем.",
+      "descriptionRu": "Способность организации адаптироваться и сохранять мощность исполнения за счёт гибких моделей внешнего таланта и партнёрских экосистем.",
       "aiImpact": "Zero-AI",
       "source": "R-TA-FOW-2026"
     },
@@ -1763,7 +1861,7 @@ window.GRAPH_DATA = {
       "confidence": 0.89,
       "status": "candidate",
       "description": "Forward-looking capability to use workforce intelligence, predictive analytics, scenario planning, and talent signals to anticipate people risks and pivot workforce strategy at pace.",
-      "descriptionRu": "Ориентированная на будущее способность использовать аналитику рабочей силы, предиктивную аналитику, сценарное планирование и сигналы о талантах, чтобы заранее видеть people risks и быстро менять стратегию рабочей силы.",
+      "descriptionRu": "Ориентированная на будущее способность использовать аналитику рабочей силы, предиктивную аналитику, сценарное планирование и сигналы о талантах, чтобы заранее видеть кадровые риски и быстро менять стратегию рабочей силы.",
       "aiImpact": "AI-supported",
       "source": "R-MER-GTT-2026"
     },
@@ -2015,7 +2113,7 @@ window.GRAPH_DATA = {
       "confidence": 0.84,
       "status": "candidate",
       "description": "Use of AI tools, sensing, coaching, onboarding, recognition, and communication to reinforce values, open dialogue, psychological safety, healthy norms, and culture change.",
-      "descriptionRu": "Использование AI-инструментов, sensing, коучинга, onboarding, признания и коммуникаций для укрепления ценностей, открытого диалога, психологической безопасности, здоровых норм и культурных изменений.",
+      "descriptionRu": "Использование AI-инструментов, мониторинга сигналов, коучинга, адаптации новых сотрудников, признания и коммуникаций для укрепления ценностей, открытого диалога, психологической безопасности, здоровых норм и культурных изменений.",
       "aiImpact": "AI-first",
       "source": "R-DEL-GHCT-2026"
     },
@@ -2281,7 +2379,7 @@ window.GRAPH_DATA = {
       "confidence": 0.84,
       "status": "candidate",
       "description": "D&I approach that links inclusion efforts to measurable outcomes, innovation, belonging, retention, decision quality, customer appeal, and business competitiveness.",
-      "descriptionRu": "Подход к diversity & inclusion, который связывает усилия по инклюзии с измеримыми результатами, инновациями, чувством принадлежности, удержанием, качеством решений, привлекательностью для клиентов и конкурентоспособностью бизнеса.",
+      "descriptionRu": "Подход к разнообразию и инклюзии, который связывает усилия по инклюзии с измеримыми результатами, инновациями, чувством принадлежности, удержанием, качеством решений, привлекательностью для клиентов и конкурентоспособностью бизнеса.",
       "aiImpact": "AI-supported",
       "source": "R-MCK-SOO-2026"
     },
@@ -2645,7 +2743,7 @@ window.GRAPH_DATA = {
       "confidence": 0.9,
       "status": "candidate",
       "description": "Enterprise model where AI, agents, superagents, redesigned workflows, superworkers, and supermanagers combine to raise capability density and transform work beyond individual productivity.",
-      "descriptionRu": "Корпоративная модель, в которой AI, агенты, superagents, перепроектированные рабочие процессы, superworkers и supermanagers вместе повышают плотность возможностей и трансформируют работу за пределами индивидуальной продуктивности.",
+      "descriptionRu": "Корпоративная модель, в которой AI, агенты, суперагенты, перепроектированные рабочие процессы, superworkers и supermanagers вместе повышают плотность возможностей и трансформируют работу за пределами индивидуальной продуктивности.",
       "aiImpact": "AI-first",
       "source": "R-JBC-SWO-2026"
     },
@@ -2673,7 +2771,7 @@ window.GRAPH_DATA = {
       "confidence": 0.89,
       "status": "candidate",
       "description": "HR operating model where superagents integrate employee services, TA, L&D, talent management, scheduling, rewards, feedback, and support into real-time, data-driven employee experiences.",
-      "descriptionRu": "Операционная модель HR, в которой superagents объединяют сервисы для сотрудников, TA, L&D, управление талантами, планирование расписаний, вознаграждение, обратную связь и поддержку в единый, основанный на данных опыт сотрудника в реальном времени.",
+      "descriptionRu": "Операционная модель HR, в которой суперагенты объединяют сервисы для сотрудников, подбор персонала, L&D, управление талантами, планирование расписаний, вознаграждение, обратную связь и поддержку в единый опыт сотрудника в реальном времени на основе данных.",
       "aiImpact": "AI-first",
       "source": "R-JBC-SWO-2026"
     },
@@ -2869,7 +2967,7 @@ window.GRAPH_DATA = {
       "confidence": 0.86,
       "status": "candidate",
       "description": "Emerging standard set of AI literacy and fluency competencies including prompt engineering, critical analysis of AI output, ethical deployment, workflow judgment, and inclusive access to training.",
-      "descriptionRu": "Формирующийся стандартный набор компетенций AI-грамотности и AI-fluency, включая prompt engineering, критический анализ AI-вывода, этичное внедрение, суждение о рабочих процессах и инклюзивный доступ к обучению.",
+      "descriptionRu": "Формирующийся стандартный набор компетенций AI-грамотности, включая промптинг, критический анализ AI-вывода, этичное внедрение, суждение о рабочих процессах и инклюзивный доступ к обучению.",
       "aiImpact": "AI-first",
       "source": "R-MPG-HE-2026"
     },
@@ -3499,7 +3597,7 @@ window.GRAPH_DATA = {
       "confidence": 0.86,
       "status": "candidate",
       "description": "Phased implementation pattern where skills-based pilots and use cases build on each other, demonstrate measurable business value, and then scale across functions or business units.",
-      "descriptionRu": "Поэтапный паттерн внедрения, при котором skills-based пилоты и сценарии использования наращиваются друг на друга, демонстрируют измеримую бизнес-ценность и затем масштабируются по функциям или бизнес-единицам.",
+      "descriptionRu": "Поэтапный паттерн внедрения, при котором пилоты и сценарии skills-based organization наращиваются друг на друга, демонстрируют измеримую бизнес-ценность и затем масштабируются по функциям или бизнес-единицам.",
       "aiImpact": "AI-supported",
       "source": "R-BCG-SBO-2025"
     },
@@ -4269,7 +4367,7 @@ window.GRAPH_DATA = {
       "confidence": 0.9,
       "status": "approved",
       "description": "Condition where headline unemployment remains stable but progress on decent work, job quality, working poverty, informality and wage employment slows or reverses.",
-      "descriptionRu": "Состояние, при котором общий уровень безработицы остается стабильным, но прогресс по достойному труду, качеству рабочих мест, работающей бедности, неформальной занятости и наемной занятости замедляется или разворачивается назад.",
+      "descriptionRu": "Состояние, при котором общий уровень безработицы остается стабильным, но улучшение качества занятости останавливается: медленнее снижается бедность среди занятых, сохраняется неформальная работа, а доступ к стабильной наемной занятости и достойным условиям труда не растет.",
       "aiImpact": "Zero-AI",
       "source": "R-ILO-EST-2026"
     },
@@ -4283,7 +4381,7 @@ window.GRAPH_DATA = {
       "confidence": 0.89,
       "status": "approved",
       "description": "Risk that working poverty and informal employment stop declining or begin rising again, especially in low-income economies, limiting social protection, job security, training and productivity.",
-      "descriptionRu": "Риск того, что работающая бедность и неформальная занятость перестают снижаться или снова начинают расти, особенно в экономиках с низким доходом, ограничивая социальную защиту, безопасность занятости, обучение и продуктивность.",
+      "descriptionRu": "Риск, при котором бедность среди занятых и неформальная занятость перестают снижаться или снова начинают расти, особенно в экономиках с низким доходом. Это ограничивает доступ людей к социальной защите, стабильной работе, обучению и росту продуктивности.",
       "aiImpact": "Zero-AI",
       "source": "R-ILO-EST-2026"
     },
@@ -5459,7 +5557,7 @@ window.GRAPH_DATA = {
       "confidence": 0.88,
       "status": "approved",
       "description": "Organization-level capability that makes learning a core business engine by aligning business, talent and technology leaders around skills that unlock enterprise value as work changes.",
-      "descriptionRu": "Организационная способность сделать обучение ядром бизнес-результативности: согласовать бизнес-, talent- и technology-лидеров вокруг навыков, которые раскрывают корпоративную ценность по мере изменения работы.",
+      "descriptionRu": "Организационная способность сделать обучение ядром бизнес-результативности: согласовать бизнес-лидеров, лидеров по талантам и технологических лидеров вокруг навыков, которые раскрывают корпоративную ценность по мере изменения работы.",
       "aiImpact": "AI-supported",
       "source": "R-MCK-LDAI-2026"
     },
@@ -5893,7 +5991,7 @@ window.GRAPH_DATA = {
       "confidence": 0.86,
       "status": "approved",
       "description": "Shift in L&D and learning vendors from building static courses toward curating expertise, labeling content, mapping competencies, and making expert knowledge accessible through AI agents.",
-      "descriptionRu": "Сдвиг в L&D и learning-вендорах от создания статических курсов к кураторству экспертизы, разметке контента, маппингу компетенций и доступу к экспертным знаниям через AI-агентов.",
+      "descriptionRu": "Сдвиг в L&D и у поставщиков решений для обучения от создания статических курсов к кураторству экспертизы, разметке контента, маппингу компетенций и доступу к экспертным знаниям через AI-агентов.",
       "aiImpact": "AI-supported",
       "source": "R-JB-LTECH-2026"
     },
@@ -6075,13 +6173,13 @@ window.GRAPH_DATA = {
       "confidence": 0.86,
       "status": "approved",
       "description": "Practice stack that positions L&D as facilitation, enablement, change management, internal marketing, performance consulting, co-creation, experience design, systemic thinking, behavioral science and foresight.",
-      "descriptionRu": "Набор практик, в котором L&D выступает как фасилитация, enablement, управление изменениями, внутренний маркетинг, performance consulting, совместное создание решений, дизайн опыта, системное мышление, поведенческая наука и foresight.",
+      "descriptionRu": "Набор практик, в котором L&D выступает как фасилитация, развитие возможностей, управление изменениями, внутренний маркетинг, консультирование по результативности, совместное создание решений, дизайн опыта, системное мышление, поведенческая наука и форсайт.",
       "aiImpact": "AI-supported",
       "source": "R-OFF-LDR-2026"
     },
     {
       "id": "C-OFF-LDR-005",
-      "label": "Skills-based organization radar",
+      "label": "Skills-based organization",
       "type": "Framework",
       "level": "tactical",
       "theme": "Skills and Workforce Architecture",
@@ -6089,7 +6187,7 @@ window.GRAPH_DATA = {
       "confidence": 0.86,
       "status": "approved",
       "description": "Radar cluster around skill instability, rapid teaming, skills data infrastructure, talent marketplaces, predictive modelling and impact visualization for skill-based organizations.",
-      "descriptionRu": "Кластер радара вокруг нестабильности навыков, быстрого формирования команд, инфраструктуры данных о навыках, маркетплейсов талантов, предиктивного моделирования и визуализации эффекта для skills-based organizations.",
+      "descriptionRu": "Кластер решений вокруг нестабильности навыков, быстрого формирования команд, инфраструктуры данных о навыках, маркетплейсов талантов, предиктивного моделирования и визуализации эффекта для организаций, построенных вокруг навыков.",
       "aiImpact": "AI-supported",
       "source": "R-OFF-LDR-2026"
     },
@@ -6103,7 +6201,7 @@ window.GRAPH_DATA = {
       "confidence": 0.86,
       "status": "approved",
       "description": "Learning delivery cluster combining microlearning, social learning, micro-credentials, hyper-personalized learning, learning in the flow of work, career fluidity, coaching, accessibility and learning how to learn.",
-      "descriptionRu": "Кластер форматов обучения, объединяющий microlearning, social learning, micro-credentials, гиперперсонализированное обучение, обучение в потоке работы, карьерную гибкость, коучинг, доступность и умение учиться.",
+      "descriptionRu": "Кластер форматов обучения, объединяющий микрообучение, социальное обучение, микроквалификации, гиперперсонализированное обучение, обучение в потоке работы, карьерную гибкость, коучинг, доступность и умение учиться.",
       "aiImpact": "AI-first",
       "source": "R-OFF-LDR-2026"
     },
@@ -6117,7 +6215,7 @@ window.GRAPH_DATA = {
       "confidence": 0.86,
       "status": "approved",
       "description": "Capability cluster for digital and global work, including digital fatigue, team-based RTO, remote and hybrid models, AI fluency, cross-cultural competence, power skills, extended reality and metaverse learning.",
-      "descriptionRu": "Кластер компетенций для цифровой и глобальной работы: digital fatigue, team-based RTO, удаленные и гибридные модели, AI fluency, межкультурная компетентность, power skills, extended reality и обучение в metaverse.",
+      "descriptionRu": "Кластер компетенций для цифровой и глобальной работы: цифровая усталость, командно-ориентированное возвращение в офис, удалённые и гибридные модели, AI-грамотность, межкультурная компетентность, power skills, расширенная реальность и обучение в метавселенной.",
       "aiImpact": "AI-first",
       "source": "R-OFF-LDR-2026"
     },
@@ -6873,7 +6971,7 @@ window.GRAPH_DATA = {
       "confidence": 0.84,
       "status": "approved",
       "description": "Segmentation of employees by performance and intent to stay so HR can distinguish stable core employees, champions, flight risks, coasters and drainers and choose different productivity, retention, mobility or separation interventions.",
-      "descriptionRu": "Сегментация сотрудников по результативности и намерению остаться, которая позволяет HR различать стабильное ядро, чемпионов, риски ухода, «коустеров» и «drainers» и подбирать разные меры по продуктивности, удержанию, мобильности или расставанию.",
+      "descriptionRu": "Сегментация сотрудников по результативности и намерению остаться, которая позволяет HR различать стабильное ядро, чемпионов, риски ухода, coasters и drainers и подбирать разные меры по продуктивности, удержанию, мобильности или расставанию.",
       "aiImpact": "Zero-AI",
       "source": "R-GART-TALSTRAT-2026"
     },
@@ -6915,7 +7013,7 @@ window.GRAPH_DATA = {
       "confidence": 0.86,
       "status": "approved",
       "description": "Cross-functional leadership coalition in which HR works with the CEO, CAIO, CFO, COO, CTO and other leaders to shape AI strategy, workforce readiness, culture, trust and measurable business impact rather than only supporting technology rollout.",
-      "descriptionRu": "Кросс-функциональная лидерская коалиция, в которой HR работает вместе с CEO, CAIO, CFO, COO, CTO и другими лидерами, чтобы формировать AI-стратегию, готовность workforce, культуру, доверие и измеримый бизнес-эффект, а не только поддерживать технологический rollout.",
+      "descriptionRu": "Кросс-функциональная лидерская коалиция, в которой HR работает вместе с CEO, CAIO, CFO, COO, CTO и другими руководителями, чтобы формировать AI-стратегию, готовность рабочей силы, культуру, доверие и измеримый бизнес-эффект, а не только поддерживать внедрение технологий.",
       "aiImpact": "AI-first",
       "source": "R-AIHR-HRTRENDS-2026"
     },
@@ -6929,7 +7027,7 @@ window.GRAPH_DATA = {
       "confidence": 0.87,
       "status": "approved",
       "description": "AI Center of Excellence model that combines technology, talent, trust, governance, success metrics, workforce impact mapping, reskilling, communication and ethical implementation with HR as a core partner.",
-      "descriptionRu": "Модель AI Center of Excellence, которая объединяет технологии, talent, доверие, governance, метрики успеха, оценку влияния на workforce, reskilling, коммуникацию и этическое внедрение, где HR выступает ключевым партнером.",
+      "descriptionRu": "Модель AI Center of Excellence, которая объединяет технологии, работу с талантами, доверие, управление, метрики успеха, оценку влияния на рабочую силу, переобучение, коммуникацию и этичное внедрение, где HR выступает ключевым партнёром.",
       "aiImpact": "AI-first",
       "source": "R-AIHR-HRTRENDS-2026"
     },
@@ -6943,7 +7041,7 @@ window.GRAPH_DATA = {
       "confidence": 0.88,
       "status": "approved",
       "description": "Employee experience risk where accelerating AI and digital change create technostress, fear of becoming obsolete, lower confidence, hidden resistance, reduced engagement and possible talent loss unless organizations create clarity, coaching and visible reskilling paths.",
-      "descriptionRu": "Риск employee experience, при котором ускорение AI и цифровых изменений вызывает technostress, fear of becoming obsolete, снижение уверенности, скрытое сопротивление, падение вовлеченности и возможную потерю talent, если организация не дает ясность, коучинг и видимые пути reskilling.",
+      "descriptionRu": "Риск для опыта сотрудников, при котором ускорение AI и цифровых изменений вызывает техностресс, страх профессионального устаревания, снижение уверенности, скрытое сопротивление, падение вовлечённости и возможную потерю талантов, если организация не даёт ясности, коучинга и видимых путей переобучения.",
       "aiImpact": "AI-first",
       "source": "R-AIHR-HRTRENDS-2026"
     },
@@ -6957,7 +7055,7 @@ window.GRAPH_DATA = {
       "confidence": 0.84,
       "status": "approved",
       "description": "HR operating model that replaces siloed specialist functions with agile, multidisciplinary teams organized around shared business outcomes, integrated data, employee lifecycle challenges and faster decision-making.",
-      "descriptionRu": "Операционная модель HR, которая заменяет изолированные специализированные функции гибкими мультидисциплинарными командами вокруг общих бизнес-результатов, интегрированных данных, задач employee lifecycle и более быстрых решений.",
+      "descriptionRu": "Операционная модель HR, которая заменяет изолированные специализированные функции гибкими мультидисциплинарными командами вокруг общих бизнес-результатов, интегрированных данных, задач жизненного цикла сотрудника и более быстрых решений.",
       "aiImpact": "AI-supported",
       "source": "R-AIHR-HRTRENDS-2026"
     },
@@ -6971,7 +7069,7 @@ window.GRAPH_DATA = {
       "confidence": 0.85,
       "status": "approved",
       "description": "Discipline for translating rising HR AI spending into measurable impact through high-value use-case prioritization, vendor-claim testing, pilot validation, user involvement, adoption metrics and outcome tracking.",
-      "descriptionRu": "Дисциплина превращения растущих HR AI-инвестиций в измеримый эффект через приоритизацию ценных use cases, проверку vendor claims, пилотную валидацию, вовлечение пользователей, метрики adoption и отслеживание outcomes.",
+      "descriptionRu": "Дисциплина превращения растущих HR-инвестиций в AI в измеримый эффект через приоритизацию ценных сценариев использования, проверку заявлений поставщиков, пилотную валидацию, вовлечение пользователей, метрики внедрения и отслеживание результатов.",
       "aiImpact": "AI-first",
       "source": "R-AIHR-HRTRENDS-2026"
     },
@@ -6985,7 +7083,7 @@ window.GRAPH_DATA = {
       "confidence": 0.84,
       "status": "approved",
       "description": "Rising importance of HR capabilities such as empathy, ethical judgment, communication, coaching, influence, emotional intelligence and culture-building as AI takes over more technical and transactional work.",
-      "descriptionRu": "Рост значимости HR-способностей вроде эмпатии, этического суждения, коммуникации, коучинга, влияния, эмоционального интеллекта и работы с культурой по мере того, как AI забирает больше технической и транзакционной работы.",
+      "descriptionRu": "Рост значимости HR-способностей, таких как эмпатия, этическое суждение, коммуникация, коучинг, влияние, эмоциональный интеллект и работа с культурой, по мере того как AI берёт на себя больше технической и транзакционной работы.",
       "aiImpact": "AI-supported",
       "source": "R-AIHR-HRTRENDS-2026"
     },
@@ -6999,7 +7097,7 @@ window.GRAPH_DATA = {
       "confidence": 0.84,
       "status": "approved",
       "description": "Leadership model where administrative management layers shrink under efficiency pressure and AI automation, while informal, distributed and situational leadership becomes more important for trust, coaching, collaboration, performance and culture.",
-      "descriptionRu": "Модель лидерства, в которой административные управленческие слои сокращаются под давлением эффективности и AI-автоматизации, а неформальное, распределенное и ситуативное лидерство становится важнее для доверия, коучинга, сотрудничества, результативности и культуры.",
+      "descriptionRu": "Модель лидерства, в которой административные управленческие слои сокращаются под давлением эффективности и AI-автоматизации, а неформальное, распределённое и ситуативное лидерство становится важнее для доверия, коучинга, сотрудничества, результативности и культуры.",
       "aiImpact": "AI-first",
       "source": "R-AIHR-HRTRENDS-2026"
     },
@@ -7027,7 +7125,7 @@ window.GRAPH_DATA = {
       "confidence": 0.88,
       "status": "approved",
       "description": "Ongoing human and technical work required to keep agents useful, including scoping, updating instructions, managing context, maintaining skills and scripts, monitoring performance, correcting failures and preventing agents from going stale.",
-      "descriptionRu": "Постоянная человеческая и техническая работа, необходимая, чтобы агенты оставались полезными: scoping, обновление инструкций, управление контекстом, поддержка skills и scripts, мониторинг качества, исправление сбоев и предотвращение устаревания агентов.",
+      "descriptionRu": "Постоянная человеческая и техническая работа, необходимая, чтобы агенты оставались полезными: определение границ задачи, обновление инструкций, управление контекстом, поддержка навыков и скриптов, мониторинг качества, исправление сбоев и предотвращение устаревания агентов.",
       "aiImpact": "AI-first",
       "source": "R-EVERY-AUTO-2026"
     },
@@ -7083,7 +7181,7 @@ window.GRAPH_DATA = {
       "confidence": 0.88,
       "status": "approved",
       "description": "Functional model where traditional departments stop owning all work end to end and instead steward expertise, standards, reusable capabilities, platforms and governance while cross-functional teams organize around outcomes.",
-      "descriptionRu": "Функциональная модель, в которой традиционные функции перестают владеть всей работой end to end и вместо этого курируют expertise, standards, reusable capabilities, platforms и governance, пока кросс-функциональные команды организуются вокруг outcomes.",
+      "descriptionRu": "Функциональная модель, в которой традиционные функции перестают владеть всей работой end-to-end и вместо этого курируют экспертизу, стандарты, переиспользуемые возможности, платформы и управление, пока кросс-функциональные команды организуются вокруг результатов.",
       "aiImpact": "AI-first",
       "source": "R-BAIN-AIOM-2026"
     },
@@ -7097,7 +7195,7 @@ window.GRAPH_DATA = {
       "confidence": 0.88,
       "status": "approved",
       "description": "Learning and role-design practice for building judgment when routine repetition is automated, using explicit exception handling, output validation, escalation skills, AI fluency and accelerated exposure to complex decisions.",
-      "descriptionRu": "Практика обучения и role design для развития judgment, когда рутинное повторение автоматизировано: через явное exception handling, validation outputs, escalation skills, AI fluency и ускоренное столкновение со сложными решениями.",
+      "descriptionRu": "Практика обучения и проектирования ролей для развития суждения, когда рутинное повторение автоматизировано: через явную работу с исключениями, проверку результатов, навыки эскалации, AI-грамотность и ускоренное столкновение со сложными решениями.",
       "aiImpact": "AI-first",
       "source": "R-BAIN-AIOM-2026"
     },
@@ -7167,7 +7265,7 @@ window.GRAPH_DATA = {
       "confidence": 0.86,
       "status": "approved",
       "description": "Work-design practice that embeds support, compliance, risk, legal, testing and procurement controls into agentic workflows from the beginning instead of treating them as late-stage gatekeepers.",
-      "descriptionRu": "Практика work design, в которой support, compliance, risk, legal, testing и procurement controls встроены в agentic workflows с самого начала, а не выступают поздними gatekeepers.",
+      "descriptionRu": "Практика проектирования работы, в которой поддержка, комплаенс, риск-менеджмент, юридическая экспертиза, тестирование и закупочный контроль встроены в агентные рабочие процессы с самого начала, а не выступают поздними контрольными барьерами.",
       "aiImpact": "AI-first",
       "source": "R-MCK-AGSDLC-2026"
     },
@@ -7184,6 +7282,1896 @@ window.GRAPH_DATA = {
       "descriptionRu": "Практика распределения ресурсов, которая превращает productivity gains от agentic execution в структурные изменения portfolio, smaller expert pods, ускорение roadmaps, platform modernization или capacity для новых продуктов, а не только в сокращение затрат.",
       "aiImpact": "AI-first",
       "source": "R-MCK-AGSDLC-2026"
+    },
+    {
+      "id": "C-MCK-Q125-LM-001",
+      "label": "Leadership factory",
+      "type": "Framework",
+      "level": "strategic",
+      "theme": "Leadership and Management",
+      "importance": 5,
+      "confidence": 0.89,
+      "status": "approved",
+      "description": "Organizational capability for repeatedly identifying, stretching, mentoring, coaching and developing next-generation managers through real work, senior-leader involvement, performance systems and feedback rather than one-off courses.",
+      "descriptionRu": "Организационная способность регулярно выявлять, развивать через сложные задачи, наставлять, коучить и готовить следующее поколение менеджеров через реальную работу, участие senior leaders, системы результативности и обратную связь, а не через разовые курсы.",
+      "aiImpact": "Zero-AI",
+      "source": "R-MCK-Q125-LEAD-2025"
+    },
+    {
+      "id": "C-MCK-Q125-LM-002",
+      "label": "21st-century leadership attributes",
+      "type": "Capability",
+      "level": "strategic",
+      "theme": "Leadership and Management",
+      "importance": 4,
+      "confidence": 0.86,
+      "status": "approved",
+      "description": "Leadership capability bundle combining positive energy, servant leadership, continuous learning, humility, resilience, levity and stewardship for high-disruption environments.",
+      "descriptionRu": "Набор лидерских способностей для среды постоянных потрясений: позитивная энергия, служащее лидерство, непрерывное обучение, скромность, устойчивость, лёгкость в коммуникации и ответственное управление.",
+      "aiImpact": "Zero-AI",
+      "source": "R-MCK-Q125-LEAD-2025"
+    },
+    {
+      "id": "C-MCK-Q125-LM-003",
+      "label": "Personal operating model",
+      "type": "Practice",
+      "level": "tactical",
+      "theme": "Leadership and Management",
+      "importance": 5,
+      "confidence": 0.9,
+      "status": "approved",
+      "description": "Leader self-management system for repeatedly updating priorities, roles, time and energy at career or transformation inflection points so personal attention matches organizational needs.",
+      "descriptionRu": "Система личного управления лидера, которая регулярно обновляет приоритеты, роли, время и энергию в карьерных или трансформационных точках перелома, чтобы внимание лидера соответствовало потребностям организации.",
+      "aiImpact": "Zero-AI",
+      "source": "R-MCK-Q125-LEAD-2025"
+    },
+    {
+      "id": "C-MCK-Q125-LM-004",
+      "label": "Critical leadership conversation map",
+      "type": "Practice",
+      "level": "tactical",
+      "theme": "Leadership and Management",
+      "importance": 4,
+      "confidence": 0.85,
+      "status": "approved",
+      "description": "Practice of identifying the few moments-of-truth conversations, desired audience feeling, knowledge and action, sequencing and leadership narrative needed to move transformation.",
+      "descriptionRu": "Практика определения ключевых conversations-moments of truth, желаемого состояния аудитории — что люди должны почувствовать, понять и сделать, — а также последовательности и лидерского нарратива, необходимых для движения трансформации.",
+      "aiImpact": "Zero-AI",
+      "source": "R-MCK-Q125-LEAD-2025"
+    },
+    {
+      "id": "C-MCK-Q125-LM-005",
+      "label": "Speed-wired leadership operating cadence",
+      "type": "OrganizationModel",
+      "level": "tactical",
+      "theme": "Leadership and Management",
+      "importance": 4,
+      "confidence": 0.86,
+      "status": "approved",
+      "description": "Leadership cadence with clear decision rights, low bureaucracy, standardized processes, direct frontline engagement, playbooks and dashboards to accelerate decisions under uncertainty.",
+      "descriptionRu": "Лидерская операционная ритмика с ясными правами принятия решений, низкой бюрократией, стандартизированными процессами, прямым включением frontline leaders, playbooks и dashboard-информацией для ускорения решений в условиях неопределенности.",
+      "aiImpact": "AI-supported",
+      "source": "R-MCK-Q125-LEAD-2025"
+    },
+    {
+      "id": "C-MCK-Q125-LM-006",
+      "label": "Team health drivers",
+      "type": "Framework",
+      "level": "tactical",
+      "theme": "Leadership and Management",
+      "importance": 5,
+      "confidence": 0.9,
+      "status": "approved",
+      "description": "Evidence-based team effectiveness framework across configuration, alignment, execution and renewal, with trust, communication, innovative thinking and decision making as high-impact drivers.",
+      "descriptionRu": "Доказательный фреймворк эффективности команд по четырём зонам: конфигурация, согласованность, исполнение и обновление; ключевыми драйверами выступают доверие, коммуникация, инновационное мышление и принятие решений.",
+      "aiImpact": "Zero-AI",
+      "source": "R-MCK-Q125-LEAD-2025"
+    },
+    {
+      "id": "C-MCK-Q125-LM-007",
+      "label": "Team archetype alignment",
+      "type": "Framework",
+      "level": "operational",
+      "theme": "Leadership and Management",
+      "importance": 4,
+      "confidence": 0.87,
+      "status": "approved",
+      "description": "Method for aligning teams on task and outcome interdependence, distinguishing cycling, relay and rowing team types so behaviors, governance and performance interventions fit the actual work.",
+      "descriptionRu": "Метод согласования команды по взаимозависимости задач и взаимозависимости результатов с различением циклического, эстафетного и гребного типов работы, чтобы поведение, управление и меры повышения результативности соответствовали реальной работе.",
+      "aiImpact": "Zero-AI",
+      "source": "R-MCK-Q125-LEAD-2025"
+    },
+    {
+      "id": "C-MCK-Q125-LM-008",
+      "label": "Resilience-adaptability skill system",
+      "type": "Capability",
+      "level": "tactical",
+      "theme": "Leadership and Management",
+      "importance": 5,
+      "confidence": 0.88,
+      "status": "approved",
+      "description": "Capability system that builds both resilience and adaptability through North Star clarity, psychological safety with accountability, leader role-modeling and social learning.",
+      "descriptionRu": "Система развития способности одновременно к resilience и adaptability через ясный North Star, психологическую безопасность вместе с ответственностью, role modeling со стороны лидеров и социальное обучение.",
+      "aiImpact": "AI-supported",
+      "source": "R-MCK-Q125-LEAD-2025"
+    },
+    {
+      "id": "C-MCK-Q125-LM-009",
+      "label": "Vulnerability-based trust building",
+      "type": "Capability",
+      "level": "tactical",
+      "theme": "Leadership and Management",
+      "importance": 4,
+      "confidence": 0.87,
+      "status": "approved",
+      "description": "Leadership capability of using self-awareness, openness, trigger management and appropriate vulnerability to build trust, invite input and improve difficult conversations.",
+      "descriptionRu": "Лидерская способность использовать self-awareness, открытость, управление триггерами и уместную уязвимость, чтобы строить доверие, приглашать вклад других и улучшать сложные разговоры.",
+      "aiImpact": "Zero-AI",
+      "source": "R-MCK-Q125-LEAD-2025"
+    },
+    {
+      "id": "C-FWF-MM-001",
+      "label": "Middle management connective backbone",
+      "type": "OrganizationModel",
+      "level": "strategic",
+      "theme": "Leadership and Management",
+      "importance": 5,
+      "confidence": 0.9,
+      "status": "approved",
+      "description": "Redesigned middle-management layer that translates strategy into meaning, stabilizes culture, connects teams and turns autonomy into alignment in complex, hybrid and AI-shaped organizations.",
+      "descriptionRu": "Переосмысленный слой среднего менеджмента, который переводит стратегию в смысл, стабилизирует культуру, соединяет команды и превращает автономию в согласованность в сложных, гибридных и AI-ориентированных организациях.",
+      "aiImpact": "AI-supported",
+      "source": "R-FWF-MM-2026"
+    },
+    {
+      "id": "C-FWF-MM-002",
+      "label": "Manager as sense-maker",
+      "type": "Capability",
+      "level": "tactical",
+      "theme": "Leadership and Management",
+      "importance": 5,
+      "confidence": 0.9,
+      "status": "approved",
+      "description": "Leadership capability of interpreting complexity, regulating emotional energy, seeing system interdependencies and helping teams create shared meaning instead of relying on control and compliance.",
+      "descriptionRu": "Лидерская способность интерпретировать сложность, регулировать эмоциональную энергию, видеть системные взаимозависимости и помогать командам создавать общий смысл вместо опоры на контроль и соблюдение процедур.",
+      "aiImpact": "AI-supported",
+      "source": "R-FWF-MM-2026"
+    },
+    {
+      "id": "C-FWF-MM-003",
+      "label": "Coaches-connectors-champions mandate",
+      "type": "Framework",
+      "level": "tactical",
+      "theme": "Leadership and Management",
+      "importance": 5,
+      "confidence": 0.89,
+      "status": "approved",
+      "description": "Middle-manager mandate that replaces oversight with coaching people, connecting them to resources and expertise, championing achievements, clarifying outcomes and creating psychological safety for experimentation.",
+      "descriptionRu": "Мандат среднего менеджера, в котором надзор заменяется развитием людей, соединением их с ресурсами и экспертизой, поддержкой достижений, прояснением результатов и созданием психологической безопасности для экспериментов.",
+      "aiImpact": "AI-supported",
+      "source": "R-FWF-MM-2026"
+    },
+    {
+      "id": "C-FWF-MM-004",
+      "label": "Network-based career progression",
+      "type": "OrganizationModel",
+      "level": "strategic",
+      "theme": "Leadership and Management",
+      "importance": 4,
+      "confidence": 0.87,
+      "status": "approved",
+      "description": "Career model where growth comes through lateral moves, capability breadth, contribution, learning velocity and network influence rather than climbing a linear hierarchy of managerial titles.",
+      "descriptionRu": "Карьерная модель, в которой рост происходит через горизонтальные переходы, широту компетенций, вклад, скорость обучения и сетевое влияние, а не через линейное восхождение по иерархии управленческих должностей.",
+      "aiImpact": "AI-supported",
+      "source": "R-FWF-MM-2026"
+    },
+    {
+      "id": "C-FWF-MM-005",
+      "label": "Human-AI hybrid conductor",
+      "type": "Capability",
+      "level": "strategic",
+      "theme": "Leadership and Management",
+      "importance": 5,
+      "confidence": 0.88,
+      "status": "approved",
+      "description": "Managerial capability to orchestrate communication, collaboration and execution across humans and intelligent systems, preserving relational connectivity while AI handles more information flow and routine coordination.",
+      "descriptionRu": "Управленческая способность оркестрировать коммуникацию, сотрудничество и исполнение между людьми и интеллектуальными системами, сохраняя человеческие связи, когда AI берёт на себя часть информационных потоков и рутинной координации.",
+      "aiImpact": "AI-first",
+      "source": "R-FWF-MM-2026"
+    },
+    {
+      "id": "C-FWF-MM-006",
+      "label": "Future-fit middle manager development architecture",
+      "type": "Practice",
+      "level": "tactical",
+      "theme": "Leadership and Management",
+      "importance": 4,
+      "confidence": 0.88,
+      "status": "approved",
+      "description": "Development architecture for middle managers built around experiential challenges, conversation labs, resilience practice, systems thinking, coaching practice, change leadership and digital or AI confidence.",
+      "descriptionRu": "Архитектура развития среднего менеджмента, основанная на практических бизнес-вызовах, лабораториях разговоров, тренировке устойчивости, системном мышлении, коучинговой практике, лидерстве изменений и цифровой или AI-уверенности.",
+      "aiImpact": "AI-supported",
+      "source": "R-FWF-MM-2026"
+    },
+    {
+      "id": "C-FWF-MM-007",
+      "label": "Boundary-spanning relationship leadership",
+      "type": "Capability",
+      "level": "tactical",
+      "theme": "Leadership and Management",
+      "importance": 4,
+      "confidence": 0.87,
+      "status": "approved",
+      "description": "Leadership capability for maintaining authentic, timely and accurate communication across functions, departments and distributed teams, using feedback, facilitation, availability and digital fluency to sustain trust.",
+      "descriptionRu": "Лидерская способность поддерживать подлинную, своевременную и точную коммуникацию между функциями, подразделениями и распределёнными командами, используя обратную связь, фасилитацию, доступность и цифровую грамотность для сохранения доверия.",
+      "aiImpact": "AI-supported",
+      "source": "R-FWF-MM-2026"
+    },
+    {
+      "id": "C-FWF-MM-008",
+      "label": "Collaboration architecture",
+      "type": "Framework",
+      "level": "tactical",
+      "theme": "Leadership and Management",
+      "importance": 5,
+      "confidence": 0.9,
+      "status": "approved",
+      "description": "Intentional design of trust-based collaboration systems, including communication spaces, rituals, ethical influence, transparency, rhythm and coherence across people, teams and technology.",
+      "descriptionRu": "Осознанное проектирование систем сотрудничества на основе доверия: коммуникационных пространств, ритуалов, этического влияния, прозрачности, ритма и согласованности между людьми, командами и технологиями.",
+      "aiImpact": "AI-supported",
+      "source": "R-FWF-MM-2026"
+    },
+    {
+      "id": "C-FWF-MM-009",
+      "label": "Self-managed team enablement",
+      "type": "OrganizationModel",
+      "level": "tactical",
+      "theme": "Leadership and Management",
+      "importance": 4,
+      "confidence": 0.86,
+      "status": "approved",
+      "description": "Operating model where managers shift from controllers to mentors, coaches and enablers, passing decision responsibility to frontline teams while maintaining purpose clarity, trust and support.",
+      "descriptionRu": "Операционная модель, в которой менеджеры переходят от роли контролёров к роли наставников, коучей и помощников, передавая право принятия решений фронтовым командам и сохраняя ясность цели, доверие и поддержку.",
+      "aiImpact": "Zero-AI",
+      "source": "R-FWF-MM-2026"
+    },
+    {
+      "id": "C-FWF-MM-010",
+      "label": "Capability-and-contribution reward model",
+      "type": "Framework",
+      "level": "strategic",
+      "theme": "Leadership and Management",
+      "importance": 4,
+      "confidence": 0.88,
+      "status": "approved",
+      "description": "Reward model for distributed middle-management work that values coaching, sense-making, integration, interpretation, cross-system contribution, long-term learning and reputation-based influence rather than headcount or positional authority.",
+      "descriptionRu": "Модель вознаграждения распределённой управленческой работы, которая оценивает коучинг, осмысление, интеграцию, интерпретацию, вклад на уровне системы, долгосрочное обучение и репутационное влияние, а не численность подчинённых или формальную власть.",
+      "aiImpact": "AI-supported",
+      "source": "R-FWF-MM-2026"
+    },
+    {
+      "id": "C-BCG-FOF-001",
+      "label": "Functions of the future operating model",
+      "type": "OrganizationModel",
+      "level": "strategic",
+      "theme": "Work Design and Operating Model",
+      "importance": 5,
+      "confidence": 0.91,
+      "status": "approved",
+      "description": "AI-first operating model in which corporate G&A functions become leaner, more automated platforms that run end-to-end work at AI speed while humans focus on judgment, strategy and governance.",
+      "descriptionRu": "AI-first операционная модель, в которой корпоративные G&A-функции становятся более компактными автоматизированными платформами, выполняющими сквозную работу на скорости AI, а люди фокусируются на суждении, стратегии и управлении.",
+      "aiImpact": "AI-first",
+      "source": "R-BCG-FOF-2026"
+    },
+    {
+      "id": "C-BCG-FOF-002",
+      "label": "AI-first G&A redesign",
+      "type": "Practice",
+      "level": "tactical",
+      "theme": "Work Design and Operating Model",
+      "importance": 5,
+      "confidence": 0.9,
+      "status": "approved",
+      "description": "Practice of redesigning general and administrative work around AI from the start, reworking end-to-end processes, tasks and decision flows instead of layering tools onto existing functional routines.",
+      "descriptionRu": "Практика перепроектирования административных и корпоративных функций вокруг AI с самого начала: изменение сквозных процессов, задач и потоков решений вместо наложения инструментов на существующие функциональные рутины.",
+      "aiImpact": "AI-first",
+      "source": "R-BCG-FOF-2026"
+    },
+    {
+      "id": "C-BCG-FOF-003",
+      "label": "Autonomous GBS execution engine",
+      "type": "OrganizationModel",
+      "level": "tactical",
+      "theme": "Work Design and Operating Model",
+      "importance": 4,
+      "confidence": 0.88,
+      "status": "approved",
+      "description": "Global business services model where AI-enabled shared platforms run a large share of functional activity continuously, manage exceptions automatically and complete routine transactions with minimal human intervention.",
+      "descriptionRu": "Модель глобальных бизнес-сервисов, в которой AI-платформы общего обслуживания непрерывно выполняют значительную часть функциональной работы, автоматически обрабатывают исключения и проводят рутинные транзакции с минимальным участием человека.",
+      "aiImpact": "AI-first",
+      "source": "R-BCG-FOF-2026"
+    },
+    {
+      "id": "C-BCG-FOF-004",
+      "label": "Human-AI functional scorecard",
+      "type": "Measurement",
+      "level": "tactical",
+      "theme": "AI Strategy and Value Realization",
+      "importance": 4,
+      "confidence": 0.87,
+      "status": "approved",
+      "description": "Outcome-oriented scorecard for AI-first functions that replaces input metrics such as FTE utilization or cost per transaction with cost per exception resolved, combined human-AI capacity utilization and outcome quality.",
+      "descriptionRu": "Ориентированная на результат система метрик для AI-first функций, где вместо входных показателей вроде загрузки FTE или стоимости транзакции используются стоимость разрешённого исключения, совокупная загрузка человеческой и AI-мощности и качество результата.",
+      "aiImpact": "AI-first",
+      "source": "R-BCG-FOF-2026"
+    },
+    {
+      "id": "C-BCG-FOF-005",
+      "label": "AI justification for functional headcount",
+      "type": "GovernancePractice",
+      "level": "tactical",
+      "theme": "Workforce Planning",
+      "importance": 4,
+      "confidence": 0.86,
+      "status": "approved",
+      "description": "Headcount discipline requiring managers to show that AI cannot perform or substantially augment a proposed functional role before additional corporate-function hiring is approved.",
+      "descriptionRu": "Дисциплина управления численностью, при которой менеджеры должны показать, что AI не может выполнить или существенно усилить предлагаемую функциональную роль, прежде чем будет одобрено расширение штата корпоративной функции.",
+      "aiImpact": "AI-first",
+      "source": "R-BCG-FOF-2026"
+    },
+    {
+      "id": "C-BCG-FOF-006",
+      "label": "Preventative G&A cost control system",
+      "type": "OperatingSystem",
+      "level": "strategic",
+      "theme": "Work Design and Operating Model",
+      "importance": 4,
+      "confidence": 0.86,
+      "status": "approved",
+      "description": "AI-first cost-management system where autonomous workflows continuously monitor signals, enforce constraints and intervene before administrative cost is generated, replacing reactive postmortem cost control.",
+      "descriptionRu": "AI-first система управления затратами G&A, в которой автономные рабочие процессы непрерывно отслеживают сигналы, применяют ограничения и вмешиваются до возникновения административных затрат, заменяя реактивный постфактум-контроль расходов.",
+      "aiImpact": "AI-first",
+      "source": "R-BCG-FOF-2026"
+    },
+    {
+      "id": "C-BCG-FOF-007",
+      "label": "Consolidated administrative leadership model",
+      "type": "OrganizationModel",
+      "level": "strategic",
+      "theme": "Leadership and Management",
+      "importance": 5,
+      "confidence": 0.88,
+      "status": "approved",
+      "description": "Leadership model where automated and integrated corporate functions require fewer siloed functional heads, simpler reporting relationships and consolidated administrative coordination through roles such as CFO, CAO and general counsel.",
+      "descriptionRu": "Модель лидерства, при которой автоматизированные и интегрированные корпоративные функции требуют меньшего числа разрозненных функциональных руководителей, более простой отчётности и консолидированной административной координации через роли вроде CFO, CAO и генерального юрисконсульта.",
+      "aiImpact": "AI-supported",
+      "source": "R-BCG-FOF-2026"
+    },
+    {
+      "id": "C-BCG-FOF-008",
+      "label": "FoF workforce transition strategy",
+      "type": "WorkforceStrategy",
+      "level": "tactical",
+      "theme": "Leadership and Management",
+      "importance": 4,
+      "confidence": 0.87,
+      "status": "approved",
+      "description": "Workforce transition strategy for functions of the future combining reskilling, redeployment, targeted recruitment, specialization and selective workforce reduction as transactional roles decline and AI-system design, supervision and improvement roles grow.",
+      "descriptionRu": "Стратегия перехода рабочей силы для функций будущего, объединяющая переобучение, перераспределение, целевой найм, специализацию и выборочное сокращение штата по мере снижения спроса на транзакционные роли и роста ролей проектирования, надзора и улучшения AI-систем.",
+      "aiImpact": "AI-first",
+      "source": "R-BCG-FOF-2026"
+    },
+    {
+      "id": "C-WEF-NGL-001",
+      "label": "Future-proof leadership leverage cycle",
+      "type": "Framework",
+      "level": "strategic",
+      "theme": "Leadership and Management",
+      "importance": 5,
+      "confidence": 0.9,
+      "status": "approved",
+      "description": "Leadership transformation framework that treats the pipeline and selection of leaders, training and development, decision-making and action, and leadership legacy as interdependent leverage points for trust, legitimacy and future readiness.",
+      "descriptionRu": "Рамка трансформации лидерства, которая рассматривает подбор и выбор лидеров, их обучение и развитие, принятие решений и действия, а также лидерское наследие как взаимосвязанные рычаги доверия, легитимности и готовности к будущему.",
+      "aiImpact": "Zero-AI",
+      "source": "R-WEF-NGL-2026"
+    },
+    {
+      "id": "C-WEF-NGL-002",
+      "label": "Intergenerational leadership pipeline",
+      "type": "LeadershipPractice",
+      "level": "strategic",
+      "theme": "Leadership and Management",
+      "importance": 5,
+      "confidence": 0.9,
+      "status": "approved",
+      "description": "Leadership pipeline model that deliberately includes youth and next-generation voices in selection and decision processes so leadership reflects the realities, digital fluency and moral urgency of future system stewards.",
+      "descriptionRu": "Модель лидерского резерва, которая намеренно включает молодые и следующие поколения в процессы отбора и принятия решений, чтобы лидерство отражало реальность, цифровую грамотность и остроту моральной ответственности будущих хранителей систем.",
+      "aiImpact": "AI-supported",
+      "source": "R-WEF-NGL-2026"
+    },
+    {
+      "id": "C-WEF-NGL-003",
+      "label": "Dialogue-based co-creation leadership",
+      "type": "LeadershipPractice",
+      "level": "tactical",
+      "theme": "Leadership and Management",
+      "importance": 5,
+      "confidence": 0.9,
+      "status": "approved",
+      "description": "Leadership practice that moves from command and control toward convening, mindful listening, storytelling and collective problem-solving across differences to rebuild trust and turn diversity into creative energy.",
+      "descriptionRu": "Практика лидерства, которая уходит от командования и контроля к сбору заинтересованных сторон, внимательному слушанию, сторителлингу и коллективному решению проблем между разными позициями, чтобы восстанавливать доверие и превращать разнообразие в творческую энергию.",
+      "aiImpact": "Zero-AI",
+      "source": "R-WEF-NGL-2026"
+    },
+    {
+      "id": "C-WEF-NGL-004",
+      "label": "Shared agency decision-making",
+      "type": "LeadershipPractice",
+      "level": "tactical",
+      "theme": "Leadership and Management",
+      "importance": 5,
+      "confidence": 0.88,
+      "status": "approved",
+      "description": "Participatory decision model where leaders do not only decide themselves but build decision-making capacity in others, use collective intelligence and distribute ownership for both decisions and outcomes.",
+      "descriptionRu": "Партисипативная модель принятия решений, в которой лидеры не только принимают решения сами, но и развивают способность других принимать решения, используют коллективный интеллект и распределяют ответственность за решения и их последствия.",
+      "aiImpact": "AI-supported",
+      "source": "R-WEF-NGL-2026"
+    },
+    {
+      "id": "C-WEF-NGL-005",
+      "label": "AI-era evidence-informed leadership",
+      "type": "DecisionDiscipline",
+      "level": "tactical",
+      "theme": "Leadership and Management",
+      "importance": 5,
+      "confidence": 0.88,
+      "status": "approved",
+      "description": "Decision discipline for leaders in the generative AI era that combines evidence, context, public judgement, feasibility, data literacy, AI-output evaluation, ethical awareness and reversible adaptive governance.",
+      "descriptionRu": "Дисциплина лидерского принятия решений в эпоху GenAI, объединяющая доказательность, контекст, общественное суждение, реализуемость, грамотность в данных, оценку AI-результатов, этическую осознанность и адаптивное управление с возможностью пересмотра решений.",
+      "aiImpact": "AI-supported",
+      "source": "R-WEF-NGL-2026"
+    },
+    {
+      "id": "C-WEF-NGL-006",
+      "label": "Good-ancestor legacy leadership",
+      "type": "LeadershipMindset",
+      "level": "strategic",
+      "theme": "Leadership and Management",
+      "importance": 4,
+      "confidence": 0.87,
+      "status": "approved",
+      "description": "Leadership mindset that defines legacy as stewardship for future generations, succession renewal and long-term option creation rather than personal monuments, short-term wins or heroic individual achievement.",
+      "descriptionRu": "Лидерская установка, в которой наследие понимается как долгосрочная ответственность перед будущими поколениями: развитие преемственности, расширение возможностей для следующих лидеров и создание устойчивых условий для будущего, а не личный памятник, краткосрочные победы или героическое индивидуальное достижение.",
+      "aiImpact": "Zero-AI",
+      "source": "R-WEF-NGL-2026"
+    },
+    {
+      "id": "C-WEF-NGL-007",
+      "label": "Leadership impact scorecard",
+      "type": "Measurement",
+      "level": "tactical",
+      "theme": "Leadership and Management",
+      "importance": 5,
+      "confidence": 0.88,
+      "status": "approved",
+      "description": "Leadership measurement system that shifts incentives from popularity and short-term performance toward long-term trust, legitimacy, baton passing, initiative continuity, pipeline representation, wellbeing and intergenerational impact.",
+      "descriptionRu": "Система оценки лидерства, которая смещает стимулы от популярности и краткосрочной результативности к долгосрочному доверию, легитимности, передаче эстафеты, преемственности инициатив, представленности в лидерском резерве, благополучию и межпоколенческому эффекту.",
+      "aiImpact": "Zero-AI",
+      "source": "R-WEF-NGL-2026"
+    },
+    {
+      "id": "C-IBM-CEO-001",
+      "label": "Rewired AI-first C-suite",
+      "type": "OrganizationModel",
+      "level": "strategic",
+      "theme": "Leadership and Management",
+      "importance": 5,
+      "confidence": 0.91,
+      "status": "approved",
+      "description": "C-suite operating model where CEOs redesign executive roles, authority, incentives and cross-functional collaboration around AI-first execution, speed, clarity and enterprise outcomes rather than siloed functional control.",
+      "descriptionRu": "Операционная модель C-suite, в которой CEO перестраивают роли руководителей, полномочия, стимулы и кросс-функциональное взаимодействие вокруг AI-first исполнения, скорости, ясности и корпоративных результатов, а не вокруг разрозненного функционального контроля.",
+      "aiImpact": "AI-first",
+      "source": "R-IBM-CEO-2026"
+    },
+    {
+      "id": "C-IBM-CEO-002",
+      "label": "Cross-enterprise C-suite orchestrators",
+      "type": "LeadershipRole",
+      "level": "strategic",
+      "theme": "Leadership and Management",
+      "importance": 5,
+      "confidence": 0.9,
+      "status": "approved",
+      "description": "Executive role shift where C-suite leaders reinvent themselves from functional specialists into cross-enterprise orchestrators who own outcomes across business, technology, talent and ecosystem boundaries.",
+      "descriptionRu": "Сдвиг роли топ-руководителей, при котором лидеры C-suite переходят от функциональной специализации к роли кросс-корпоративных оркестраторов, отвечающих за результаты на границах бизнеса, технологий, талантов и экосистем.",
+      "aiImpact": "AI-supported",
+      "source": "R-IBM-CEO-2026"
+    },
+    {
+      "id": "C-IBM-CEO-003",
+      "label": "Bounded CAIO authority model",
+      "type": "GovernancePractice",
+      "level": "tactical",
+      "theme": "AI Governance and Accountability",
+      "importance": 5,
+      "confidence": 0.89,
+      "status": "approved",
+      "description": "Governance model where the Chief AI Officer has authority over AI priorities, standards and funding gates, while line leaders remain accountable for business outcomes so AI can scale quickly without separating technology authority from value accountability.",
+      "descriptionRu": "Модель управления, в которой Chief AI Officer получает полномочия по AI-приоритетам, стандартам и контрольным точкам финансирования, а линейные руководители сохраняют ответственность за бизнес-результаты, чтобы AI масштабировался быстро без отрыва технологической власти от ответственности за ценность.",
+      "aiImpact": "AI-first",
+      "source": "R-IBM-CEO-2026"
+    },
+    {
+      "id": "C-IBM-CEO-004",
+      "label": "AI-first decision-rights architecture",
+      "type": "LeadershipPractice",
+      "level": "tactical",
+      "theme": "Leadership and Management",
+      "importance": 5,
+      "confidence": 0.9,
+      "status": "approved",
+      "description": "Decision architecture that clarifies which enterprise decisions slow execution, assigns a single owner, explicit authority and escalation rules, and lets leaders closest to the problem act with AI-enabled real-time intelligence.",
+      "descriptionRu": "Архитектура прав принятия решений, которая выявляет корпоративные решения, замедляющие исполнение, назначает единого владельца, явные полномочия и правила эскалации, позволяя лидерам ближе к проблеме действовать с поддержкой AI-аналитики в реальном времени.",
+      "aiImpact": "AI-supported",
+      "source": "R-IBM-CEO-2026"
+    },
+    {
+      "id": "C-IBM-CEO-005",
+      "label": "AI-agent productivity reinvestment flywheel",
+      "type": "OperatingModel",
+      "level": "strategic",
+      "theme": "AI Strategy and Value Realization",
+      "importance": 5,
+      "confidence": 0.9,
+      "status": "approved",
+      "description": "Scaling mechanism where AI boosts productivity, gains are locked into reinvestment for experimentation and innovation, AI agents are embedded into end-to-end workflows, and the resulting capacity transforms the business and operating model.",
+      "descriptionRu": "Механизм масштабирования, при котором AI повышает продуктивность, высвобождённые ресурсы заранее направляются в эксперименты и инновации, AI-агенты встраиваются в сквозные процессы, а появившаяся мощность меняет бизнес-модель и операционную модель.",
+      "aiImpact": "AI-first",
+      "source": "R-IBM-CEO-2026"
+    },
+    {
+      "id": "C-IBM-CEO-006",
+      "label": "Operational AI decision delegation",
+      "type": "DecisionDiscipline",
+      "level": "tactical",
+      "theme": "AI Governance and Accountability",
+      "importance": 5,
+      "confidence": 0.9,
+      "status": "approved",
+      "description": "Delegation pattern where repeatable operational decisions with codifiable guardrails move to AI agents, while humans design decision logic, handle exceptions, audit outcomes and intervene when material, ethical or strategic consequences arise.",
+      "descriptionRu": "Паттерн делегирования, при котором повторяемые операционные решения с формализуемыми ограничениями передаются AI-агентам, а люди проектируют логику решений, разбирают исключения, аудируют результаты и вмешиваются при материальных, этических или стратегических последствиях.",
+      "aiImpact": "AI-first",
+      "source": "R-IBM-CEO-2026"
+    },
+    {
+      "id": "C-IBM-CEO-007",
+      "label": "Differentiated AI portfolio strategy",
+      "type": "AIArchitecture",
+      "level": "strategic",
+      "theme": "AI Strategy and Value Realization",
+      "importance": 5,
+      "confidence": 0.88,
+      "status": "approved",
+      "description": "AI strategy that distinguishes commodity AI from competitive AI, combines foundation models, smaller task-specific models and ultra-specialized models, and uses proprietary data, IP and business logic to create differentiated advantage.",
+      "descriptionRu": "AI-стратегия, которая различает товарный AI и конкурентный AI, сочетает базовые модели, небольшие специализированные модели и ультраспециализированные модели, используя собственные данные, интеллектуальную собственность и бизнес-логику для создания отличимого преимущества.",
+      "aiImpact": "AI-first",
+      "source": "R-IBM-CEO-2026"
+    },
+    {
+      "id": "C-IBM-CEO-008",
+      "label": "Organization-encoded AI agents",
+      "type": "AIArchitecture",
+      "level": "tactical",
+      "theme": "Human-AI Organization",
+      "importance": 4,
+      "confidence": 0.87,
+      "status": "approved",
+      "description": "AI agent design pattern where agents embody the organization’s decision rules, risk tolerances, brand values, culture and operating philosophy through codified optimization principles, escalation rules and approved decision criteria.",
+      "descriptionRu": "Паттерн проектирования AI-агентов, при котором агенты воплощают правила принятия решений, риск-аппетит, брендовые ценности, культуру и операционную философию организации через кодифицированные принципы оптимизации, правила эскалации и утверждённые критерии решений.",
+      "aiImpact": "AI-first",
+      "source": "R-IBM-CEO-2026"
+    },
+    {
+      "id": "C-IBM-CEO-009",
+      "label": "AI deployment as organization design problem",
+      "type": "OrganizationModel",
+      "level": "tactical",
+      "theme": "Human-AI Organization",
+      "importance": 4,
+      "confidence": 0.88,
+      "status": "approved",
+      "description": "Diagnosis that low regular AI use despite available skills is primarily an organization design problem: workflows, handoffs, accountability, manager training and operating metrics must change before reskilling and adoption can stick.",
+      "descriptionRu": "Диагноз, согласно которому низкое регулярное использование AI при наличии навыков является прежде всего проблемой организационного дизайна: должны измениться рабочие процессы, передачи между ролями, ответственность, обучение менеджеров и операционные метрики, иначе переобучение и внедрение не закрепятся.",
+      "aiImpact": "AI-supported",
+      "source": "R-IBM-CEO-2026"
+    },
+    {
+      "id": "C-IBM-CEO-010",
+      "label": "Quantum optionality ecosystem strategy",
+      "type": "StrategicCapability",
+      "level": "strategic",
+      "theme": "AI Strategy and Value Realization",
+      "importance": 3,
+      "confidence": 0.82,
+      "status": "approved",
+      "description": "Strategic capability to prepare for uncertain quantum-era disruption by building cross-functional exploration teams, quantum literacy, adaptable technology foundations and ecosystem partnerships before the value window opens.",
+      "descriptionRu": "Стратегическая способность готовиться к неопределённым квантовым сдвигам через кросс-функциональные исследовательские команды, квантовую грамотность, адаптивные технологические основания и экосистемные партнёрства до открытия окна ценности.",
+      "aiImpact": "Zero-AI",
+      "source": "R-IBM-CEO-2026"
+    },
+    {
+      "id": "C-IBM-ENT2030-001",
+      "label": "Smarter enterprise operating model",
+      "type": "OrganizationModel",
+      "level": "strategic",
+      "theme": "Work Design and Operating Model",
+      "importance": 5,
+      "confidence": 0.89,
+      "status": "approved",
+      "description": "Operating model in which the enterprise becomes less monolithic and more modular, embeds transformation into operational DNA, and uses AI-enabled real-time course correction instead of periodic review cycles.",
+      "descriptionRu": "Операционная модель, в которой компания становится менее монолитной и более модульной, встраивает трансформацию в операционную ДНК и использует AI для корректировки курса в реальном времени вместо периодических циклов пересмотра.",
+      "aiImpact": "AI-first",
+      "source": "R-IBM-ENT2030-2026"
+    },
+    {
+      "id": "C-IBM-ENT2030-002",
+      "label": "Always-on market learning loop",
+      "type": "Practice",
+      "level": "tactical",
+      "theme": "AI Strategy and Value Realization",
+      "importance": 4,
+      "confidence": 0.86,
+      "status": "approved",
+      "description": "AI-enabled strategy practice that continuously scans market signals, customer feedback and operational outcomes, then turns those signals into rapid experiments, course corrections and scaling decisions.",
+      "descriptionRu": "Практика AI-стратегии, при которой компания непрерывно считывает рыночные сигналы, обратную связь клиентов и операционные результаты, а затем превращает эти сигналы в быстрые эксперименты, корректировки курса и решения о масштабировании.",
+      "aiImpact": "AI-first",
+      "source": "R-IBM-ENT2030-2026"
+    },
+    {
+      "id": "C-IBM-ENT2030-003",
+      "label": "Quarter-by-quarter strategic disruption",
+      "type": "LeadershipPractice",
+      "level": "strategic",
+      "theme": "Leadership and Management",
+      "importance": 4,
+      "confidence": 0.84,
+      "status": "approved",
+      "description": "Leadership posture that treats quarter-by-quarter industry disruption, unconventional bets and speed of execution as strategic requirements, while using AI-supported sensing and risk controls to avoid reckless action.",
+      "descriptionRu": "Лидерская практика, в которой ежеквартальная дисрапция отрасли, нестандартные ставки и скорость исполнения становятся стратегическими требованиями, а AI-поддержка рыночного анализа и контроля рисков помогает ускоряться без безрассудных решений.",
+      "aiImpact": "AI-supported",
+      "source": "R-IBM-ENT2030-2026"
+    },
+    {
+      "id": "C-IBM-ENT2030-004",
+      "label": "AI resource-abundance strategy",
+      "type": "Strategy",
+      "level": "strategic",
+      "theme": "AI Strategy and Value Realization",
+      "importance": 5,
+      "confidence": 0.86,
+      "status": "approved",
+      "description": "Strategic shift from managing scarcity and trade-offs to choosing what to create when AI reduces constraints in capital, talent, operations, productivity and experimentation capacity.",
+      "descriptionRu": "Стратегический сдвиг от управления дефицитом и компромиссами к выбору того, что создавать, когда AI снижает ограничения в капитале, талантах, операциях, продуктивности и мощности экспериментов.",
+      "aiImpact": "AI-first",
+      "source": "R-IBM-ENT2030-2026"
+    },
+    {
+      "id": "C-IBM-ENT2030-005",
+      "label": "Productivity-to-opportunity map",
+      "type": "ManagementTool",
+      "level": "tactical",
+      "theme": "AI Strategy and Value Realization",
+      "importance": 4,
+      "confidence": 0.88,
+      "status": "approved",
+      "description": "Management tool that connects every AI-enabled efficiency gain to a revenue-generating capability, ownership, milestones and experimentation areas, so productivity savings become innovation capacity rather than only cost reduction.",
+      "descriptionRu": "Управленческий инструмент, который связывает каждое AI-ускорение эффективности с новой выручкообразующей способностью, владельцами, этапами и зонами экспериментов, чтобы экономия превращалась в инновационную мощность, а не только в сокращение затрат.",
+      "aiImpact": "AI-first",
+      "source": "R-IBM-ENT2030-2026"
+    },
+    {
+      "id": "C-IBM-ENT2030-006",
+      "label": "Neutral AI orchestration layer",
+      "type": "Architecture",
+      "level": "strategic",
+      "theme": "AI Governance and Accountability",
+      "importance": 5,
+      "confidence": 0.9,
+      "status": "approved",
+      "description": "Interoperable layer that coordinates business platforms, applications, AI agents, data flows and access controls, while creating audit trails, decision logs, explanations and adaptable oversight for end-to-end AI solutions.",
+      "descriptionRu": "Интероперабельный слой, который координирует бизнес-платформы, приложения, AI-агентов, потоки данных и права доступа, одновременно создавая аудиторские следы, журналы решений, объяснения и адаптивный надзор для сквозных AI-решений.",
+      "aiImpact": "AI-first",
+      "source": "R-IBM-ENT2030-2026"
+    },
+    {
+      "id": "C-IBM-ENT2030-007",
+      "label": "Human-led agent-operated teams",
+      "type": "OrganizationModel",
+      "level": "strategic",
+      "theme": "Human-AI Organization",
+      "importance": 5,
+      "confidence": 0.88,
+      "status": "approved",
+      "description": "Team model where humans set judgment, strategy, oversight and value intent while personal and enterprise agents perform work across functions, creating new roles such as agent supervisors and AI safety engineers.",
+      "descriptionRu": "Модель команды, в которой люди задают суждение, стратегию, надзор и намерение ценности, а персональные и корпоративные AI-агенты выполняют работу между функциями, создавая новые роли вроде супервизоров агентов и инженеров AI-безопасности.",
+      "aiImpact": "AI-first",
+      "source": "R-IBM-ENT2030-2026"
+    },
+    {
+      "id": "C-IBM-ENT2030-008",
+      "label": "Outcome-based evolving role mandates",
+      "type": "Practice",
+      "level": "tactical",
+      "theme": "Leadership and Management",
+      "importance": 4,
+      "confidence": 0.87,
+      "status": "approved",
+      "description": "Management practice that replaces fixed job descriptions with outcome-based mandates that evolve as AI capabilities and business needs shift, while giving employees guardrails to create use cases and low-code or no-code agents.",
+      "descriptionRu": "Управленческая практика, которая заменяет фиксированные должностные инструкции мандатами на результат, меняющимися вместе с AI-возможностями и потребностями бизнеса, и даёт сотрудникам правила для создания сценариев применения и low-code/no-code агентов.",
+      "aiImpact": "AI-supported",
+      "source": "R-IBM-ENT2030-2026"
+    },
+    {
+      "id": "C-IBM-ENT2030-009",
+      "label": "Embedded agentic learning system",
+      "type": "LearningPractice",
+      "level": "tactical",
+      "theme": "Employee Development",
+      "importance": 4,
+      "confidence": 0.86,
+      "status": "approved",
+      "description": "Learning model in which the same AI assistants that reshape work also deliver in-flow personalized coaching, skill development, courses and credentials based on the employee’s current capabilities and career trajectory.",
+      "descriptionRu": "Модель обучения, в которой те же AI-ассистенты, которые меняют работу, встроенно дают персонализированный коучинг, развитие навыков, курсы и подтверждения квалификации на основе текущих возможностей сотрудника и его карьерной траектории.",
+      "aiImpact": "AI-first",
+      "source": "R-IBM-ENT2030-2026"
+    },
+    {
+      "id": "C-IBM-T26-001",
+      "label": "Ambiguity-as-opportunity leadership",
+      "type": "LeadershipPractice",
+      "level": "strategic",
+      "theme": "Leadership and Management",
+      "importance": 4,
+      "confidence": 0.86,
+      "status": "approved",
+      "description": "Leadership stance that treats volatility and ambiguity as sources of opportunity, requiring fast decisions, real-time sensing and organizational willingness to act before the map is fully drawn.",
+      "descriptionRu": "Лидерская позиция, в которой волатильность и неоднозначность рассматриваются как источник возможностей, требующий быстрых решений, анализа сигналов в реальном времени и готовности организации действовать до того, как появится полная карта ситуации.",
+      "aiImpact": "AI-supported",
+      "source": "R-IBM-TRENDS26-2026"
+    },
+    {
+      "id": "C-IBM-T26-002",
+      "label": "Threshold-based autonomous agent action",
+      "type": "GovernancePattern",
+      "level": "tactical",
+      "theme": "AI Governance and Accountability",
+      "importance": 5,
+      "confidence": 0.88,
+      "status": "approved",
+      "description": "Governance pattern in which AI agents are granted authority to adjust pricing, messaging, logistics or product variations only when predefined opportunity, performance and risk thresholds are met.",
+      "descriptionRu": "Паттерн управления, при котором AI-агенты получают полномочия менять цены, сообщения, логистику или продуктовые варианты только при достижении заранее заданных порогов возможностей, результативности и риска.",
+      "aiImpact": "AI-first",
+      "source": "R-IBM-TRENDS26-2026"
+    },
+    {
+      "id": "C-IBM-T26-003",
+      "label": "Employee AI appetite inversion",
+      "type": "Signal",
+      "level": "tactical",
+      "theme": "Employee Experience and Retention",
+      "importance": 4,
+      "confidence": 0.87,
+      "status": "approved",
+      "description": "Workforce adoption signal in which employees are more likely to embrace than resist greater AI use, revealing a perception gap between executive fear of transformation fatigue and employee demand for AI-enabled, less mundane work.",
+      "descriptionRu": "Сигнал принятия AI рабочей силой: сотрудники чаще готовы принять расширение использования AI, чем сопротивляться ему, что показывает разрыв между опасением руководителей по поводу усталости от трансформации и запросом сотрудников на менее рутинную работу с поддержкой AI.",
+      "aiImpact": "AI-supported",
+      "source": "R-IBM-TRENDS26-2026"
+    },
+    {
+      "id": "C-IBM-T26-004",
+      "label": "Human battleground role design",
+      "type": "WorkDesignPattern",
+      "level": "tactical",
+      "theme": "Work Design and Operating Model",
+      "importance": 4,
+      "confidence": 0.86,
+      "status": "approved",
+      "description": "Role-design pattern that identifies tasks AI can augment or automate, then concentrates human talent on judgment, relationships, ambiguity navigation and innovation where AI does not create the competitive edge.",
+      "descriptionRu": "Паттерн проектирования ролей, который выявляет задачи, где AI может усиливать или автоматизировать работу, а затем концентрирует человеческий талант на суждении, отношениях, навигации в неоднозначности и инновациях там, где AI не создаёт конкурентное преимущество.",
+      "aiImpact": "AI-supported",
+      "source": "R-IBM-TRENDS26-2026"
+    },
+    {
+      "id": "C-IBM-T26-005",
+      "label": "Accountable customer-facing AI design",
+      "type": "GovernancePattern",
+      "level": "tactical",
+      "theme": "AI Governance and Accountability",
+      "importance": 5,
+      "confidence": 0.9,
+      "status": "approved",
+      "description": "Product and service design pattern that makes AI involvement visible, recommendations traceable, data use understandable, and opt-in, deletion and portability controls easy enough for customers to trust AI-enabled experiences.",
+      "descriptionRu": "Паттерн дизайна продуктов и сервисов, при котором участие AI видно пользователю, рекомендации прослеживаемы, использование данных понятно, а добровольное согласие, удаление и переносимость данных достаточно просты, чтобы клиенты доверяли AI-опыту.",
+      "aiImpact": "AI-first",
+      "source": "R-IBM-TRENDS26-2026"
+    },
+    {
+      "id": "C-IBM-T26-006",
+      "label": "AI sovereignty resilience architecture",
+      "type": "Architecture",
+      "level": "strategic",
+      "theme": "AI Governance and Accountability",
+      "importance": 5,
+      "confidence": 0.91,
+      "status": "approved",
+      "description": "Resilience architecture that gives an organization control over AI systems, data, infrastructure, models and local talent across jurisdictions so business continuity is not broken by regulation, geopolitics or supply-chain chokepoints.",
+      "descriptionRu": "Архитектура устойчивости, которая даёт организации контроль над AI-системами, данными, инфраструктурой, моделями и локальными талантами в разных юрисдикциях, чтобы непрерывность бизнеса не разрушалась из-за регулирования, геополитики или узких мест в цепочке поставок.",
+      "aiImpact": "AI-first",
+      "source": "R-IBM-TRENDS26-2026"
+    },
+    {
+      "id": "C-IBM-T26-007",
+      "label": "Chaos-ready AI orchestration",
+      "type": "OperatingCapability",
+      "level": "strategic",
+      "theme": "AI Governance and Accountability",
+      "importance": 5,
+      "confidence": 0.89,
+      "status": "approved",
+      "description": "Operating capability that lets workloads, data and AI agents move among trusted locations and providers, automates compliance, documents agent decision paths and monitors model drift before performance or bias risks escalate.",
+      "descriptionRu": "Операционная способность, позволяющая рабочим нагрузкам, данным и AI-агентам перемещаться между доверенными локациями и провайдерами, автоматизировать соблюдение требований, документировать пути решений агентов и отслеживать дрейф моделей до того, как растут риски качества или смещения.",
+      "aiImpact": "AI-first",
+      "source": "R-IBM-TRENDS26-2026"
+    },
+    {
+      "id": "C-IBM-T26-008",
+      "label": "Quantum ecosystem scale multiplier",
+      "type": "Strategy",
+      "level": "strategic",
+      "theme": "AI Strategy and Value Realization",
+      "importance": 4,
+      "confidence": 0.86,
+      "status": "approved",
+      "description": "Strategy for quantum advantage in which organizations use multiple ecosystems, complementary data, compute capabilities and shared expertise as scale multipliers no single enterprise can maintain alone.",
+      "descriptionRu": "Стратегия достижения квантового преимущества, при которой организации используют несколько экосистем, взаимодополняющие данные, вычислительные мощности и общую экспертизу как множитель масштаба, который отдельная компания не может поддерживать в одиночку.",
+      "aiImpact": "AI-supported",
+      "source": "R-IBM-TRENDS26-2026"
+    },
+    {
+      "id": "C-IBM-CEO25-001",
+      "label": "Luminary CEO capability stack",
+      "type": "LeadershipModel",
+      "level": "strategic",
+      "theme": "Leadership and Management",
+      "importance": 5,
+      "confidence": 0.88,
+      "status": "approved",
+      "description": "CEO capability model combining connected end-to-end workflows, decisive action, AI regulatory responsibility, future-focused investment, workforce impact awareness and unimpeded technology adoption to outperform in growth and margins.",
+      "descriptionRu": "Модель лидерских способностей CEO, объединяющая сквозную связанность рабочих процессов, решительность, ответственность перед AI-регулированием, инвестиции в будущее, понимание влияния AI на рабочую силу и способность быстро внедрять технологии для опережающего роста и маржинальности.",
+      "aiImpact": "AI-supported",
+      "source": "R-IBM-CEO25-MINDSHIFTS-2025"
+    },
+    {
+      "id": "C-IBM-CEO25-002",
+      "label": "Courage-core transformation governance",
+      "type": "LeadershipPractice",
+      "level": "strategic",
+      "theme": "Leadership and Management",
+      "importance": 5,
+      "confidence": 0.87,
+      "status": "approved",
+      "description": "Governance practice in which leaders make risk-taking safe by anchoring transformation in shared outcomes, broad decision authority, real-time information and systems that show how changes affect customers, reputation and employees.",
+      "descriptionRu": "Практика управления трансформацией, при которой лидеры делают риск осмысленным за счёт общих результатов, широких полномочий на решения, информации в реальном времени и систем, показывающих, как изменения влияют на клиентов, репутацию и сотрудников.",
+      "aiImpact": "AI-supported",
+      "source": "R-IBM-CEO25-MINDSHIFTS-2025"
+    },
+    {
+      "id": "C-IBM-CEO25-003",
+      "label": "Innovation liquidity",
+      "type": "ManagementPractice",
+      "level": "tactical",
+      "theme": "AI Strategy and Value Realization",
+      "importance": 4,
+      "confidence": 0.86,
+      "status": "approved",
+      "description": "Capital-allocation practice that creates earmarked transformation investment, budget flexibility and real-time reallocation so small innovation bets can build momentum toward larger strategic bets.",
+      "descriptionRu": "Практика распределения капитала, создающая целевые инвестиции в трансформацию, гибкость бюджета и перераспределение ресурсов в реальном времени, чтобы небольшие инновационные ставки накапливали импульс для более крупных стратегических ставок.",
+      "aiImpact": "AI-supported",
+      "source": "R-IBM-CEO25-MINDSHIFTS-2025"
+    },
+    {
+      "id": "C-IBM-CEO25-004",
+      "label": "AI-fueled creative destruction",
+      "type": "Strategy",
+      "level": "strategic",
+      "theme": "AI Strategy and Value Realization",
+      "importance": 5,
+      "confidence": 0.89,
+      "status": "approved",
+      "description": "Strategic posture in which CEOs deliberately use AI to challenge core business assumptions, retire outdated operating habits, rethink business and operating models, and create room for new product, service and market logic.",
+      "descriptionRu": "Стратегическая позиция, при которой CEO сознательно используют AI, чтобы проверять базовые предположения бизнеса, выводить из эксплуатации устаревшие операционные привычки, переосмыслять бизнес-модель и операционную модель и освобождать место для новой логики продуктов, сервисов и рынков.",
+      "aiImpact": "AI-first",
+      "source": "R-IBM-CEO25-MINDSHIFTS-2025"
+    },
+    {
+      "id": "C-IBM-CEO25-005",
+      "label": "Model-agnostic AI selection discipline",
+      "type": "GovernancePractice",
+      "level": "tactical",
+      "theme": "AI Governance and Accountability",
+      "importance": 4,
+      "confidence": 0.87,
+      "status": "approved",
+      "description": "AI governance discipline that avoids model lock-in by comparing alternative models, choosing the most effective and efficient model for each task, using open technologies where useful and retaining freedom to tailor models to business needs.",
+      "descriptionRu": "Дисциплина AI-управления, которая избегает зависимости от одной модели: сравнивает альтернативные модели, выбирает наиболее эффективную и экономичную модель под конкретную задачу, использует открытые технологии там, где это полезно, и сохраняет свободу адаптировать модели под потребности бизнеса.",
+      "aiImpact": "AI-first",
+      "source": "R-IBM-CEO25-MINDSHIFTS-2025"
+    },
+    {
+      "id": "C-IBM-CEO25-006",
+      "label": "AI-centric insight engine",
+      "type": "GovernancePattern",
+      "level": "tactical",
+      "theme": "AI Governance and Accountability",
+      "importance": 5,
+      "confidence": 0.88,
+      "status": "approved",
+      "description": "Operating pattern that defines how AI assistants and agents should operate, who validates their work, which metrics monitor effectiveness, and where AI should automate decisions versus support human mission-critical choices.",
+      "descriptionRu": "Операционная модель, которая определяет, как должны работать AI-ассистенты и AI-агенты, кто проверяет их работу, какие метрики отслеживают результативность и где AI должен автоматизировать решения, а где поддерживать критически важный человеческий выбор.",
+      "aiImpact": "AI-first",
+      "source": "R-IBM-CEO25-MINDSHIFTS-2025"
+    },
+    {
+      "id": "C-IBM-CEO25-007",
+      "label": "Enterprise data fabric for agentic AI",
+      "type": "Architecture",
+      "level": "strategic",
+      "theme": "AI Governance and Accountability",
+      "importance": 5,
+      "confidence": 0.9,
+      "status": "approved",
+      "description": "Data architecture that provides unified, governed, accessible and secure enterprise data across silos so AI agents and assistants can automate routine tasks, augment decisions and support high-value work at scale.",
+      "descriptionRu": "Архитектура данных, которая даёт единые, управляемые, доступные и защищённые корпоративные данные между силосами, чтобы AI-агенты и ассистенты могли автоматизировать рутинные задачи, усиливать решения и поддерживать работу с высокой добавленной ценностью в масштабе.",
+      "aiImpact": "AI-first",
+      "source": "R-IBM-CEO25-MINDSHIFTS-2025"
+    },
+    {
+      "id": "C-IBM-CEO25-008",
+      "label": "Agent training feedback loop",
+      "type": "Practice",
+      "level": "tactical",
+      "theme": "Human-AI Organization",
+      "importance": 4,
+      "confidence": 0.87,
+      "status": "approved",
+      "description": "Practice for training AI assistants and agents on organizational data, ethics, security, privacy and customer outcomes, then using agent feedback to improve data quality, accessibility and business processes.",
+      "descriptionRu": "Практика обучения AI-ассистентов и AI-агентов на данных организации, этических требованиях, безопасности, приватности и целевых клиентских результатах, а затем использования обратной связи от агентов для улучшения качества данных, доступности и бизнес-процессов.",
+      "aiImpact": "AI-first",
+      "source": "R-IBM-CEO25-MINDSHIFTS-2025"
+    },
+    {
+      "id": "C-IBM-CEO25-009",
+      "label": "Innovation ROI horizon",
+      "type": "ManagementTool",
+      "level": "tactical",
+      "theme": "AI Strategy and Value Realization",
+      "importance": 5,
+      "confidence": 0.88,
+      "status": "approved",
+      "description": "AI investment discipline that broadens ROI beyond cost reduction to customer satisfaction, retention, security, compliance, cross-sell, data value realization, innovation yield and time-to-insight, while stopping weak initiatives early.",
+      "descriptionRu": "Дисциплина AI-инвестиций, которая расширяет ROI за пределы сокращения затрат: включает удовлетворённость и удержание клиентов, безопасность, соблюдение требований, кросс-продажи, реализацию ценности данных, инновационную отдачу и время до получения инсайта, одновременно рано останавливая слабые инициативы.",
+      "aiImpact": "AI-supported",
+      "source": "R-IBM-CEO25-MINDSHIFTS-2025"
+    },
+    {
+      "id": "C-IBM-CEO25-010",
+      "label": "Build-buy-bot-borrow talent strategy",
+      "type": "TalentStrategy",
+      "level": "strategic",
+      "theme": "Skills and Workforce Architecture",
+      "importance": 5,
+      "confidence": 0.89,
+      "status": "approved",
+      "description": "Talent strategy that combines reskilling existing people, hiring scarce roles, embedding AI assistants and agents into workflows, and borrowing expertise from trusted ecosystem partners when critical skills cannot be built or bought fast enough.",
+      "descriptionRu": "Талант-стратегия, которая сочетает переобучение существующих сотрудников, найм дефицитных ролей, встраивание AI-ассистентов и агентов в рабочие процессы и привлечение экспертизы от доверенных экосистемных партнёров, когда критические навыки нельзя достаточно быстро вырастить или купить.",
+      "aiImpact": "AI-supported",
+      "source": "R-IBM-CEO25-MINDSHIFTS-2025"
+    },
+    {
+      "id": "C-IBM-CEO25-011",
+      "label": "CEO AI board",
+      "type": "GovernanceBody",
+      "level": "strategic",
+      "theme": "Leadership and Management",
+      "importance": 4,
+      "confidence": 0.86,
+      "status": "approved",
+      "description": "CEO-sponsored leadership body that blends technical and business skills, has authority to work across silos, identifies severe AI skills gaps, assigns top tech talent to strategic initiatives and reports directly to the CEO.",
+      "descriptionRu": "Лидерский орган под спонсорством CEO, объединяющий технические и бизнес-компетенции, имеющий полномочия работать между силосами, выявлять наиболее серьёзные разрывы AI-навыков, направлять лучших технических специалистов на стратегические инициативы и напрямую отчитываться CEO.",
+      "aiImpact": "AI-supported",
+      "source": "R-IBM-CEO25-MINDSHIFTS-2025"
+    },
+    {
+      "id": "C-LI-TV-001",
+      "label": "Talent velocity capability system",
+      "type": "OperatingCapability",
+      "level": "strategic",
+      "theme": "Skills and Workforce Architecture",
+      "importance": 5,
+      "confidence": 0.91,
+      "status": "approved",
+      "description": "Organization-wide capability to see skills, build or acquire needed capability, and mobilize talent in real time so workforce supply can keep pace with changing business and AI-economy demands.",
+      "descriptionRu": "Общеорганизационная способность видеть навыки, развивать или привлекать нужные компетенции и мобилизовать таланты в реальном времени, чтобы предложение рабочей силы успевало за изменяющимися требованиями бизнеса и AI-экономики.",
+      "aiImpact": "AI-supported",
+      "source": "R-LINKEDIN-TV-2026"
+    },
+    {
+      "id": "C-LI-TV-002",
+      "label": "Talent Velocity Curve maturity model",
+      "type": "MaturityModel",
+      "level": "tactical",
+      "theme": "Talent Marketplaces and Platforms",
+      "importance": 4,
+      "confidence": 0.88,
+      "status": "approved",
+      "description": "Five-level maturity model that moves organizations from static career-development activity to leading talent velocity, where programs across leadership, learning, AI, integrated ecosystem and career power are embedded and measured.",
+      "descriptionRu": "Пятиуровневая модель зрелости, которая переводит организации от статичной карьерной активности к лидерству в talent velocity, где программы по лидерству, обучению, AI, интегрированной экосистеме талантов и карьерной самостоятельности встроены в работу и измеряются.",
+      "aiImpact": "AI-supported",
+      "source": "R-LINKEDIN-TV-2026"
+    },
+    {
+      "id": "C-LI-TV-003",
+      "label": "Fluid internal talent ecosystem",
+      "type": "OrganizationModel",
+      "level": "strategic",
+      "theme": "Talent Marketplaces and Platforms",
+      "importance": 5,
+      "confidence": 0.89,
+      "status": "approved",
+      "description": "Internal talent ecosystem in which learning, coaching, mentoring, internal mobility and gig opportunities work together to move talent to the right work at the right time while improving retention and career pathways.",
+      "descriptionRu": "Внутренняя экосистема талантов, в которой обучение, коучинг, менторство, внутренняя мобильность и проектные возможности работают вместе, чтобы перемещать таланты к нужной работе в нужный момент и одновременно улучшать удержание и карьерные траектории.",
+      "aiImpact": "AI-supported",
+      "source": "R-LINKEDIN-TV-2026"
+    },
+    {
+      "id": "C-LI-TV-004",
+      "label": "Real-time skills and resourcing intelligence",
+      "type": "DataCapability",
+      "level": "tactical",
+      "theme": "Skills and Workforce Architecture",
+      "importance": 5,
+      "confidence": 0.9,
+      "status": "approved",
+      "description": "Real-time capability for seeing skills, adjacent skills, expertise depth, readiness and resourcing options so workforce planning, staffing and mobility can respond to changing priorities without relying on static job titles.",
+      "descriptionRu": "Способность в реальном времени видеть навыки, смежные навыки, глубину экспертизы, готовность и варианты ресурсного обеспечения, чтобы планирование рабочей силы, подбор команд и мобильность реагировали на меняющиеся приоритеты без опоры на статичные должности.",
+      "aiImpact": "AI-supported",
+      "source": "R-LINKEDIN-TV-2026"
+    },
+    {
+      "id": "C-LI-TV-005",
+      "label": "Skills-based project team assembly",
+      "type": "PlatformCapability",
+      "level": "tactical",
+      "theme": "Talent Marketplaces and Platforms",
+      "importance": 5,
+      "confidence": 0.88,
+      "status": "approved",
+      "description": "Platform capability for organizing teams around the skills needed for a specific task or project, rather than job titles, enabling faster staffing cycles, internal fulfillment and more precise allocation of talent.",
+      "descriptionRu": "Платформенная способность собирать команды вокруг навыков, необходимых для конкретной задачи или проекта, а не вокруг должностей, ускоряя циклы подбора команд, внутреннее закрытие потребностей и более точное распределение талантов.",
+      "aiImpact": "AI-supported",
+      "source": "R-LINKEDIN-TV-2026"
+    },
+    {
+      "id": "C-LI-TV-006",
+      "label": "Shared talent architecture source of truth",
+      "type": "Architecture",
+      "level": "strategic",
+      "theme": "Talent Marketplaces and Platforms",
+      "importance": 5,
+      "confidence": 0.92,
+      "status": "approved",
+      "description": "Shared architecture for roles, skills, job families, tasks and career pathways that serves as a common source of truth across HR, learning, talent acquisition, workforce planning and business leaders.",
+      "descriptionRu": "Единая архитектура ролей, навыков, семейств должностей, задач и карьерных траекторий, которая служит общим источником истины для HR, обучения, подбора талантов, планирования рабочей силы и бизнес-лидеров.",
+      "aiImpact": "AI-supported",
+      "source": "R-LINKEDIN-TV-2026"
+    },
+    {
+      "id": "C-LI-TV-007",
+      "label": "AI-powered career wayfinding",
+      "type": "PlatformCapability",
+      "level": "tactical",
+      "theme": "Talent Marketplaces and Platforms",
+      "importance": 5,
+      "confidence": 0.89,
+      "status": "approved",
+      "description": "AI-powered guidance that maps employee career goals, skills, interests and learning needs to internal opportunities, mobility paths and personalized development actions.",
+      "descriptionRu": "AI-навигация по карьере, которая сопоставляет карьерные цели, навыки, интересы и потребности в обучении сотрудника с внутренними возможностями, маршрутами мобильности и персонализированными действиями развития.",
+      "aiImpact": "AI-first",
+      "source": "R-LINKEDIN-TV-2026"
+    },
+    {
+      "id": "C-LI-TV-008",
+      "label": "Career goal-and-plan operating system",
+      "type": "Practice",
+      "level": "operational",
+      "theme": "Talent Marketplaces and Platforms",
+      "importance": 4,
+      "confidence": 0.86,
+      "status": "approved",
+      "description": "Operating practice that makes every employee’s career goal and plan part of onboarding, annual reviews, manager conversations and platform-driven mobility, turning career growth into an organizational sensing and planning mechanism.",
+      "descriptionRu": "Операционная практика, при которой карьерная цель и план каждого сотрудника становятся частью онбординга, ежегодных оценочных циклов, разговоров с менеджером и платформенной мобильности, превращая карьерный рост в механизм организационного считывания сигналов и планирования.",
+      "aiImpact": "AI-supported",
+      "source": "R-LINKEDIN-TV-2026"
+    },
+    {
+      "id": "C-LI-TV-009",
+      "label": "Internal gig opportunity marketplace",
+      "type": "PlatformCapability",
+      "level": "tactical",
+      "theme": "Talent Marketplaces and Platforms",
+      "importance": 4,
+      "confidence": 0.84,
+      "status": "approved",
+      "description": "Internal marketplace capability that exposes short-term projects, gigs, rotations and stretch assignments so employees can build skills while the organization mobilizes capacity beyond formal role boundaries.",
+      "descriptionRu": "Внутренняя marketplace-способность, которая открывает сотрудникам краткосрочные проекты, gig-задачи, ротации и stretch assignments, позволяя развивать навыки, а организации мобилизовать рабочую мощность за пределами формальных ролей.",
+      "aiImpact": "AI-supported",
+      "source": "R-LINKEDIN-TV-2026"
+    },
+    {
+      "id": "C-LI-TV-010",
+      "label": "Integrated talent action layer",
+      "type": "OperatingModel",
+      "level": "strategic",
+      "theme": "Talent Marketplaces and Platforms",
+      "importance": 5,
+      "confidence": 0.9,
+      "status": "approved",
+      "description": "Connected talent operating layer where hiring, learning, career development and mobility use the same skills intelligence so every build, buy or move decision strengthens long-term capability and business outcomes.",
+      "descriptionRu": "Связанный операционный слой управления талантами, где найм, обучение, карьерное развитие и мобильность используют одну и ту же skills intelligence, чтобы каждое решение build, buy или move усиливало долгосрочные способности организации и бизнес-результаты.",
+      "aiImpact": "AI-supported",
+      "source": "R-LINKEDIN-TV-2026"
+    },
+    {
+      "id": "C-LI-TV-011",
+      "label": "AI-first talent strategy",
+      "type": "TalentStrategy",
+      "level": "strategic",
+      "theme": "Skills and Workforce Architecture",
+      "importance": 5,
+      "confidence": 0.89,
+      "status": "approved",
+      "description": "Talent strategy that connects dynamic skills data to upskilling, career guidance, internal mobility and AI tool adoption in one system, treating AI as how work and career growth happen now rather than a future concern.",
+      "descriptionRu": "Талант-стратегия, которая связывает динамические данные о навыках с upskilling, карьерной навигацией, внутренней мобильностью и внедрением AI-инструментов в единую систему, рассматривая AI как текущий способ работы и карьерного роста, а не как вопрос будущего.",
+      "aiImpact": "AI-first",
+      "source": "R-LINKEDIN-TV-2026"
+    },
+    {
+      "id": "C-LI-TV-012",
+      "label": "Human-plus-AI skills portfolio",
+      "type": "SkillModel",
+      "level": "strategic",
+      "theme": "Skills and Workforce Architecture",
+      "importance": 5,
+      "confidence": 0.88,
+      "status": "approved",
+      "description": "Skills portfolio combining AI literacy, AI engineering and in-demand human skills such as communication, relationship-building, adaptability, trust-building, influencing and intercultural collaboration.",
+      "descriptionRu": "Портфель навыков, объединяющий AI-грамотность, AI-инжиниринг и востребованные человеческие навыки: коммуникацию, построение отношений, адаптивность, создание доверия, влияние и межкультурное сотрудничество.",
+      "aiImpact": "AI-supported",
+      "source": "R-LINKEDIN-TV-2026"
+    },
+    {
+      "id": "C-LI-TV-013",
+      "label": "Talent priorities operating rhythm",
+      "type": "LeadershipPractice",
+      "level": "tactical",
+      "theme": "Leadership and Management",
+      "importance": 4,
+      "confidence": 0.86,
+      "status": "approved",
+      "description": "Leadership practice that embeds talent priorities, learning, mobility and career development into company operating rhythms so employee growth is visible alongside revenue growth and strategic execution.",
+      "descriptionRu": "Лидерская практика, которая встраивает talent-приоритеты, обучение, мобильность и карьерное развитие в операционный ритм компании, чтобы рост сотрудников был виден рядом с ростом выручки и исполнением стратегии.",
+      "aiImpact": "AI-supported",
+      "source": "R-LINKEDIN-TV-2026"
+    },
+    {
+      "id": "C-LI-TV-014",
+      "label": "Daily-work learning culture",
+      "type": "LearningPractice",
+      "level": "tactical",
+      "theme": "Employee Development",
+      "importance": 4,
+      "confidence": 0.86,
+      "status": "approved",
+      "description": "Learning culture where development flows through daily work, microlearning, peer rituals, post-project debriefs, forums and AI-powered coaching rather than staying limited to formal programs and compliance training.",
+      "descriptionRu": "Культура обучения, в которой развитие встроено в ежедневную работу, microlearning, peer-ритуалы, разборы после проектов, форумы и AI-коучинг, а не ограничивается формальными программами и обучением по требованиям compliance.",
+      "aiImpact": "AI-supported",
+      "source": "R-LINKEDIN-TV-2026"
+    },
+    {
+      "id": "C-ACC-LR25-001",
+      "label": "Co-learning readiness conditions",
+      "type": "ReadinessModel",
+      "level": "strategic",
+      "theme": "Employee Development",
+      "importance": 5,
+      "confidence": 0.9,
+      "status": "approved",
+      "description": "Four-condition readiness model for co-learning: lead with curiosity and creativity, incorporate learning as part of the job, hardwire trust, and make gen AI work the way people work.",
+      "descriptionRu": "Модель готовности к co-learning из четырёх условий: вести через любопытство и креативность, встраивать обучение в саму работу, жёстко вшивать доверие и делать gen AI совместимым с тем, как люди реально работают.",
+      "aiImpact": "AI-first",
+      "source": "R-ACC-LR25-2025"
+    },
+    {
+      "id": "C-ACC-LR25-002",
+      "label": "Human-AI mutual learning loop",
+      "type": "LearningMechanism",
+      "level": "tactical",
+      "theme": "Human-AI Organization",
+      "importance": 5,
+      "confidence": 0.9,
+      "status": "approved",
+      "description": "Two-way learning loop where people teach AI through edits, skipped prompts, ratings and workflow feedback while learning from AI guidance, pattern recognition and personalized support in real work.",
+      "descriptionRu": "Двусторонняя петля обучения, в которой люди обучают AI через правки, пропущенные подсказки, оценки и обратную связь в рабочем процессе, одновременно обучаясь у AI через рекомендации, распознавание паттернов и персонализированную поддержку в реальной работе.",
+      "aiImpact": "AI-first",
+      "source": "R-ACC-LR25-2025"
+    },
+    {
+      "id": "C-ACC-LR25-003",
+      "label": "GenAI catalyst experimentation program",
+      "type": "ChangePractice",
+      "level": "tactical",
+      "theme": "AI Strategy and Value Realization",
+      "importance": 4,
+      "confidence": 0.85,
+      "status": "approved",
+      "description": "Leadership-led experimentation program that uses gen AI prototypes, recognition, peer learning and adaptive modules to normalize experimentation and show how AI changes roles, workflows and business outcomes.",
+      "descriptionRu": "Программа экспериментов под лидерством руководителей, которая использует gen AI-прототипы, признание достижений, peer learning и адаптивные модули, чтобы нормализовать эксперименты и показать, как AI меняет роли, процессы и бизнес-результаты.",
+      "aiImpact": "AI-first",
+      "source": "R-ACC-LR25-2025"
+    },
+    {
+      "id": "C-ACC-LR25-004",
+      "label": "Co-learning leadership accountability",
+      "type": "LeadershipPractice",
+      "level": "tactical",
+      "theme": "Leadership and Management",
+      "importance": 4,
+      "confidence": 0.86,
+      "status": "approved",
+      "description": "Leadership practice that makes gen AI uptake, visible experimentation, employee feedback, rewards and human-AI collaboration outcomes a measurable executive responsibility rather than a voluntary training activity.",
+      "descriptionRu": "Лидерская практика, при которой освоение gen AI, видимые эксперименты, обратная связь сотрудников, вознаграждения и результаты human-AI collaboration становятся измеримой ответственностью руководителей, а не добровольной учебной активностью.",
+      "aiImpact": "AI-supported",
+      "source": "R-ACC-LR25-2025"
+    },
+    {
+      "id": "C-ACC-LR25-005",
+      "label": "Just-in-time AI coaching in work",
+      "type": "LearningPractice",
+      "level": "operational",
+      "theme": "Employee Development",
+      "importance": 5,
+      "confidence": 0.88,
+      "status": "approved",
+      "description": "AI-powered coaching embedded in workflow through simulations, real-time feedback, nudges, practice recordings and personalized prompts, helping employees build skills without leaving the work context.",
+      "descriptionRu": "AI-коучинг, встроенный в рабочий процесс через симуляции, обратную связь в реальном времени, подсказки, записи тренировок и персонализированные запросы к AI, помогающий сотрудникам развивать навыки без выхода из рабочего контекста.",
+      "aiImpact": "AI-first",
+      "source": "R-ACC-LR25-2025"
+    },
+    {
+      "id": "C-ACC-LR25-006",
+      "label": "Tiered AI fluency progression",
+      "type": "LearningArchitecture",
+      "level": "tactical",
+      "theme": "Employee Development",
+      "importance": 4,
+      "confidence": 0.86,
+      "status": "approved",
+      "description": "Structured AI fluency progression with levels that move employees from AI governance and compliance basics to prompt engineering, AI interaction and eventually leading workshops and sharing best practices.",
+      "descriptionRu": "Структурированная траектория AI-грамотности с уровнями, которые переводят сотрудников от основ AI-управления и соблюдения требований к созданию запросов, взаимодействию с AI и затем к ведению воркшопов и распространению лучших практик.",
+      "aiImpact": "AI-supported",
+      "source": "R-ACC-LR25-2025"
+    },
+    {
+      "id": "C-ACC-LR25-007",
+      "label": "AI-native role progression pathways",
+      "type": "CareerArchitecture",
+      "level": "tactical",
+      "theme": "Skills and Workforce Architecture",
+      "importance": 4,
+      "confidence": 0.86,
+      "status": "approved",
+      "description": "Career architecture that links AI fluency and human-AI collaboration skills to advancement, new AI-native roles, learning communities and pathways for guiding complex AI environments.",
+      "descriptionRu": "Карьерная архитектура, которая связывает AI-грамотность и навыки human-AI collaboration с продвижением, новыми AI-native ролями, учебными сообществами и траекториями для управления сложными AI-средами.",
+      "aiImpact": "AI-first",
+      "source": "R-ACC-LR25-2025"
+    },
+    {
+      "id": "C-ACC-LR25-008",
+      "label": "Trust-by-design co-learning governance",
+      "type": "GovernancePattern",
+      "level": "tactical",
+      "theme": "AI Governance and Accountability",
+      "importance": 5,
+      "confidence": 0.9,
+      "status": "approved",
+      "description": "Governance pattern for co-learning that combines clear accountability for AI outcomes, explainability in daily workflows, employee challenge channels, responsible-use microlearning and dynamic human oversight.",
+      "descriptionRu": "Паттерн управления co-learning, который объединяет ясную ответственность за AI-результаты, объяснимость в ежедневных рабочих процессах, каналы для оспаривания и обратной связи сотрудников, microlearning по ответственному использованию и динамический человеческий надзор.",
+      "aiImpact": "AI-first",
+      "source": "R-ACC-LR25-2025"
+    },
+    {
+      "id": "C-ACC-LR25-009",
+      "label": "Structured AI agent onboarding and evaluation",
+      "type": "GovernancePractice",
+      "level": "tactical",
+      "theme": "AI Governance and Accountability",
+      "importance": 4,
+      "confidence": 0.87,
+      "status": "approved",
+      "description": "Practice for onboarding and evaluating AI agents against business goals, ethical standards and compliance requirements before and during their use in evolving human-AI workflows.",
+      "descriptionRu": "Практика онбординга и оценки AI-агентов по бизнес-целям, этическим стандартам и требованиям соблюдения правил до и во время их использования в развивающихся human-AI рабочих процессах.",
+      "aiImpact": "AI-first",
+      "source": "R-ACC-LR25-2025"
+    },
+    {
+      "id": "C-ACC-LR25-010",
+      "label": "Work-shaped AI experience design",
+      "type": "DesignPattern",
+      "level": "tactical",
+      "theme": "Human-AI Organization",
+      "importance": 5,
+      "confidence": 0.88,
+      "status": "approved",
+      "description": "Design pattern that makes AI tools intuitive from first use, embedded in employee work activities, supported by help and coaching, and continuously improved through usability testing and feedback mechanisms.",
+      "descriptionRu": "Паттерн дизайна, при котором AI-инструменты интуитивны с первого использования, встроены в реальные рабочие активности сотрудников, поддержаны помощью и коучингом и постоянно улучшаются через тестирование удобства и механизмы обратной связи.",
+      "aiImpact": "AI-first",
+      "source": "R-ACC-LR25-2025"
+    },
+    {
+      "id": "C-ACC-LR25-011",
+      "label": "Horizontal human-AI value redesign",
+      "type": "WorkDesignPattern",
+      "level": "strategic",
+      "theme": "Human-AI Organization",
+      "importance": 5,
+      "confidence": 0.87,
+      "status": "approved",
+      "description": "Work redesign pattern that anchors gen AI efforts in shared outcomes across business units, redesigns work and learning together, and avoids isolated pilots by making human-AI collaboration central to value creation.",
+      "descriptionRu": "Паттерн редизайна работы, который привязывает gen AI к общим результатам между бизнес-единицами, одновременно перепроектирует работу и обучение и избегает изолированных пилотов, делая human-AI collaboration центральным механизмом создания ценности.",
+      "aiImpact": "AI-first",
+      "source": "R-ACC-LR25-2025"
+    },
+    {
+      "id": "C-OAI-AIJTF-001",
+      "label": "AI jobs transition framework",
+      "type": "Framework",
+      "level": "strategic",
+      "theme": "Workforce Planning",
+      "importance": 5,
+      "confidence": 0.92,
+      "status": "approved",
+      "description": "Framework for classifying occupations by near-term AI transition pressure using technical exposure, realized AI usage, human necessity and demand elasticity instead of relying on exposure scores alone.",
+      "descriptionRu": "Рамка для классификации профессий по краткосрочному давлению перехода к AI: она учитывает техническую подверженность AI, фактическое использование AI, необходимость участия человека и эластичность спроса, а не только общий показатель подверженности.",
+      "aiImpact": "AI-first",
+      "source": "R-OAI-AIJTF-2026"
+    },
+    {
+      "id": "C-OAI-AIJTF-002",
+      "label": "Human necessity bottleneck taxonomy",
+      "type": "Taxonomy",
+      "level": "strategic",
+      "theme": "AI Work Redesign",
+      "importance": 5,
+      "confidence": 0.9,
+      "status": "approved",
+      "description": "Taxonomy of human bottlenecks that keep work human-led even under high AI exposure, including regulatory accountability, relational trust and care, and physical execution in the real world.",
+      "descriptionRu": "Таксономия человеческих ограничителей, которые сохраняют работу под руководством человека даже при высокой подверженности AI: регуляторная ответственность, доверие и забота в отношениях, а также физическое выполнение действий в реальном мире.",
+      "aiImpact": "AI-first",
+      "source": "R-OAI-AIJTF-2026"
+    },
+    {
+      "id": "C-OAI-AIJTF-003",
+      "label": "Demand elasticity transition lens",
+      "type": "Metric",
+      "level": "strategic",
+      "theme": "Workforce Planning",
+      "importance": 5,
+      "confidence": 0.87,
+      "status": "approved",
+      "description": "Demand-side lens that estimates whether AI-driven lower effective cost will mainly reduce labor needs or expand demand enough to offset productivity-driven headcount compression.",
+      "descriptionRu": "Линза спроса, которая оценивает, приведет ли снижение эффективной стоимости за счет AI прежде всего к сокращению потребности в труде или расширит спрос настолько, что компенсирует снижение численности из-за роста продуктивности.",
+      "aiImpact": "AI-first",
+      "source": "R-OAI-AIJTF-2026"
+    },
+    {
+      "id": "C-OAI-AIJTF-004",
+      "label": "Capability overhang by occupation",
+      "type": "Metric",
+      "level": "tactical",
+      "theme": "AI Strategy and Value Realization",
+      "importance": 4,
+      "confidence": 0.88,
+      "status": "approved",
+      "description": "Occupation-level gap between theoretical AI exposure and realized work-related AI usage, used to distinguish genuine insulation from delayed diffusion and institutional friction.",
+      "descriptionRu": "Показатель разрыва на уровне профессий между теоретической подверженностью AI и фактическим рабочим использованием AI; помогает отличать реальную защищенность от задержки внедрения и институциональных барьеров.",
+      "aiImpact": "AI-first",
+      "source": "R-OAI-AIJTF-2026"
+    },
+    {
+      "id": "C-OAI-AIJTF-005",
+      "label": "Localized AI transition early-warning system",
+      "type": "Practice",
+      "level": "tactical",
+      "theme": "Workforce Planning",
+      "importance": 5,
+      "confidence": 0.89,
+      "status": "approved",
+      "description": "Practice of monitoring occupations and local labor markets where observed AI exposure, weak human necessity and low demand offset indicate early automation pressure requiring transition assistance and reskilling support.",
+      "descriptionRu": "Практика мониторинга профессий и локальных рынков труда, где фактическая подверженность AI, слабая необходимость участия человека и низкая компенсация через спрос указывают на раннее автоматизационное давление и требуют помощи в переходе и поддержки переобучения.",
+      "aiImpact": "AI-first",
+      "source": "R-OAI-AIJTF-2026"
+    },
+    {
+      "id": "C-OAI-AIJTF-006",
+      "label": "Reorganizing-job guardrail design",
+      "type": "GovernancePractice",
+      "level": "tactical",
+      "theme": "AI Governance and Accountability",
+      "importance": 4,
+      "confidence": 0.87,
+      "status": "approved",
+      "description": "Guardrail practice for jobs that remain human-led but are reorganized by AI, using staffing standards, professional guidance, workload rules, service-quality controls and worker autonomy protections.",
+      "descriptionRu": "Практика защитных правил для профессий, которые остаются под руководством человека, но реорганизуются под влиянием AI: стандарты численности, профессиональные рекомендации, правила нагрузки, контроль качества услуг и защита автономии работников.",
+      "aiImpact": "AI-first",
+      "source": "R-OAI-AIJTF-2026"
+    },
+    {
+      "id": "C-OAI-AIJTF-007",
+      "label": "Scale-expansion strategy for AI-growth jobs",
+      "type": "WorkforceStrategy",
+      "level": "strategic",
+      "theme": "Workforce Planning",
+      "importance": 4,
+      "confidence": 0.86,
+      "status": "approved",
+      "description": "Strategy for occupations where AI may expand demand by lowering effective cost, focusing on capacity-building, access expansion, procurement or reimbursement redesign, and pathways that let more workers benefit from growth.",
+      "descriptionRu": "Стратегия для профессий, где AI может расширить спрос за счет снижения эффективной стоимости: развитие пропускной способности, расширение доступа, пересмотр закупок или возмещения расходов и траектории, позволяющие большему числу работников выиграть от роста.",
+      "aiImpact": "AI-first",
+      "source": "R-OAI-AIJTF-2026"
+    },
+    {
+      "id": "C-OAI-AIJTF-008",
+      "label": "Shapeable AI labor-market transition",
+      "type": "Framework",
+      "level": "strategic",
+      "theme": "Workforce Planning",
+      "importance": 5,
+      "confidence": 0.88,
+      "status": "approved",
+      "description": "Strategic view of the AI labor-market transition as a process that institutions, firms and workers can shape with better information, rather than a disruption to merely observe or forecast passively.",
+      "descriptionRu": "Стратегический взгляд на переход рынка труда к AI как на процесс, который институты, компании и работники могут формировать с помощью более качественной информации, а не как на сбой, который остается только наблюдать или пассивно прогнозировать.",
+      "aiImpact": "AI-first",
+      "source": "R-OAI-AIJTF-2026"
+    },
+    {
+      "id": "C-OAI-AIJTF-009",
+      "label": "Occupational transition measurement infrastructure",
+      "type": "DataInfrastructure",
+      "level": "strategic",
+      "theme": "Skills and Workforce Architecture",
+      "importance": 5,
+      "confidence": 0.87,
+      "status": "approved",
+      "description": "Measurement infrastructure that combines task structures, occupation archetypes, theoretical and realized AI exposure, employment shifts and local labor-market signals to monitor AI transition pressure over time.",
+      "descriptionRu": "Измерительная инфраструктура, которая объединяет структуру задач, архетипы профессий, теоретическую и фактическую подверженность AI, изменения занятости и сигналы локального рынка труда, чтобы отслеживать давление AI-перехода во времени.",
+      "aiImpact": "AI-first",
+      "source": "R-OAI-AIJTF-2026"
+    },
+    {
+      "id": "C-OAI-AIJTF-010",
+      "label": "Archetype-specific AI transition policy portfolio",
+      "type": "PolicyPortfolio",
+      "level": "strategic",
+      "theme": "AI Governance and Accountability",
+      "importance": 5,
+      "confidence": 0.88,
+      "status": "approved",
+      "description": "Portfolio of differentiated responses for AI transition archetypes: transition assistance and reskilling for automation-risk jobs, guardrails for reorganizing jobs, capacity-building for AI-growth jobs, and monitoring for slower-change jobs.",
+      "descriptionRu": "Портфель разных мер для архетипов AI-перехода: помощь в переходе и переобучение для профессий с риском автоматизации, защитные правила для реорганизуемых профессий, развитие пропускной способности для профессий, растущих вместе с AI, и мониторинг для профессий с более медленными изменениями.",
+      "aiImpact": "AI-first",
+      "source": "R-OAI-AIJTF-2026"
+    },
+    {
+      "id": "C-WEF-CPO26-001",
+      "label": "Critical skills matching constraint",
+      "type": "Signal",
+      "level": "tactical",
+      "theme": "Skills and Workforce Architecture",
+      "importance": 5,
+      "confidence": 0.9,
+      "status": "approved",
+      "description": "Talent-market constraint where the main issue is not total labor supply but matching people to high-skilled, future-ready capabilities through skills-based workforce strategies.",
+      "descriptionRu": "Ограничение рынка талантов, при котором главная проблема не в общем объеме предложения труда, а в сопоставлении людей с критически важными и готовыми к будущему навыками через стратегии рабочей силы, основанные на навыках.",
+      "aiImpact": "AI-supported",
+      "source": "R-WEF-CPO26-2026"
+    },
+    {
+      "id": "C-WEF-CPO26-002",
+      "label": "Role-grounded AI scaling",
+      "type": "Practice",
+      "level": "tactical",
+      "theme": "Human-AI Organization",
+      "importance": 5,
+      "confidence": 0.89,
+      "status": "approved",
+      "description": "Practice of scaling AI by grounding adoption in real roles, workflows and work context rather than relying on mandatory generic AI training that does not stick.",
+      "descriptionRu": "Практика масштабирования AI через привязку внедрения к реальным ролям, рабочим процессам и контексту работы, а не через обязательное универсальное AI-обучение, которое плохо закрепляется.",
+      "aiImpact": "AI-first",
+      "source": "R-WEF-CPO26-2026"
+    },
+    {
+      "id": "C-WEF-CPO26-003",
+      "label": "AI workforce outcome redesign",
+      "type": "Practice",
+      "level": "tactical",
+      "theme": "HR Operating Model",
+      "importance": 5,
+      "confidence": 0.9,
+      "status": "approved",
+      "description": "HR practice that shifts AI deployment from individual upskilling toward redesigning roles, workflows, performance management and talent processes so adoption produces sustainable workforce outcomes.",
+      "descriptionRu": "HR-практика, которая переводит внедрение AI от индивидуального повышения квалификации к перепроектированию ролей, рабочих процессов, управления результативностью и процессов управления талантами, чтобы внедрение давало устойчивые результаты для рабочей силы.",
+      "aiImpact": "AI-first",
+      "source": "R-WEF-CPO26-2026"
+    },
+    {
+      "id": "C-WEF-CPO26-004",
+      "label": "CPO-technology AI rollout partnership",
+      "type": "Practice",
+      "level": "tactical",
+      "theme": "AI in HR",
+      "importance": 4,
+      "confidence": 0.86,
+      "status": "approved",
+      "description": "Cross-functional implementation practice where people leaders collaborate with technical departments to design, deploy and govern AI tools and policies before enterprise rollout.",
+      "descriptionRu": "Кросс-функциональная практика внедрения, при которой руководители people-функции работают с техническими подразделениями над дизайном, запуском и управлением AI-инструментами и политиками до масштабирования в организации.",
+      "aiImpact": "AI-first",
+      "source": "R-WEF-CPO26-2026"
+    },
+    {
+      "id": "C-WEF-CPO26-005",
+      "label": "Geopolitical workforce impact radar",
+      "type": "Capability",
+      "level": "tactical",
+      "theme": "Workforce Planning",
+      "importance": 5,
+      "confidence": 0.88,
+      "status": "approved",
+      "description": "Capability for tracking how labor-market interventions, migration and visa restrictions, cyberthreats, critical-technology competition and regional instability affect access to people, talent and skills.",
+      "descriptionRu": "Способность отслеживать, как вмешательства в рынок труда, миграционные и визовые ограничения, киберугрозы, конкуренция в критических технологиях и региональная нестабильность влияют на доступ к людям, талантам и навыкам.",
+      "aiImpact": "AI-supported",
+      "source": "R-WEF-CPO26-2026"
+    },
+    {
+      "id": "C-WEF-CPO26-006",
+      "label": "Rapid redeployment resilience capability",
+      "type": "Capability",
+      "level": "tactical",
+      "theme": "Workforce Planning",
+      "importance": 5,
+      "confidence": 0.89,
+      "status": "approved",
+      "description": "Capability to strengthen internal mobility and rapidly redeploy employees in response to geoeconomic or geopolitical shocks, regional skills shortages and changing role demand.",
+      "descriptionRu": "Способность усиливать внутреннюю мобильность и быстро перераспределять сотрудников в ответ на геоэкономические или геополитические шоки, региональные дефициты навыков и изменение спроса на роли.",
+      "aiImpact": "AI-supported",
+      "source": "R-WEF-CPO26-2026"
+    },
+    {
+      "id": "C-WEF-CPO26-007",
+      "label": "Sensitive workforce role safeguarding",
+      "type": "Practice",
+      "level": "tactical",
+      "theme": "AI Governance and Accountability",
+      "importance": 4,
+      "confidence": 0.86,
+      "status": "approved",
+      "description": "Practice of protecting sensitive workforce roles by strengthening cybersecurity, data protection and role-level safeguards in response to geopolitical risk, cyberthreats and data breaches.",
+      "descriptionRu": "Практика защиты чувствительных ролей рабочей силы через усиление кибербезопасности, защиты данных и защитных мер на уровне ролей в ответ на геополитические риски, киберугрозы и утечки данных.",
+      "aiImpact": "AI-supported",
+      "source": "R-WEF-CPO26-2026"
+    },
+    {
+      "id": "C-WEF-CPO26-008",
+      "label": "Regulatory-responsive rewards review",
+      "type": "Practice",
+      "level": "tactical",
+      "theme": "Employee Experience and Retention",
+      "importance": 4,
+      "confidence": 0.85,
+      "status": "approved",
+      "description": "Practice of reviewing reward, pay and benefits frameworks to reflect regulatory shifts, protectionist policies, wage pressures and regional workforce constraints.",
+      "descriptionRu": "Практика пересмотра вознаграждения, оплаты и льгот с учетом регуляторных изменений, протекционистских мер, давления на зарплаты и региональных ограничений рабочей силы.",
+      "aiImpact": "Zero-AI",
+      "source": "R-WEF-CPO26-2026"
+    },
+    {
+      "id": "C-WEF-CPO26-009",
+      "label": "Diversified regional talent hub resilience",
+      "type": "OrganizationModel",
+      "level": "tactical",
+      "theme": "Regional Talent Hubs",
+      "importance": 5,
+      "confidence": 0.88,
+      "status": "approved",
+      "description": "Regional talent hub model that reduces geopolitical dependency through diversified talent pools, localization, targeted upskilling, domestic capability-building and strategic international mobility.",
+      "descriptionRu": "Модель региональных хабов талантов, которая снижает геополитическую зависимость через диверсифицированные пулы талантов, локализацию, целевое развитие навыков, создание внутренних национальных компетенций и стратегическую международную мобильность.",
+      "aiImpact": "AI-supported",
+      "source": "R-WEF-CPO26-2026"
+    },
+    {
+      "id": "C-WEF-CPO26-010",
+      "label": "Ecosystem talent development collaboration",
+      "type": "Practice",
+      "level": "tactical",
+      "theme": "Workforce Planning",
+      "importance": 4,
+      "confidence": 0.86,
+      "status": "approved",
+      "description": "Collaborative workforce-development practice in which employers, governments, academia and industry build and mobilize talent across sectors and geographies rather than competing for scarce talent firm by firm.",
+      "descriptionRu": "Практика совместного развития рабочей силы, при которой работодатели, государство, академическая среда и отрасли вместе создают и мобилизуют таланты между секторами и географиями, а не конкурируют за дефицитных людей каждая организация по отдельности.",
+      "aiImpact": "AI-supported",
+      "source": "R-WEF-CPO26-2026"
+    },
+    {
+      "id": "C-ACC-COINT-001",
+      "label": "Co-intelligence enterprise operating system",
+      "type": "OrganizationModel",
+      "level": "strategic",
+      "theme": "Human-AI Organization",
+      "importance": 5,
+      "confidence": 0.91,
+      "status": "approved",
+      "description": "Enterprise operating system in which humans set direction, define guardrails, challenge analysis, make trade-offs and own outcomes while AI agents and machines coordinate and execute bounded work across functions.",
+      "descriptionRu": "Операционная система предприятия, в которой люди задают направление, определяют ограничения, оспаривают анализ, принимают компромиссные решения и владеют результатами, а AI-агенты и машины координируют и выполняют ограниченную рамками работу между функциями.",
+      "aiImpact": "AI-first",
+      "source": "R-ACC-COINT-2026"
+    },
+    {
+      "id": "C-ACC-COINT-002",
+      "label": "Agentic dividend redeployment discipline",
+      "type": "Practice",
+      "level": "strategic",
+      "theme": "AI Strategy and Value Realization",
+      "importance": 5,
+      "confidence": 0.9,
+      "status": "approved",
+      "description": "Management discipline that turns agentic productivity gains into growth by deliberately redeploying freed capacity toward higher-value work, faster product iteration, new offerings, customer response and capital allocation.",
+      "descriptionRu": "Управленческая дисциплина, которая превращает прирост продуктивности от агентных систем в рост за счет целевого перераспределения высвобожденной мощности в более ценную работу, ускорение продуктовых итераций, новые предложения, реакцию на клиентов и распределение капитала.",
+      "aiImpact": "AI-first",
+      "source": "R-ACC-COINT-2026"
+    },
+    {
+      "id": "C-ACC-COINT-003",
+      "label": "Task-level agentic value-risk mapping",
+      "type": "Measurement",
+      "level": "tactical",
+      "theme": "AI Strategy and Value Realization",
+      "importance": 5,
+      "confidence": 0.89,
+      "status": "approved",
+      "description": "Bottom-up measurement method that maps digital and physical agent impact by task, role, function, value potential and risk-sensitive decision volume to prioritize deployment and governance.",
+      "descriptionRu": "Метод измерения снизу вверх, который сопоставляет влияние цифровых и физических агентов с задачами, ролями, функциями, потенциалом ценности и объемом риск-чувствительных решений, чтобы приоритизировать внедрение и управление.",
+      "aiImpact": "AI-first",
+      "source": "R-ACC-COINT-2026"
+    },
+    {
+      "id": "C-ACC-COINT-004",
+      "label": "Reusable enterprise agent portfolio",
+      "type": "TechnologyArchitecture",
+      "level": "tactical",
+      "theme": "Work Design and Operating Model",
+      "importance": 4,
+      "confidence": 0.88,
+      "status": "approved",
+      "description": "Coordinated portfolio of reusable digital and physical agents that recur across functions and industries, creating economies of scale, continuous learning and less dependence on isolated one-off AI use cases.",
+      "descriptionRu": "Скоординированный портфель повторно используемых цифровых и физических агентов, которые применяются в разных функциях и отраслях, создавая экономию масштаба, непрерывное обучение и меньшую зависимость от разовых изолированных AI-сценариев.",
+      "aiImpact": "AI-first",
+      "source": "R-ACC-COINT-2026"
+    },
+    {
+      "id": "C-ACC-COINT-005",
+      "label": "Human-led agentic operating boundaries",
+      "type": "GovernanceModel",
+      "level": "tactical",
+      "theme": "AI Governance and Accountability",
+      "importance": 5,
+      "confidence": 0.9,
+      "status": "approved",
+      "description": "Governance pattern that defines what counts as an agent, how agents enter workflows and decision flows, what boundaries they operate within, when they escalate and who owns decisions, risk and trust.",
+      "descriptionRu": "Паттерн управления, который определяет, что считается агентом, как агенты встраиваются в рабочие процессы и потоки решений, в каких границах они действуют, когда передают вопрос человеку и кто владеет решениями, риском и доверием.",
+      "aiImpact": "AI-first",
+      "source": "R-ACC-COINT-2026"
+    },
+    {
+      "id": "C-ACC-COINT-006",
+      "label": "Human+ workforce reinvention proposition",
+      "type": "OrganizationModel",
+      "level": "strategic",
+      "theme": "Human-AI Organization",
+      "importance": 5,
+      "confidence": 0.88,
+      "status": "approved",
+      "description": "Workforce reinvention model that redesigns roles, teams and workflows around people, AI agents and robots, while making the individual employee value proposition clearer: more meaningful work, higher-level skills and human-in-the-lead agency.",
+      "descriptionRu": "Модель переизобретения рабочей силы, которая перестраивает роли, команды и рабочие процессы вокруг людей, AI-агентов и роботов, одновременно делая ценностное предложение для сотрудника яснее: более содержательная работа, навыки более высокого уровня и субъектность человека в ведущей роли.",
+      "aiImpact": "AI-first",
+      "source": "R-ACC-COINT-2026"
+    },
+    {
+      "id": "C-ACC-COINT-007",
+      "label": "Skills-to-economic-value index",
+      "type": "Measurement",
+      "level": "tactical",
+      "theme": "Skills and Workforce Architecture",
+      "importance": 4,
+      "confidence": 0.87,
+      "status": "approved",
+      "description": "Skills architecture that decomposes jobs into tasks and skills, links skills to economic value, identifies capabilities that are rewarded or commoditized in context and informs hiring, compensation and development decisions.",
+      "descriptionRu": "Архитектура навыков, которая раскладывает должности на задачи и навыки, связывает навыки с экономической ценностью, показывает, какие способности в конкретном контексте вознаграждаются или коммодитизируются, и помогает принимать решения о найме, оплате и развитии.",
+      "aiImpact": "AI-supported",
+      "source": "R-ACC-COINT-2026"
+    },
+    {
+      "id": "C-ACC-COINT-008",
+      "label": "Responsibility asymmetry in co-intelligence",
+      "type": "Principle",
+      "level": "strategic",
+      "theme": "AI Governance and Accountability",
+      "importance": 5,
+      "confidence": 0.92,
+      "status": "approved",
+      "description": "Governance principle that intelligence, reasoning and execution may scale through AI, but accountability, legitimacy, moral responsibility, stewardship and long-term societal obligation remain human.",
+      "descriptionRu": "Принцип управления, согласно которому интеллект, рассуждение и исполнение могут масштабироваться через AI, но подотчетность, легитимность, моральная ответственность, stewardship и долгосрочные общественные обязательства остаются человеческими.",
+      "aiImpact": "AI-first",
+      "source": "R-ACC-COINT-2026"
+    },
+    {
+      "id": "C-ACC-COINT-009",
+      "label": "Co-intelligence leadership mandate",
+      "type": "LeadershipMindset",
+      "level": "strategic",
+      "theme": "Leadership and Management",
+      "importance": 5,
+      "confidence": 0.9,
+      "status": "approved",
+      "description": "Leadership mandate to translate co-intelligence into economic, individual, organizational and societal outcomes through coordinated decisions across operating models, economics, talent, learning, technology and governance.",
+      "descriptionRu": "Лидерский мандат, который переводит co-intelligence в экономические, индивидуальные, организационные и общественные результаты через согласованные решения в операционных моделях, экономике, талантах, обучении, технологиях и управлении.",
+      "aiImpact": "AI-first",
+      "source": "R-ACC-COINT-2026"
+    },
+    {
+      "id": "C-LI-LMR-001",
+      "label": "Labor-market slowdown attribution discipline",
+      "type": "Signal",
+      "level": "strategic",
+      "theme": "Workforce Planning",
+      "importance": 5,
+      "confidence": 0.86,
+      "status": "approved",
+      "description": "A workforce-planning discipline that separates AI-disruption narratives from macroeconomic hiring conditions, using labor-market evidence to avoid over-attributing slow hiring to automation.",
+      "descriptionRu": "Дисциплина интерпретации рынка труда, которая отделяет разговоры об AI-disruption от макроэкономических причин замедления найма. Она помогает не приписывать автоматизации то, что лучше объясняется процентными ставками, постпандемийной нормализацией и общей осторожностью компаний.",
+      "aiImpact": "AI-supported",
+      "source": "R-LINKEDIN-LMR-2026"
+    },
+    {
+      "id": "C-LI-LMR-002",
+      "label": "New-collar AI infrastructure roles",
+      "type": "RoleModel",
+      "level": "strategic",
+      "theme": "Workforce Planning",
+      "importance": 5,
+      "confidence": 0.84,
+      "status": "approved",
+      "description": "Emerging work roles around AI infrastructure and operations that combine technical fluency, operational execution, manual capability, and adaptability without always requiring traditional degrees.",
+      "descriptionRu": "Новые роли вокруг AI-инфраструктуры и AI-операций, в которых техническая грамотность сочетается с операционным исполнением, практическими навыками и адаптивностью. Такие роли часто расширяют рынок возможностей за пределы классических дипломных траекторий.",
+      "aiImpact": "AI-first",
+      "source": "R-LINKEDIN-LMR-2026"
+    },
+    {
+      "id": "C-LI-LMR-003",
+      "label": "Forward-deployed AI integration roles",
+      "type": "RoleModel",
+      "level": "tactical",
+      "theme": "Work Design and Operating Model",
+      "importance": 5,
+      "confidence": 0.84,
+      "status": "approved",
+      "description": "Roles that translate AI capabilities into workflow integration, business adoption, and measurable ROI by connecting technical teams with frontline and functional operating needs.",
+      "descriptionRu": "Роли, которые переводят возможности AI в рабочие процессы, принятие пользователями и измеримую отдачу. Их задача - связать технические команды с реальными операционными потребностями функций, фронтлайна и бизнеса.",
+      "aiImpact": "AI-first",
+      "source": "R-LINKEDIN-LMR-2026"
+    },
+    {
+      "id": "C-LI-LMR-004",
+      "label": "Skills-over-degree AI talent pipeline",
+      "type": "Practice",
+      "level": "tactical",
+      "theme": "Talent Marketplaces and Platforms",
+      "importance": 5,
+      "confidence": 0.87,
+      "status": "approved",
+      "description": "A talent strategy that expands AI-ready talent pools by prioritizing demonstrated skills, internal mobility, and adjacent capabilities over degrees or existing job titles.",
+      "descriptionRu": "Подход к формированию AI-кадрового пайплайна, при котором компания ищет навыки, смежный опыт и потенциал внутренней мобильности, а не отбирает людей только по диплому или текущему названию должности.",
+      "aiImpact": "AI-supported",
+      "source": "R-LINKEDIN-LMR-2026"
+    },
+    {
+      "id": "C-LI-LMR-005",
+      "label": "Cross-border AI engineering talent mobility",
+      "type": "Signal",
+      "level": "strategic",
+      "theme": "Regional Talent Hubs",
+      "importance": 4,
+      "confidence": 0.84,
+      "status": "approved",
+      "description": "A labor-market signal in which AI engineering talent moves across borders much more often than the average professional, intensifying competition among regional talent hubs.",
+      "descriptionRu": "Сигнал рынка труда: AI-инженерные специалисты заметно чаще перемещаются между странами, чем средний профессионал. Это усиливает конкуренцию между региональными хабами талантов и делает локационную стратегию частью AI-стратегии компании.",
+      "aiImpact": "AI-first",
+      "source": "R-LINKEDIN-LMR-2026"
+    },
+    {
+      "id": "C-LI-LMR-006",
+      "label": "Geo-flexible talent allocation",
+      "type": "Practice",
+      "level": "strategic",
+      "theme": "Regional Talent Hubs",
+      "importance": 4,
+      "confidence": 0.82,
+      "status": "approved",
+      "description": "A workforce allocation practice that treats work location as a strategic lever for combining cost, skill availability, resilience, and growth across regions.",
+      "descriptionRu": "Практика распределения работы по регионам, в которой локация становится стратегическим рычагом: компания балансирует стоимость, доступность навыков, устойчивость и потенциал роста в разных рынках.",
+      "aiImpact": "AI-supported",
+      "source": "R-LINKEDIN-LMR-2026"
+    },
+    {
+      "id": "C-LI-LMR-007",
+      "label": "AI adoption concentration lag",
+      "type": "Signal",
+      "level": "tactical",
+      "theme": "AI Strategy and Value Realization",
+      "importance": 5,
+      "confidence": 0.85,
+      "status": "approved",
+      "description": "A signal that AI skills and adoption remain concentrated in a small set of functions, creating a gap between executive expectations, public narratives, and actual workforce diffusion.",
+      "descriptionRu": "Сигнал того, что AI-навыки и реальное внедрение пока сосредоточены в нескольких функциях. Между ожиданиями руководителей, публичными нарративами и фактическим распространением AI в организации остается заметный разрыв.",
+      "aiImpact": "AI-first",
+      "source": "R-LINKEDIN-LMR-2026"
+    },
+    {
+      "id": "C-LI-LMR-008",
+      "label": "Network-signal hiring advantage",
+      "type": "Practice",
+      "level": "operational",
+      "theme": "Talent Acquisition",
+      "importance": 4,
+      "confidence": 0.82,
+      "status": "approved",
+      "description": "A hiring practice in which employee connections become a stronger signal as application volumes rise and cold applications become harder to evaluate efficiently.",
+      "descriptionRu": "Практика найма, в которой связи с сотрудниками становятся более важным сигналом на фоне роста числа откликов. Рекомендации и предварительные связи помогают быстрее отличать релевантных кандидатов от массовых холодных заявок.",
+      "aiImpact": "Zero-AI",
+      "source": "R-LINKEDIN-LMR-2026"
+    },
+    {
+      "id": "C-LI-LMR-009",
+      "label": "Employee AI learning demand surge",
+      "type": "Signal",
+      "level": "tactical",
+      "theme": "Employee Development",
+      "importance": 4,
+      "confidence": 0.83,
+      "status": "approved",
+      "description": "A workforce learning signal in which employees rapidly increase AI-related learning, goal-setting, and knowledge sharing as they try to build career resilience.",
+      "descriptionRu": "Сигнал спроса на развитие: сотрудники резко наращивают обучение, постановку целей и обмен знаниями вокруг AI, потому что связывают AI-грамотность с устойчивостью карьеры и будущей конкурентоспособностью.",
+      "aiImpact": "AI-first",
+      "source": "R-LINKEDIN-LMR-2026"
     }
   ],
   "links": [
@@ -10965,6 +12953,1734 @@ window.GRAPH_DATA = {
       "C-WDOM-013",
       "C-MCK-SOO-009",
       "supports",
+      4
+    ],
+    [
+      "C-MCK-Q125-LM-001",
+      "C-MPG-HE-012",
+      "mitigates",
+      4
+    ],
+    [
+      "C-MCK-Q125-LM-001",
+      "C-BCG-CPA-008",
+      "extends",
+      4
+    ],
+    [
+      "C-MCK-Q125-LM-002",
+      "C-MCK-SOO-013",
+      "extends",
+      4
+    ],
+    [
+      "C-MCK-Q125-LM-003",
+      "C-MCK-Q125-LM-004",
+      "enables",
+      4
+    ],
+    [
+      "C-MCK-Q125-LM-004",
+      "C-BCG-AIW-014",
+      "supports",
+      4
+    ],
+    [
+      "C-MCK-Q125-LM-005",
+      "C-WDOM-005",
+      "supports",
+      4
+    ],
+    [
+      "C-MCK-Q125-LM-006",
+      "C-ACC-TR-004",
+      "supports",
+      4
+    ],
+    [
+      "C-MCK-Q125-LM-007",
+      "C-MS-INFWD-005",
+      "supports",
+      4
+    ],
+    [
+      "C-MCK-Q125-LM-008",
+      "C-DEL-GHCT-014",
+      "extends",
+      5
+    ],
+    [
+      "C-MCK-Q125-LM-008",
+      "C-AIHR-HR26-003",
+      "mitigates",
+      4
+    ],
+    [
+      "C-MCK-Q125-LM-009",
+      "C-MCK-Q125-LM-006",
+      "enables",
+      5
+    ],
+    [
+      "C-MCK-Q125-LM-009",
+      "C-MCK-SOO-013",
+      "operationalizes",
+      4
+    ],
+    [
+      "C-FWF-MM-001",
+      "C-MCK-SOO-013",
+      "extends",
+      5
+    ],
+    [
+      "C-FWF-MM-001",
+      "C-GAL-SOGW-003",
+      "mitigates",
+      4
+    ],
+    [
+      "C-FWF-MM-002",
+      "C-DEL-GHCT-014",
+      "supports",
+      5
+    ],
+    [
+      "C-FWF-MM-003",
+      "C-GAL-SOGW-004",
+      "enables",
+      5
+    ],
+    [
+      "C-FWF-MM-003",
+      "C-WAI-INDEX-010",
+      "supports",
+      4
+    ],
+    [
+      "C-FWF-MM-004",
+      "C-BGI-BTB-007",
+      "extends",
+      4
+    ],
+    [
+      "C-FWF-MM-004",
+      "C-BCG-SBO-004",
+      "supports",
+      4
+    ],
+    [
+      "C-FWF-MM-005",
+      "C-MCK-HRM-001",
+      "operationalizes",
+      5
+    ],
+    [
+      "C-FWF-MM-005",
+      "C-WDOM-003",
+      "supports",
+      4
+    ],
+    [
+      "C-FWF-MM-006",
+      "C-MCK-LDAI-002",
+      "extends",
+      5
+    ],
+    [
+      "C-FWF-MM-006",
+      "C-MCK-Q125-LM-001",
+      "supports",
+      4
+    ],
+    [
+      "C-FWF-MM-007",
+      "C-ACC-TR-004",
+      "enables",
+      4
+    ],
+    [
+      "C-FWF-MM-008",
+      "C-MCK-Q125-LM-006",
+      "extends",
+      5
+    ],
+    [
+      "C-FWF-MM-009",
+      "C-MS-WTI-001",
+      "supports",
+      4
+    ],
+    [
+      "C-FWF-MM-009",
+      "C-MCK-Q125-LM-009",
+      "requires",
+      4
+    ],
+    [
+      "C-FWF-MM-010",
+      "C-BCG-SBO-007",
+      "extends",
+      4
+    ],
+    [
+      "C-FWF-MM-010",
+      "C-FWF-MM-001",
+      "enables",
+      5
+    ],
+    [
+      "C-BCG-FOF-001",
+      "C-DEL-GHCT-013",
+      "similar_to",
+      4
+    ],
+    [
+      "C-BCG-FOF-001",
+      "C-MCK-SOO-001",
+      "similar_to",
+      4
+    ],
+    [
+      "C-BCG-FOF-002",
+      "C-TAX-001",
+      "part_of",
+      5
+    ],
+    [
+      "C-BCG-FOF-003",
+      "C-WDOM-006",
+      "enables",
+      4
+    ],
+    [
+      "C-BCG-FOF-003",
+      "C-JBC-HR2030-003",
+      "enables",
+      3
+    ],
+    [
+      "C-BCG-FOF-004",
+      "C-MCK-SOO-011",
+      "enables",
+      4
+    ],
+    [
+      "C-BCG-FOF-005",
+      "C-MCK-HRM-007",
+      "enables",
+      4
+    ],
+    [
+      "C-BCG-FOF-006",
+      "C-WDOM-005",
+      "requires",
+      4
+    ],
+    [
+      "C-BCG-FOF-006",
+      "C-MS-WTI-011",
+      "requires",
+      4
+    ],
+    [
+      "C-BCG-FOF-007",
+      "C-AIHR-HR26-007",
+      "impacts",
+      4
+    ],
+    [
+      "C-BCG-FOF-007",
+      "C-MCK-Q125-LM-005",
+      "enables",
+      4
+    ],
+    [
+      "C-BCG-FOF-007",
+      "C-FWF-MM-001",
+      "impacts",
+      4
+    ],
+    [
+      "C-BCG-FOF-008",
+      "C-FWF-MM-006",
+      "requires",
+      4
+    ],
+    [
+      "C-BCG-FOF-008",
+      "C-WAI-INDEX-010",
+      "enables",
+      3
+    ],
+    [
+      "C-BCG-FOF-001",
+      "C-BCG-FOF-003",
+      "requires",
+      4
+    ],
+    [
+      "C-BCG-FOF-001",
+      "C-BCG-FOF-007",
+      "requires",
+      4
+    ],
+    [
+      "C-WEF-NGL-001",
+      "C-MCK-Q125-LM-001",
+      "requires",
+      4
+    ],
+    [
+      "C-WEF-NGL-002",
+      "C-MCK-Q125-LM-001",
+      "enables",
+      4
+    ],
+    [
+      "C-WEF-NGL-002",
+      "C-FWF-MM-004",
+      "enables",
+      3
+    ],
+    [
+      "C-WEF-NGL-003",
+      "C-FWF-MM-008",
+      "enables",
+      4
+    ],
+    [
+      "C-WEF-NGL-003",
+      "C-FWF-MM-002",
+      "enables",
+      4
+    ],
+    [
+      "C-WEF-NGL-004",
+      "C-FWF-MM-009",
+      "enables",
+      4
+    ],
+    [
+      "C-WEF-NGL-004",
+      "C-TA-FOW-006",
+      "similar_to",
+      3
+    ],
+    [
+      "C-WEF-NGL-005",
+      "C-DEL-GHCT-006",
+      "similar_to",
+      4
+    ],
+    [
+      "C-WEF-NGL-005",
+      "C-BRK-AILAB-006",
+      "enables",
+      4
+    ],
+    [
+      "C-WEF-NGL-006",
+      "C-WEF-FFNE-007",
+      "enables",
+      4
+    ],
+    [
+      "C-WEF-NGL-006",
+      "C-DEL-GHCT-016",
+      "similar_to",
+      4
+    ],
+    [
+      "C-WEF-NGL-007",
+      "C-MCK-SOO-011",
+      "enables",
+      4
+    ],
+    [
+      "C-WEF-NGL-007",
+      "C-FWF-MM-010",
+      "enables",
+      4
+    ],
+    [
+      "C-WEF-NGL-007",
+      "C-BCG-FOF-004",
+      "similar_to",
+      3
+    ],
+    [
+      "C-WEF-NGL-001",
+      "C-WEF-NGL-007",
+      "requires",
+      4
+    ],
+    [
+      "C-IBM-CEO-001",
+      "C-MCK-SOO-001",
+      "similar_to",
+      4
+    ],
+    [
+      "C-IBM-CEO-001",
+      "C-WEF-NGL-001",
+      "enables",
+      4
+    ],
+    [
+      "C-IBM-CEO-002",
+      "C-FWF-MM-005",
+      "similar_to",
+      4
+    ],
+    [
+      "C-IBM-CEO-002",
+      "C-AIHR-HR26-001",
+      "similar_to",
+      4
+    ],
+    [
+      "C-IBM-CEO-003",
+      "C-AIHR-HR26-002",
+      "similar_to",
+      4
+    ],
+    [
+      "C-IBM-CEO-003",
+      "C-BCG-AIW-013",
+      "requires",
+      5
+    ],
+    [
+      "C-IBM-CEO-004",
+      "C-MCK-Q125-LM-005",
+      "enables",
+      5
+    ],
+    [
+      "C-IBM-CEO-004",
+      "C-WEF-NGL-004",
+      "similar_to",
+      4
+    ],
+    [
+      "C-IBM-CEO-005",
+      "C-BCG-AIW-002",
+      "enables",
+      5
+    ],
+    [
+      "C-IBM-CEO-005",
+      "C-WDOM-013",
+      "enables",
+      4
+    ],
+    [
+      "C-IBM-CEO-006",
+      "C-DEL-GHCT-007",
+      "similar_to",
+      5
+    ],
+    [
+      "C-IBM-CEO-006",
+      "C-WDOM-005",
+      "requires",
+      4
+    ],
+    [
+      "C-IBM-CEO-007",
+      "C-MS-WTI-010",
+      "enables",
+      4
+    ],
+    [
+      "C-IBM-CEO-007",
+      "C-MS-AIWORK-006",
+      "similar_to",
+      4
+    ],
+    [
+      "C-IBM-CEO-008",
+      "C-JBC-HR2030-005",
+      "similar_to",
+      4
+    ],
+    [
+      "C-IBM-CEO-008",
+      "C-WDOM-011",
+      "requires",
+      4
+    ],
+    [
+      "C-IBM-CEO-009",
+      "C-TAX-001",
+      "requires",
+      5
+    ],
+    [
+      "C-IBM-CEO-009",
+      "C-BCG-HRAI-005",
+      "similar_to",
+      4
+    ],
+    [
+      "C-IBM-CEO-010",
+      "C-WEF-FFNE-007",
+      "enables",
+      3
+    ],
+    [
+      "C-IBM-CEO-010",
+      "C-WEF-FFNE-006",
+      "requires",
+      3
+    ],
+    [
+      "C-IBM-ENT2030-001",
+      "C-MS-WTI-006",
+      "similar_to",
+      5
+    ],
+    [
+      "C-IBM-ENT2030-001",
+      "C-MCK-SOO-001",
+      "extends",
+      5
+    ],
+    [
+      "C-IBM-ENT2030-001",
+      "C-WDOM-003",
+      "similar_to",
+      4
+    ],
+    [
+      "C-IBM-ENT2030-002",
+      "C-WEF-OTAI-008",
+      "enables",
+      4
+    ],
+    [
+      "C-IBM-ENT2030-002",
+      "C-MCK-SOO-014",
+      "operationalizes",
+      4
+    ],
+    [
+      "C-IBM-ENT2030-003",
+      "C-MCK-Q125-LM-005",
+      "extends",
+      4
+    ],
+    [
+      "C-IBM-ENT2030-003",
+      "C-WEF-NGL-005",
+      "requires",
+      4
+    ],
+    [
+      "C-IBM-ENT2030-003",
+      "C-IBM-CEO-004",
+      "requires",
+      4
+    ],
+    [
+      "C-IBM-ENT2030-004",
+      "C-IBM-CEO-005",
+      "extends",
+      5
+    ],
+    [
+      "C-IBM-ENT2030-004",
+      "C-BCG-AIW-002",
+      "amplifies",
+      4
+    ],
+    [
+      "C-IBM-ENT2030-005",
+      "C-IBM-CEO-005",
+      "operationalizes",
+      5
+    ],
+    [
+      "C-IBM-ENT2030-005",
+      "C-BCG-AIW-018",
+      "requires",
+      4
+    ],
+    [
+      "C-IBM-ENT2030-006",
+      "C-MS-WTI-011",
+      "similar_to",
+      5
+    ],
+    [
+      "C-IBM-ENT2030-006",
+      "C-JBC-SWO-004",
+      "extends",
+      4
+    ],
+    [
+      "C-IBM-ENT2030-006",
+      "C-IBM-CEO-007",
+      "requires",
+      5
+    ],
+    [
+      "C-IBM-ENT2030-006",
+      "C-DEL-GHCT-006",
+      "supports",
+      4
+    ],
+    [
+      "C-IBM-ENT2030-007",
+      "C-FWF-MM-005",
+      "similar_to",
+      4
+    ],
+    [
+      "C-IBM-ENT2030-007",
+      "C-WEF-OTAI-006",
+      "similar_to",
+      5
+    ],
+    [
+      "C-IBM-ENT2030-007",
+      "C-IBM-CEO-008",
+      "requires",
+      5
+    ],
+    [
+      "C-IBM-ENT2030-008",
+      "C-FWF-MM-003",
+      "extends",
+      4
+    ],
+    [
+      "C-IBM-ENT2030-008",
+      "C-MCK-AORG-002",
+      "supports",
+      4
+    ],
+    [
+      "C-IBM-ENT2030-009",
+      "C-MCK-LDAI-002",
+      "extends",
+      4
+    ],
+    [
+      "C-IBM-ENT2030-009",
+      "C-WEF-SFL-001",
+      "supports",
+      4
+    ],
+    [
+      "C-IBM-CEO-010",
+      "C-WEF-FFNE-007",
+      "extends",
+      4
+    ],
+    [
+      "C-IBM-T26-001",
+      "C-IBM-ENT2030-003",
+      "extends",
+      4
+    ],
+    [
+      "C-IBM-T26-001",
+      "C-WEF-FFNE-007",
+      "supports",
+      4
+    ],
+    [
+      "C-IBM-T26-001",
+      "C-MCK-Q125-LM-008",
+      "requires",
+      3
+    ],
+    [
+      "C-IBM-T26-002",
+      "C-DEL-GHCT-007",
+      "requires",
+      5
+    ],
+    [
+      "C-IBM-T26-002",
+      "C-IBM-CEO-006",
+      "extends",
+      5
+    ],
+    [
+      "C-IBM-T26-002",
+      "C-MS-WTI-011",
+      "requires",
+      5
+    ],
+    [
+      "C-IBM-T26-002",
+      "C-IBM-ENT2030-002",
+      "operationalizes",
+      4
+    ],
+    [
+      "C-IBM-T26-003",
+      "C-BCG-HRAI-005",
+      "contrasts",
+      4
+    ],
+    [
+      "C-IBM-T26-003",
+      "C-GAL-SOGW-004",
+      "supports",
+      4
+    ],
+    [
+      "C-IBM-T26-003",
+      "C-MS-WTI-001",
+      "supports",
+      3
+    ],
+    [
+      "C-IBM-T26-004",
+      "C-IBM-ENT2030-008",
+      "extends",
+      4
+    ],
+    [
+      "C-IBM-T26-004",
+      "C-WDOM-008",
+      "similar_to",
+      4
+    ],
+    [
+      "C-IBM-T26-005",
+      "C-WEF-OTAI-007",
+      "extends",
+      5
+    ],
+    [
+      "C-IBM-T26-005",
+      "C-MS-AIWORK-004",
+      "requires",
+      5
+    ],
+    [
+      "C-IBM-T26-005",
+      "C-BCG-AIW-013",
+      "supports",
+      4
+    ],
+    [
+      "C-IBM-T26-006",
+      "C-IBM-CEO-007",
+      "requires",
+      4
+    ],
+    [
+      "C-IBM-T26-006",
+      "C-WEF-FFNE-007",
+      "extends",
+      5
+    ],
+    [
+      "C-IBM-T26-006",
+      "C-MPG-HE-011",
+      "related_to",
+      3
+    ],
+    [
+      "C-IBM-T26-007",
+      "C-IBM-ENT2030-006",
+      "operationalizes",
+      5
+    ],
+    [
+      "C-IBM-T26-007",
+      "C-JBC-SWO-004",
+      "extends",
+      4
+    ],
+    [
+      "C-IBM-T26-007",
+      "C-DEL-GHCT-007",
+      "requires",
+      4
+    ],
+    [
+      "C-IBM-T26-008",
+      "C-IBM-CEO-010",
+      "extends",
+      4
+    ],
+    [
+      "C-IBM-T26-008",
+      "C-WEF-FFNE-007",
+      "supports",
+      3
+    ],
+    [
+      "C-IBM-CEO25-001",
+      "C-IBM-CEO-001",
+      "supports",
+      5
+    ],
+    [
+      "C-IBM-CEO25-001",
+      "C-WEF-NGL-005",
+      "supports",
+      4
+    ],
+    [
+      "C-IBM-CEO25-002",
+      "C-IBM-T26-001",
+      "extends",
+      5
+    ],
+    [
+      "C-IBM-CEO25-002",
+      "C-IBM-CEO-004",
+      "requires",
+      4
+    ],
+    [
+      "C-IBM-CEO25-003",
+      "C-IBM-ENT2030-005",
+      "supports",
+      4
+    ],
+    [
+      "C-IBM-CEO25-003",
+      "C-MCK-SOO-008",
+      "requires",
+      3
+    ],
+    [
+      "C-IBM-CEO25-004",
+      "C-IBM-ENT2030-004",
+      "enables",
+      5
+    ],
+    [
+      "C-IBM-CEO25-004",
+      "C-RESH-LIN-011",
+      "related_to",
+      4
+    ],
+    [
+      "C-IBM-CEO25-005",
+      "C-IBM-CEO-007",
+      "operationalizes",
+      5
+    ],
+    [
+      "C-IBM-CEO25-005",
+      "C-MS-AIWORK-006",
+      "supports",
+      4
+    ],
+    [
+      "C-IBM-CEO25-006",
+      "C-MS-WTI-011",
+      "extends",
+      5
+    ],
+    [
+      "C-IBM-CEO25-006",
+      "C-DEL-GHCT-007",
+      "requires",
+      5
+    ],
+    [
+      "C-IBM-CEO25-007",
+      "C-WDOM-011",
+      "similar_to",
+      5
+    ],
+    [
+      "C-IBM-CEO25-007",
+      "C-IBM-ENT2030-006",
+      "requires",
+      5
+    ],
+    [
+      "C-IBM-CEO25-008",
+      "C-IBM-CEO-008",
+      "operationalizes",
+      5
+    ],
+    [
+      "C-IBM-CEO25-008",
+      "C-IBM-CEO25-007",
+      "requires",
+      4
+    ],
+    [
+      "C-IBM-CEO25-009",
+      "C-BCG-AIW-018",
+      "extends",
+      5
+    ],
+    [
+      "C-IBM-CEO25-009",
+      "C-GAL-SOGW-002",
+      "mitigates",
+      4
+    ],
+    [
+      "C-IBM-CEO25-010",
+      "C-MCK-AORG-002",
+      "supports",
+      5
+    ],
+    [
+      "C-IBM-CEO25-010",
+      "C-ACC-TR-005",
+      "requires",
+      4
+    ],
+    [
+      "C-IBM-CEO25-010",
+      "C-IBM-ENT2030-008",
+      "supports",
+      4
+    ],
+    [
+      "C-IBM-CEO25-011",
+      "C-AIHR-HR26-001",
+      "similar_to",
+      4
+    ],
+    [
+      "C-IBM-CEO25-011",
+      "C-IBM-CEO-003",
+      "complements",
+      4
+    ],
+    [
+      "C-LI-TV-001",
+      "C-MER-GTT-008",
+      "extends",
+      5
+    ],
+    [
+      "C-LI-TV-001",
+      "C-BCG-HRAI-008",
+      "supports",
+      5
+    ],
+    [
+      "C-LI-TV-002",
+      "C-TA-FOW-003",
+      "extends",
+      4
+    ],
+    [
+      "C-LI-TV-003",
+      "C-TA-FOW-003",
+      "extends",
+      5
+    ],
+    [
+      "C-LI-TV-003",
+      "C-ACC-TR-006",
+      "supports",
+      4
+    ],
+    [
+      "C-LI-TV-004",
+      "C-ACC-TR-005",
+      "similar_to",
+      5
+    ],
+    [
+      "C-LI-TV-004",
+      "C-BCG-SBO-002",
+      "supports",
+      4
+    ],
+    [
+      "C-LI-TV-005",
+      "C-WEF-OTAI-005",
+      "similar_to",
+      4
+    ],
+    [
+      "C-LI-TV-005",
+      "C-IND-WA-004",
+      "mitigates",
+      4
+    ],
+    [
+      "C-LI-TV-006",
+      "C-BCG-SBO-004",
+      "supports",
+      5
+    ],
+    [
+      "C-LI-TV-006",
+      "C-IBM-CEO25-007",
+      "similar_to",
+      4
+    ],
+    [
+      "C-LI-TV-007",
+      "C-EMERGE-NAV-001",
+      "similar_to",
+      5
+    ],
+    [
+      "C-LI-TV-007",
+      "C-EMERGE-NAV-005",
+      "supports",
+      4
+    ],
+    [
+      "C-LI-TV-008",
+      "C-LI-TV-007",
+      "requires",
+      4
+    ],
+    [
+      "C-LI-TV-008",
+      "C-FWF-MM-003",
+      "supports",
+      3
+    ],
+    [
+      "C-LI-TV-009",
+      "C-TA-FOW-003",
+      "extends",
+      5
+    ],
+    [
+      "C-LI-TV-009",
+      "C-ACC-TR-006",
+      "supports",
+      4
+    ],
+    [
+      "C-LI-TV-010",
+      "C-IBM-CEO25-010",
+      "operationalizes",
+      5
+    ],
+    [
+      "C-LI-TV-010",
+      "C-MCK-AORG-002",
+      "supports",
+      4
+    ],
+    [
+      "C-LI-TV-011",
+      "C-MCK-AORG-006",
+      "supports",
+      4
+    ],
+    [
+      "C-LI-TV-011",
+      "C-IBM-ENT2030-009",
+      "extends",
+      5
+    ],
+    [
+      "C-LI-TV-012",
+      "C-MCK-ARU-004",
+      "extends",
+      4
+    ],
+    [
+      "C-LI-TV-012",
+      "C-LC-FL-010",
+      "supports",
+      4
+    ],
+    [
+      "C-LI-TV-013",
+      "C-MCK-Q125-LM-005",
+      "supports",
+      4
+    ],
+    [
+      "C-LI-TV-013",
+      "C-FWF-MM-003",
+      "supports",
+      3
+    ],
+    [
+      "C-LI-TV-014",
+      "C-MCK-LDAI-003",
+      "similar_to",
+      4
+    ],
+    [
+      "C-LI-TV-014",
+      "C-IBM-T26-003",
+      "supports",
+      4
+    ],
+    [
+      "C-ACC-LR25-001",
+      "C-ACC-TR-007",
+      "extends",
+      5
+    ],
+    [
+      "C-ACC-LR25-001",
+      "C-LI-TV-014",
+      "supports",
+      4
+    ],
+    [
+      "C-ACC-LR25-002",
+      "C-IBM-CEO25-008",
+      "similar_to",
+      5
+    ],
+    [
+      "C-ACC-LR25-002",
+      "C-IBM-ENT2030-009",
+      "extends",
+      5
+    ],
+    [
+      "C-ACC-LR25-003",
+      "C-WEF-SFL-006",
+      "supports",
+      4
+    ],
+    [
+      "C-ACC-LR25-003",
+      "C-WEF-OTAI-008",
+      "supports",
+      4
+    ],
+    [
+      "C-ACC-LR25-004",
+      "C-GAL-SOGW-004",
+      "supports",
+      4
+    ],
+    [
+      "C-ACC-LR25-004",
+      "C-LI-TV-013",
+      "supports",
+      3
+    ],
+    [
+      "C-ACC-LR25-005",
+      "C-MCK-HRM-014",
+      "extends",
+      5
+    ],
+    [
+      "C-ACC-LR25-005",
+      "C-LI-TV-007",
+      "supports",
+      4
+    ],
+    [
+      "C-ACC-LR25-006",
+      "C-MCK-AORG-006",
+      "supports",
+      4
+    ],
+    [
+      "C-ACC-LR25-006",
+      "C-LI-TV-012",
+      "supports",
+      4
+    ],
+    [
+      "C-ACC-LR25-007",
+      "C-LI-TV-011",
+      "supports",
+      4
+    ],
+    [
+      "C-ACC-LR25-007",
+      "C-BCG-HRAI-009",
+      "extends",
+      4
+    ],
+    [
+      "C-ACC-LR25-008",
+      "C-WEF-OTAI-007",
+      "extends",
+      5
+    ],
+    [
+      "C-ACC-LR25-008",
+      "C-WEF-SFL-004",
+      "supports",
+      4
+    ],
+    [
+      "C-ACC-LR25-009",
+      "C-MS-WTI-011",
+      "requires",
+      4
+    ],
+    [
+      "C-ACC-LR25-009",
+      "C-IBM-T26-007",
+      "supports",
+      4
+    ],
+    [
+      "C-ACC-LR25-010",
+      "C-DEL-GHCT-002",
+      "extends",
+      5
+    ],
+    [
+      "C-ACC-LR25-010",
+      "C-MS-AIWORK-003",
+      "supports",
+      4
+    ],
+    [
+      "C-ACC-LR25-011",
+      "C-MCK-SOO-001",
+      "extends",
+      5
+    ],
+    [
+      "C-ACC-LR25-011",
+      "C-IBM-ENT2030-001",
+      "supports",
+      4
+    ],
+    [
+      "C-OAI-AIJTF-001",
+      "C-LC-FL-006",
+      "extends",
+      5
+    ],
+    [
+      "C-OAI-AIJTF-001",
+      "C-MCK-ARU-002",
+      "refines",
+      5
+    ],
+    [
+      "C-OAI-AIJTF-001",
+      "C-BCG-HRAI-008",
+      "supports",
+      4
+    ],
+    [
+      "C-OAI-AIJTF-002",
+      "C-LC-FL-006",
+      "qualifies",
+      5
+    ],
+    [
+      "C-OAI-AIJTF-002",
+      "C-PWC-AIJB-010",
+      "supports",
+      4
+    ],
+    [
+      "C-OAI-AIJTF-002",
+      "C-RESH-EXPL-022",
+      "constrains",
+      4
+    ],
+    [
+      "C-OAI-AIJTF-003",
+      "C-MCK-ARU-002",
+      "qualifies",
+      5
+    ],
+    [
+      "C-OAI-AIJTF-003",
+      "C-MCK-AORG-003",
+      "supports",
+      4
+    ],
+    [
+      "C-OAI-AIJTF-004",
+      "C-MCK-ARU-002",
+      "refines",
+      5
+    ],
+    [
+      "C-OAI-AIJTF-004",
+      "C-LI-TV-004",
+      "enables",
+      4
+    ],
+    [
+      "C-OAI-AIJTF-005",
+      "C-BRK-AILAB-003",
+      "operationalizes",
+      5
+    ],
+    [
+      "C-OAI-AIJTF-005",
+      "C-BRK-AILAB-001",
+      "mitigates",
+      4
+    ],
+    [
+      "C-OAI-AIJTF-005",
+      "C-WT-AITAX-004",
+      "supports",
+      4
+    ],
+    [
+      "C-OAI-AIJTF-006",
+      "C-AIHR-HR26-003",
+      "mitigates",
+      4
+    ],
+    [
+      "C-OAI-AIJTF-006",
+      "C-WEF-FFNE-008",
+      "supports",
+      4
+    ],
+    [
+      "C-OAI-AIJTF-006",
+      "C-BCG-FOF-008",
+      "extends",
+      4
+    ],
+    [
+      "C-OAI-AIJTF-007",
+      "C-LI-TV-007",
+      "supports",
+      4
+    ],
+    [
+      "C-OAI-AIJTF-007",
+      "C-WEF-NES-007",
+      "extends",
+      4
+    ],
+    [
+      "C-OAI-AIJTF-008",
+      "C-BRK-AILAB-009",
+      "supports",
+      5
+    ],
+    [
+      "C-OAI-AIJTF-008",
+      "C-OAI-AIJTF-001",
+      "frames",
+      5
+    ],
+    [
+      "C-OAI-AIJTF-008",
+      "C-MPG-HE-003",
+      "mitigates",
+      4
+    ],
+    [
+      "C-OAI-AIJTF-009",
+      "C-OAI-AIJTF-004",
+      "extends",
+      5
+    ],
+    [
+      "C-OAI-AIJTF-009",
+      "C-LI-TV-004",
+      "enables",
+      4
+    ],
+    [
+      "C-OAI-AIJTF-009",
+      "C-MCK-ARU-006",
+      "extends",
+      4
+    ],
+    [
+      "C-OAI-AIJTF-010",
+      "C-OAI-AIJTF-001",
+      "operationalizes",
+      5
+    ],
+    [
+      "C-OAI-AIJTF-010",
+      "C-WT-AITAX-004",
+      "structures",
+      4
+    ],
+    [
+      "C-OAI-AIJTF-010",
+      "C-WEF-FFNE-008",
+      "supports",
+      4
+    ],
+    [
+      "C-WEF-CPO26-001",
+      "C-LI-TV-004",
+      "requires",
+      5
+    ],
+    [
+      "C-WEF-CPO26-001",
+      "C-BCG-HRAI-008",
+      "supports",
+      4
+    ],
+    [
+      "C-WEF-CPO26-001",
+      "C-LC-FL-007",
+      "operationalizes",
+      4
+    ],
+    [
+      "C-WEF-CPO26-002",
+      "C-ACC-LR25-010",
+      "supports",
+      5
+    ],
+    [
+      "C-WEF-CPO26-002",
+      "C-MER-GTT-004",
+      "extends",
+      4
+    ],
+    [
+      "C-WEF-CPO26-003",
+      "C-MCK-SOO-011",
+      "requires",
+      4
+    ],
+    [
+      "C-WEF-CPO26-003",
+      "C-IBM-CEO-009",
+      "supports",
+      5
+    ],
+    [
+      "C-WEF-CPO26-003",
+      "C-BCG-HRAI-007",
+      "extends",
+      4
+    ],
+    [
+      "C-WEF-CPO26-004",
+      "C-BCG-HRAI-002",
+      "supports",
+      4
+    ],
+    [
+      "C-WEF-CPO26-004",
+      "C-JBC-HR2030-006",
+      "requires",
+      4
+    ],
+    [
+      "C-WEF-CPO26-005",
+      "C-WEF-FFNE-006",
+      "operationalizes",
+      5
+    ],
+    [
+      "C-WEF-CPO26-005",
+      "C-MCK-SOO-006",
+      "supports",
+      4
+    ],
+    [
+      "C-WEF-CPO26-006",
+      "C-MCK-HRM-022",
+      "extends",
+      4
+    ],
+    [
+      "C-WEF-CPO26-006",
+      "C-ACC-TR-006",
+      "requires",
+      4
+    ],
+    [
+      "C-WEF-CPO26-006",
+      "C-LI-TV-005",
+      "supports",
+      4
+    ],
+    [
+      "C-WEF-CPO26-007",
+      "C-DEL-GHCT-005",
+      "supports",
+      4
+    ],
+    [
+      "C-WEF-CPO26-007",
+      "C-GART-CHRO-006",
+      "complements",
+      4
+    ],
+    [
+      "C-WEF-CPO26-008",
+      "C-MER-GTT-012",
+      "extends",
+      4
+    ],
+    [
+      "C-WEF-CPO26-008",
+      "C-IND-WA-006",
+      "supports",
+      3
+    ],
+    [
+      "C-WEF-CPO26-009",
+      "C-TA-FOW-008",
+      "extends",
+      5
+    ],
+    [
+      "C-WEF-CPO26-009",
+      "C-MCK-SOO-006",
+      "supports",
+      4
+    ],
+    [
+      "C-WEF-CPO26-010",
+      "C-TA-FOW-005",
+      "extends",
+      4
+    ],
+    [
+      "C-WEF-CPO26-010",
+      "C-WEF-NES-008",
+      "supports",
+      4
+    ],
+    [
+      "C-ACC-COINT-001",
+      "C-MCK-AORG-002",
+      "extends",
+      5
+    ],
+    [
+      "C-ACC-COINT-001",
+      "C-MS-WTI-006",
+      "complements",
+      4
+    ],
+    [
+      "C-ACC-COINT-002",
+      "C-BCG-AIW-001",
+      "supports",
+      5
+    ],
+    [
+      "C-ACC-COINT-002",
+      "C-IBM-CEO-005",
+      "extends",
+      4
+    ],
+    [
+      "C-ACC-COINT-002",
+      "C-WDOM-013",
+      "complements",
+      4
+    ],
+    [
+      "C-ACC-COINT-003",
+      "C-BCG-FOF-004",
+      "extends",
+      4
+    ],
+    [
+      "C-ACC-COINT-003",
+      "C-MCK-AORG-003",
+      "supports",
+      4
+    ],
+    [
+      "C-ACC-COINT-004",
+      "C-IBM-CEO-008",
+      "extends",
+      4
+    ],
+    [
+      "C-ACC-COINT-004",
+      "C-JBC-SWO-006",
+      "supports",
+      4
+    ],
+    [
+      "C-ACC-COINT-005",
+      "C-TAX-002",
+      "extends",
+      5
+    ],
+    [
+      "C-ACC-COINT-005",
+      "C-IBM-CEO-006",
+      "complements",
+      4
+    ],
+    [
+      "C-ACC-COINT-006",
+      "C-ACC-TR-001",
+      "extends",
+      5
+    ],
+    [
+      "C-ACC-COINT-006",
+      "C-TAX-001",
+      "supports",
+      5
+    ],
+    [
+      "C-ACC-COINT-007",
+      "C-BCG-SBO-001",
+      "supports",
+      4
+    ],
+    [
+      "C-ACC-COINT-007",
+      "C-JB-LEARN-003",
+      "complements",
+      4
+    ],
+    [
+      "C-ACC-COINT-008",
+      "C-TAX-002",
+      "supports",
+      5
+    ],
+    [
+      "C-ACC-COINT-008",
+      "C-IBM-T26-005",
+      "complements",
+      4
+    ],
+    [
+      "C-ACC-COINT-009",
+      "C-IBM-CEO-001",
+      "supports",
+      4
+    ],
+    [
+      "C-ACC-COINT-009",
+      "C-IBM-ENT2030-001",
+      "complements",
+      4
+    ],
+    [
+      "C-ACC-COINT-009",
+      "C-WEF-NGL-004",
+      "extends",
+      4
+    ],
+    [
+      "C-LI-LMR-001",
+      "C-BRK-AILAB-004",
+      "qualifies",
+      4
+    ],
+    [
+      "C-LI-LMR-001",
+      "C-OAI-AIJTF-008",
+      "supports",
+      4
+    ],
+    [
+      "C-LI-LMR-002",
+      "C-OAI-AIJTF-007",
+      "supports",
+      4
+    ],
+    [
+      "C-LI-LMR-002",
+      "C-WEF-NES-001",
+      "extends",
+      4
+    ],
+    [
+      "C-LI-LMR-003",
+      "C-WEF-CPO26-002",
+      "operationalizes",
+      5
+    ],
+    [
+      "C-LI-LMR-003",
+      "C-MCK-AORG-006",
+      "extends",
+      4
+    ],
+    [
+      "C-LI-LMR-004",
+      "C-LC-FL-014",
+      "extends",
+      5
+    ],
+    [
+      "C-LI-LMR-004",
+      "C-LI-TV-003",
+      "supports",
+      5
+    ],
+    [
+      "C-LI-LMR-004",
+      "C-BCG-SBO-001",
+      "supports",
+      4
+    ],
+    [
+      "C-LI-LMR-005",
+      "C-WEF-CPO26-009",
+      "supports",
+      5
+    ],
+    [
+      "C-LI-LMR-005",
+      "C-EMERGE-TA-002",
+      "extends",
+      4
+    ],
+    [
+      "C-LI-LMR-006",
+      "C-WEF-CPO26-009",
+      "complements",
+      4
+    ],
+    [
+      "C-LI-LMR-006",
+      "C-LC-FL-003",
+      "supports",
+      4
+    ],
+    [
+      "C-LI-LMR-007",
+      "C-MCK-ARU-002",
+      "supports",
+      5
+    ],
+    [
+      "C-LI-LMR-007",
+      "C-BCG-HRAI-005",
+      "extends",
+      4
+    ],
+    [
+      "C-LI-LMR-008",
+      "C-EMERGE-TA-002",
+      "complements",
+      4
+    ],
+    [
+      "C-LI-LMR-008",
+      "C-GART-TAL-001",
+      "supports",
+      4
+    ],
+    [
+      "C-LI-LMR-009",
+      "C-MPG-HE-005",
+      "supports",
+      4
+    ],
+    [
+      "C-LI-LMR-009",
+      "C-LI-TV-014",
+      "extends",
       4
     ]
   ],
@@ -15215,7 +18931,7 @@ window.GRAPH_DATA = {
       "report": "11 HR Trends for 2026: Shaping What’s Next",
       "pages": "url",
       "excerpt": "The article says AI has moved from IT into the boardroom and HR must co-strategize AI transformation with senior leaders to connect workforce data, skills forecasts, ethics, trust and business outcomes.",
-      "excerptRu": "Статья говорит, что AI вышел из IT в boardroom, а HR должен совместно с senior leaders выстраивать AI-трансформацию, связывая workforce data, прогнозы навыков, этику, доверие и бизнес-результаты."
+      "excerptRu": "Статья говорит, что AI вышел из IT в повестку совета директоров, а HR должен совместно с высшим руководством выстраивать AI-трансформацию, связывая данные о рабочей силе, прогнозы навыков, этику, доверие и бизнес-результаты."
     },
     {
       "supports": "C-TAX-002",
@@ -15223,7 +18939,7 @@ window.GRAPH_DATA = {
       "report": "11 HR Trends for 2026: Shaping What’s Next",
       "pages": "url",
       "excerpt": "The human-centered governance section frames AI governance as both technical and workforce-related, requiring HR to translate safeguards into everyday practices employees understand and trust.",
-      "excerptRu": "Раздел о human-centered governance описывает AI governance как одновременно техническую и workforce-задачу, где HR переводит safeguards в повседневные практики, понятные и вызывающие доверие у сотрудников."
+      "excerptRu": "Раздел о человекоцентричном управлении описывает AI governance как одновременно техническую и кадровую задачу, где HR переводит защитные механизмы в повседневные практики, понятные сотрудникам и вызывающие доверие."
     },
     {
       "supports": "C-AIHR-HR26-002",
@@ -15231,7 +18947,7 @@ window.GRAPH_DATA = {
       "report": "11 HR Trends for 2026: Shaping What’s Next",
       "pages": "url",
       "excerpt": "AI Centers of Excellence are described as cross-functional teams that align technology, talent and trust, coordinate AI efforts, define success metrics, manage risk and include HR in workforce impact and reskilling decisions.",
-      "excerptRu": "AI Centers of Excellence описаны как кросс-функциональные команды, которые синхронизируют технологии, talent и trust, координируют AI-усилия, задают метрики успеха, управляют рисками и включают HR в решения о влиянии на workforce и reskilling."
+      "excerptRu": "AI Centers of Excellence описаны как кросс-функциональные команды, которые синхронизируют технологии, работу с талантами и доверие, координируют AI-усилия, задают метрики успеха, управляют рисками и включают HR в решения о влиянии на рабочую силу и переобучении."
     },
     {
       "supports": "C-BCG-AIW-002",
@@ -15239,7 +18955,7 @@ window.GRAPH_DATA = {
       "report": "11 HR Trends for 2026: Shaping What’s Next",
       "pages": "url",
       "excerpt": "The capacity gains trend argues that AI time savings should be deliberately reinvested into learning, innovation, new career pathways and long-term workforce resilience rather than treated only as cost reduction.",
-      "excerptRu": "Тренд capacity gains утверждает, что сэкономленное AI время нужно осознанно реинвестировать в обучение, инновации, новые карьерные траектории и долгосрочную устойчивость workforce, а не считать только сокращением затрат."
+      "excerptRu": "Тренд прироста мощности утверждает, что сэкономленное с помощью AI время нужно осознанно реинвестировать в обучение, инновации, новые карьерные траектории и долгосрочную устойчивость рабочей силы, а не считать только сокращением затрат."
     },
     {
       "supports": "C-AIHR-HR26-003",
@@ -15247,7 +18963,7 @@ window.GRAPH_DATA = {
       "report": "11 HR Trends for 2026: Shaping What’s Next",
       "pages": "url",
       "excerpt": "The article describes technostress and FOBO as employee risks created by AI and digital change, including anxiety, lower confidence, hidden resistance, engagement decline and the need for coaching and visible reskilling paths.",
-      "excerptRu": "Статья описывает technostress и FOBO как employee risks, возникающие из-за AI и цифровых изменений: тревога, снижение уверенности, скрытое сопротивление, падение вовлеченности и потребность в коучинге и видимых путях reskilling."
+      "excerptRu": "Статья описывает техностресс и FOBO как риски для сотрудников, возникающие из-за AI и цифровых изменений: тревогу, снижение уверенности, скрытое сопротивление, падение вовлечённости и потребность в коучинге и видимых путях переобучения."
     },
     {
       "supports": "C-AIHR-HR26-004",
@@ -15255,7 +18971,7 @@ window.GRAPH_DATA = {
       "report": "11 HR Trends for 2026: Shaping What’s Next",
       "pages": "url",
       "excerpt": "The cross-functional structures section argues that HR silos are being replaced by agile teams working on shared business challenges with integrated platforms, data, feedback loops and outcome focus.",
-      "excerptRu": "Раздел о cross-functional structures утверждает, что HR-силосы заменяются agile-командами, работающими над общими бизнес-задачами с интегрированными платформами, данными, feedback loops и фокусом на outcomes."
+      "excerptRu": "Раздел о кросс-функциональных структурах утверждает, что HR-силосы заменяются гибкими командами, работающими над общими бизнес-задачами с интегрированными платформами, данными, циклами обратной связи и фокусом на результатах."
     },
     {
       "supports": "C-AIHR-HR26-005",
@@ -15263,7 +18979,7 @@ window.GRAPH_DATA = {
       "report": "11 HR Trends for 2026: Shaping What’s Next",
       "pages": "url",
       "excerpt": "The HR AI spending section warns that technology spend alone does not create impact; HR teams need high-impact use cases, vendor-claim validation, pilots, end-user involvement and outcome tracking.",
-      "excerptRu": "Раздел о HR AI spending предупреждает, что расходы на технологии сами по себе не создают impact; HR-командам нужны ценные use cases, проверка vendor claims, пилоты, вовлечение end users и отслеживание outcomes."
+      "excerptRu": "Раздел о расходах на HR AI предупреждает, что расходы на технологии сами по себе не создают эффекта; HR-командам нужны ценные сценарии использования, проверка заявлений поставщиков, пилоты, вовлечение конечных пользователей и отслеживание результатов."
     },
     {
       "supports": "C-MCK-HRM-015",
@@ -15271,7 +18987,7 @@ window.GRAPH_DATA = {
       "report": "11 HR Trends for 2026: Shaping What’s Next",
       "pages": "url",
       "excerpt": "AI fluency is described as a baseline HR competency involving prompting, interpreting algorithmic recommendations, ethical automation decisions and hands-on experimentation in safe environments.",
-      "excerptRu": "AI fluency описана как базовая HR-компетенция: prompting, интерпретация алгоритмических рекомендаций, этические решения об автоматизации и hands-on experimentation в безопасной среде."
+      "excerptRu": "AI fluency описана как базовая HR-компетенция: работа с промптами, интерпретация алгоритмических рекомендаций, этические решения об автоматизации и практические эксперименты в безопасной среде."
     },
     {
       "supports": "C-AIHR-HR26-006",
@@ -15279,7 +18995,7 @@ window.GRAPH_DATA = {
       "report": "11 HR Trends for 2026: Shaping What’s Next",
       "pages": "url",
       "excerpt": "The article argues that as AI takes on technical and transactional work, HR value increasingly comes from empathy, ethical judgment, communication, coaching, influence and culture-building.",
-      "excerptRu": "Статья утверждает, что по мере того, как AI берет на себя техническую и транзакционную работу, ценность HR все больше создается эмпатией, этическим суждением, коммуникацией, коучингом, влиянием и работой с культурой."
+      "excerptRu": "Статья утверждает, что по мере того как AI берёт на себя техническую и транзакционную работу, ценность HR всё больше создаётся эмпатией, этическим суждением, коммуникацией, коучингом, влиянием и работой с культурой."
     },
     {
       "supports": "C-WEF-OTAI-005",
@@ -15287,7 +19003,7 @@ window.GRAPH_DATA = {
       "report": "11 HR Trends for 2026: Shaping What’s Next",
       "pages": "url",
       "excerpt": "Workforce planning is described as moving beyond jobs, headcount and titles toward assembling capabilities across employees, contractors, partners and AI agents through dynamic skills taxonomies and talent marketplaces.",
-      "excerptRu": "Workforce planning описан как переход за пределы jobs, headcount и titles к сборке capabilities из сотрудников, contractors, partners и AI agents через динамические skills taxonomies и talent marketplaces."
+      "excerptRu": "Workforce planning описан как переход за пределы должностей, численности персонала и титулов к сборке способностей из сотрудников, подрядчиков, партнёров и AI-агентов через динамические таксономии навыков и маркетплейсы талантов."
     },
     {
       "supports": "C-AIHR-HR26-007",
@@ -15295,7 +19011,7 @@ window.GRAPH_DATA = {
       "report": "11 HR Trends for 2026: Shaping What’s Next",
       "pages": "url",
       "excerpt": "The leadership trend says efficiency pressure and AI automation shrink administrative management tasks, while informal, distributed and situational leadership becomes more important for trust, coaching, performance and culture.",
-      "excerptRu": "Тренд leadership говорит, что давление эффективности и AI-автоматизация сокращают административные management tasks, а неформальное, распределенное и ситуативное лидерство становится важнее для доверия, коучинга, результативности и культуры."
+      "excerptRu": "Тренд leadership говорит, что давление эффективности и AI-автоматизация сокращают административные управленческие задачи, а неформальное, распределённое и ситуативное лидерство становится важнее для доверия, коучинга, результативности и культуры."
     },
     {
       "supports": "C-WDOM-003",
@@ -15408,6 +19124,1174 @@ window.GRAPH_DATA = {
       "pages": "url",
       "excerpt": "McKinsey says productivity gains from agentic execution should be translated into structural portfolio changes, smaller expert pods, accelerated road maps, modernization or new product capacity.",
       "excerptRu": "McKinsey говорит, что productivity gains от agentic execution нужно переводить в structural portfolio changes, smaller expert pods, accelerated road maps, modernization или capacity для новых продуктов."
+    },
+    {
+      "supports": "C-MCK-Q125-LM-001",
+      "reportId": "R-MCK-Q125-LEAD-2025",
+      "report": "McKinsey Quarterly 2025 #1: The Future of Leadership",
+      "pages": "26-35",
+      "excerpt": "McKinsey argues that organizations need a deep bench of leaders and should build leadership factories that shape, develop and mentor next-generation managers through real work, coaching and systems.",
+      "excerptRu": "McKinsey утверждает, что организациям нужен глубокий резерв лидеров и leadership factories, которые формируют, развивают и наставляют следующее поколение менеджеров через реальную работу, коучинг и системы."
+    },
+    {
+      "supports": "C-MCK-Q125-LM-002",
+      "reportId": "R-MCK-Q125-LEAD-2025",
+      "report": "McKinsey Quarterly 2025 #1: The Future of Leadership",
+      "pages": "27-28",
+      "excerpt": "The leadership article identifies needed traits for uncertain environments, including positive energy, servant leadership, continuous learning, humility, resilience, levity and stewardship.",
+      "excerptRu": "Статья о лидерстве выделяет качества, необходимые в неопределенной среде: позитивную энергию, servant leadership, непрерывное обучение, скромность, resilience, levity и stewardship."
+    },
+    {
+      "supports": "C-MCK-Q125-LM-003",
+      "reportId": "R-MCK-Q125-LEAD-2025",
+      "report": "McKinsey Quarterly 2025 #1: The Future of Leadership",
+      "pages": "38-51",
+      "excerpt": "The personal operating model is defined as the way leaders get work done through choices about priorities, roles, time and energy, and it should be updated at career and transformation inflection points.",
+      "excerptRu": "Personal operating model определяется как способ, которым лидеры выполняют работу через выбор приоритетов, ролей, времени и энергии; его нужно обновлять в карьерных и трансформационных точках перелома."
+    },
+    {
+      "supports": "C-MCK-Q125-LM-004",
+      "reportId": "R-MCK-Q125-LEAD-2025",
+      "report": "McKinsey Quarterly 2025 #1: The Future of Leadership",
+      "pages": "40-42",
+      "excerpt": "McKinsey recommends mapping five to ten critical leadership conversations, defining what people should feel, know and do afterward, and sequencing those moments into a coherent transformation narrative.",
+      "excerptRu": "McKinsey рекомендует картировать пять-десять критических лидерских разговоров, определять, что люди должны почувствовать, понять и сделать после них, и связывать эти моменты в цельный нарратив трансформации."
+    },
+    {
+      "supports": "C-MCK-Q125-LM-005",
+      "reportId": "R-MCK-Q125-LEAD-2025",
+      "report": "McKinsey Quarterly 2025 #1: The Future of Leadership",
+      "pages": "29",
+      "excerpt": "The article says leaders should build operating models and cadences wired for speed, with clear decision rights, fewer bureaucratic layers, frontline engagement, playbooks and dashboards.",
+      "excerptRu": "Статья говорит, что лидеры должны строить operating models и cadence, настроенные на скорость: с ясными правами принятия решений, меньшим числом бюрократических слоев, вовлечением frontline leaders, playbooks и dashboards."
+    },
+    {
+      "supports": "C-MCK-Q125-LM-006",
+      "reportId": "R-MCK-Q125-LEAD-2025",
+      "report": "McKinsey Quarterly 2025 #1: The Future of Leadership",
+      "pages": "70-75",
+      "excerpt": "McKinsey’s team effectiveness research groups 17 health drivers into configuration, alignment, execution and renewal, and finds trust, communication, innovative thinking and decision making especially predictive.",
+      "excerptRu": "Исследование McKinsey по эффективности команд группирует 17 health drivers в configuration, alignment, execution и renewal и показывает, что trust, communication, innovative thinking и decision making особенно предиктивны."
+    },
+    {
+      "supports": "C-MCK-Q125-LM-007",
+      "reportId": "R-MCK-Q125-LEAD-2025",
+      "report": "McKinsey Quarterly 2025 #1: The Future of Leadership",
+      "pages": "77-79",
+      "excerpt": "The team article distinguishes task and outcome interdependence and uses cycling, relay and rowing team archetypes to explain why different teams need different performance behaviors.",
+      "excerptRu": "Статья о командах различает task interdependence и outcome interdependence и использует архетипы cycling, relay и rowing, чтобы объяснить, почему разным командам нужны разные performance behaviors."
+    },
+    {
+      "supports": "C-MCK-Q125-LM-008",
+      "reportId": "R-MCK-Q125-LEAD-2025",
+      "report": "McKinsey Quarterly 2025 #1: The Future of Leadership",
+      "pages": "93-99",
+      "excerpt": "McKinsey argues that leaders must build both resilience and adaptability at scale through a North Star, psychological safety with accountability, leader role modeling and social learning in groups.",
+      "excerptRu": "McKinsey утверждает, что лидеры должны масштабно развивать одновременно resilience и adaptability через North Star, психологическую безопасность с ответственностью, role modeling лидеров и групповое социальное обучение."
+    },
+    {
+      "supports": "C-MCK-Q125-LM-009",
+      "reportId": "R-MCK-Q125-LEAD-2025",
+      "report": "McKinsey Quarterly 2025 #1: The Future of Leadership",
+      "pages": "104-109",
+      "excerpt": "The vulnerability excerpt frames appropriate vulnerability as a way for leaders to build trust, invite input, manage triggers and shift from proving themselves to improving themselves.",
+      "excerptRu": "Фрагмент о vulnerability описывает уместную уязвимость как способ для лидеров строить доверие, приглашать вклад других, управлять триггерами и смещаться от доказывания своей правоты к саморазвитию."
+    },
+    {
+      "supports": "C-FWF-MM-001",
+      "reportId": "R-FWF-MM-2026",
+      "report": "The Future of Middle Management",
+      "pages": "5-8",
+      "excerpt": "The report argues that eliminating middle management would remove the human capabilities organizations need most: sense-making, connection, collaboration design, coaching and system coherence.",
+      "excerptRu": "Отчёт показывает, что устранение среднего менеджмента лишает организации критически важных человеческих способностей: осмысления, связи, проектирования сотрудничества, коучинга и системной согласованности."
+    },
+    {
+      "supports": "C-FWF-MM-002",
+      "reportId": "R-FWF-MM-2026",
+      "report": "The Future of Middle Management",
+      "pages": "12-15",
+      "excerpt": "The sense-maker chapter reframes middle managers as interpreters of complexity who regulate energy, perceive interdependencies and create coherence across uncertain systems.",
+      "excerptRu": "Глава о sense-making переопределяет среднего менеджера как интерпретатора сложности, который регулирует энергию, видит взаимозависимости и создаёт согласованность в неопределённых системах."
+    },
+    {
+      "supports": "C-FWF-MM-003",
+      "reportId": "R-FWF-MM-2026",
+      "report": "The Future of Middle Management",
+      "pages": "16-19",
+      "excerpt": "The AI-powered workplace chapter says AI can remove administrative burden while future middle managers become coaches, connectors and champions who clarify outcomes and enable experimentation.",
+      "excerptRu": "Глава об AI-powered workplace показывает, что AI снимает административную нагрузку, а будущие средние менеджеры становятся коучами, связующими и защитниками достижений, которые проясняют результаты и поддерживают эксперименты."
+    },
+    {
+      "supports": "C-FWF-MM-004",
+      "reportId": "R-FWF-MM-2026",
+      "report": "The Future of Middle Management",
+      "pages": "20-23",
+      "excerpt": "The careers chapter describes a shift from ladders to networks, with growth based on lateral movement, contribution, learning agility, skill breadth and influence rather than formal rank.",
+      "excerptRu": "Глава о карьерах описывает переход от карьерных лестниц к сетям, где рост основан на горизонтальных переходах, вкладе, скорости обучения, широте навыков и влиянии, а не на формальном ранге."
+    },
+    {
+      "supports": "C-FWF-MM-005",
+      "reportId": "R-FWF-MM-2026",
+      "report": "The Future of Middle Management",
+      "pages": "24-26",
+      "excerpt": "The hybrid conductor chapter argues that future managers will maintain human connectivity and merge human and AI attributes into future teams as AI changes organizational communication flows.",
+      "excerptRu": "Глава о hybrid conductor утверждает, что будущие менеджеры будут сохранять человеческую связность и соединять человеческие и AI-возможности в командах будущего по мере изменения коммуникационных потоков."
+    },
+    {
+      "supports": "C-FWF-MM-006",
+      "reportId": "R-FWF-MM-2026",
+      "report": "The Future of Middle Management",
+      "pages": "27-31",
+      "excerpt": "The development chapter calls for immersive and relational development through live business challenges, conversation labs, resilience work, systems thinking, coaching practice, change challenges and digital fluency sprints.",
+      "excerptRu": "Глава о развитии предлагает погружённое развитие через отношения и практику: реальные бизнес-вызовы, лаборатории разговоров, работу с устойчивостью, системное мышление, коучинговую практику, вызовы изменений и спринты цифровой грамотности."
+    },
+    {
+      "supports": "C-FWF-MM-007",
+      "reportId": "R-FWF-MM-2026",
+      "report": "The Future of Middle Management",
+      "pages": "32-34",
+      "excerpt": "The working-relationships chapter identifies authentic communication, coaching, facilitation, feedback, digital literacy, availability and boundary-spanning as critical for managing dispersed and hybrid teams.",
+      "excerptRu": "Глава о рабочих отношениях выделяет подлинную коммуникацию, коучинг, фасилитацию, обратную связь, цифровую грамотность, доступность и лидерство через границы подразделений как критические способности для распределённых и гибридных команд."
+    },
+    {
+      "supports": "C-FWF-MM-008",
+      "reportId": "R-FWF-MM-2026",
+      "report": "The Future of Middle Management",
+      "pages": "37-41",
+      "excerpt": "The collaboration chapter frames middle managers as designers of trust-based collaborative systems, communication spaces, rituals, ethical influence, transparency and rhythm.",
+      "excerptRu": "Глава о сотрудничестве описывает средних менеджеров как проектировщиков систем сотрудничества на основе доверия: коммуникационных пространств, ритуалов, этического влияния, прозрачности и ритма."
+    },
+    {
+      "supports": "C-FWF-MM-009",
+      "reportId": "R-FWF-MM-2026",
+      "report": "The Future of Middle Management",
+      "pages": "42-44",
+      "excerpt": "The self-managed-teams chapter argues that removing managerial layers is not enough; remaining managers must become enablers, supporters, mentors and coaches for frontline decision-making.",
+      "excerptRu": "Глава о самоуправляемых командах показывает, что простого удаления управленческих слоёв недостаточно: оставшиеся менеджеры должны стать помощниками, поддержкой, наставниками и коучами для решений на фронтовой линии."
+    },
+    {
+      "supports": "C-FWF-MM-010",
+      "reportId": "R-FWF-MM-2026",
+      "report": "The Future of Middle Management",
+      "pages": "48-52",
+      "excerpt": "The reward chapter says future middle-management value sits in coaching, sense-making, integration, interpretation, influence and long-term system contribution rather than headcount, budget or positional authority.",
+      "excerptRu": "Глава о вознаграждении показывает, что ценность будущего среднего менеджмента связана с коучингом, осмыслением, интеграцией, интерпретацией, влиянием и долгосрочным вкладом в систему, а не с численностью подчинённых, бюджетом или формальной властью."
+    },
+    {
+      "supports": "C-BCG-FOF-001",
+      "reportId": "R-BCG-FOF-2026",
+      "report": "Corporate Functions of the Future Won't Look Like Functions at All",
+      "pages": "1-2",
+      "excerpt": "BCG says corporate support functions covering finance, HR, legal, compliance, procurement and technology are becoming a drag and that functions of the future are leaner, more automated corporate functions designed to perform at AI speed.",
+      "excerptRu": "BCG пишет, что корпоративные функции поддержки, включая финансы, HR, юридическую функцию, комплаенс, закупки и технологии, становятся источником нагрузки, а функции будущего должны быть более компактными и автоматизированными, работающими на скорости AI."
+    },
+    {
+      "supports": "C-BCG-FOF-002",
+      "reportId": "R-BCG-FOF-2026",
+      "report": "Corporate Functions of the Future Won't Look Like Functions at All",
+      "pages": "3-4",
+      "excerpt": "Leading companies do not simply layer AI tools onto existing tasks; they rebuild functional activities around AI, reworking processes and how tasks are handled end to end.",
+      "excerptRu": "Лидеры не просто накладывают AI-инструменты на существующие задачи; они перестраивают функциональную деятельность вокруг AI, меняя процессы и обработку задач end-to-end."
+    },
+    {
+      "supports": "C-BCG-FOF-005",
+      "reportId": "R-BCG-FOF-2026",
+      "report": "Corporate Functions of the Future Won't Look Like Functions at All",
+      "pages": "3",
+      "excerpt": "The article describes requiring AI justification before approving new functional hires, meaning managers must show that AI cannot perform or significantly augment the role before adding headcount.",
+      "excerptRu": "Статья описывает требование AI-обоснования перед одобрением новых функциональных ролей: менеджеры должны показать, что AI не может выполнить или существенно усилить роль до расширения штата."
+    },
+    {
+      "supports": "C-BCG-FOF-007",
+      "reportId": "R-BCG-FOF-2026",
+      "report": "Corporate Functions of the Future Won't Look Like Functions at All",
+      "pages": "5-6",
+      "excerpt": "In an FoF organization, corporate functions run with smaller teams, AI agents handle routine work, human roles focus on judgment and strategy, and leadership moves toward fewer functional heads coordinated through CFO or CAO roles.",
+      "excerptRu": "В FoF-организации корпоративные функции работают меньшими командами, AI-агенты выполняют рутину, люди фокусируются на суждении и стратегии, а лидерская структура движется к меньшему числу функциональных руководителей с координацией через CFO или CAO."
+    },
+    {
+      "supports": "C-BCG-FOF-003",
+      "reportId": "R-BCG-FOF-2026",
+      "report": "Corporate Functions of the Future Won't Look Like Functions at All",
+      "pages": "6-7",
+      "excerpt": "The GBS building block shifts 30% to 40% of functional activities into AI-enabled platforms that operate continuously, manage exceptions automatically and complete most transactions without human intervention.",
+      "excerptRu": "Блок GBS переносит 30-40% функциональной активности в AI-платформы, которые работают непрерывно, автоматически управляют исключениями и выполняют большинство транзакций без участия человека."
+    },
+    {
+      "supports": "C-BCG-FOF-004",
+      "reportId": "R-BCG-FOF-2026",
+      "report": "Corporate Functions of the Future Won't Look Like Functions at All",
+      "pages": "8",
+      "excerpt": "BCG argues that AI-first functions need a different scorecard: cost per exception resolved and combined human-AI capacity utilization matter more than cost per invoice or FTE utilization.",
+      "excerptRu": "BCG утверждает, что AI-first функциям нужна иная система метрик: стоимость разрешённого исключения и совокупная загрузка человеческой и AI-мощности важнее стоимости счёта или загрузки FTE."
+    },
+    {
+      "supports": "C-BCG-FOF-002",
+      "reportId": "R-BCG-FOF-2026",
+      "report": "Corporate Functions of the Future Won't Look Like Functions at All",
+      "pages": "9-10",
+      "excerpt": "The implementation sequence begins with process redesign across functions, then layers in AI and agents, aligns data and systems, and only then reshapes roles and leadership structures at scale.",
+      "excerptRu": "Последовательность внедрения начинается с перепроектирования процессов между функциями, затем добавляет AI и агентов, выравнивает данные и системы и только после этого масштабно меняет роли и лидерскую структуру."
+    },
+    {
+      "supports": "C-BCG-FOF-006",
+      "reportId": "R-BCG-FOF-2026",
+      "report": "Corporate Functions of the Future Won't Look Like Functions at All",
+      "pages": "10-11",
+      "excerpt": "Autonomous workflows can make cost management preventative, continuously monitoring signals, enforcing constraints and intervening before cost is generated through AI-based structural guardrails.",
+      "excerptRu": "Автономные рабочие процессы могут сделать управление затратами предупредительным: они непрерывно отслеживают сигналы, применяют ограничения и вмешиваются до возникновения затрат через AI-структурные ограничения."
+    },
+    {
+      "supports": "C-BCG-FOF-003",
+      "reportId": "R-BCG-FOF-2026",
+      "report": "Corporate Functions of the Future Won't Look Like Functions at All",
+      "pages": "12",
+      "excerpt": "Examples include compliance functions redesigned around AI-enabled monitoring and reporting, and GBS platforms that standardize master data and automate source-to-pay processes.",
+      "excerptRu": "Примеры включают комплаенс-функции, перепроектированные вокруг AI-мониторинга и отчётности, и GBS-платформы, стандартизирующие мастер-данные и автоматизирующие процессы source-to-pay."
+    },
+    {
+      "supports": "C-BCG-FOF-008",
+      "reportId": "R-BCG-FOF-2026",
+      "report": "Corporate Functions of the Future Won't Look Like Functions at All",
+      "pages": "13",
+      "excerpt": "BCG says automation reduces demand for transactional G&A roles while increasing the need for people who design, supervise and improve AI-driven systems, requiring reskilling, redeployment, recruitment and sometimes workforce reduction.",
+      "excerptRu": "BCG пишет, что автоматизация снижает спрос на транзакционные роли в G&A и повышает потребность в людях, которые проектируют, контролируют и улучшают AI-системы, поэтому нужны переобучение, перераспределение, найм и иногда сокращение штата."
+    },
+    {
+      "supports": "C-BCG-AIW-013",
+      "reportId": "R-BCG-FOF-2026",
+      "report": "Corporate Functions of the Future Won't Look Like Functions at All",
+      "pages": "13",
+      "excerpt": "Boards and senior executives need to know where AI is used in corporate functions, who is accountable for AI-driven processes and who is responsible when systems fail or produce unexpected outcomes.",
+      "excerptRu": "Советы директоров и топ-руководители должны понимать, где AI используется в корпоративных функциях, кто отвечает за AI-процессы и кто несёт ответственность при сбоях или неожиданных результатах."
+    },
+    {
+      "supports": "C-AIHR-HR26-007",
+      "reportId": "R-BCG-FOF-2026",
+      "report": "Corporate Functions of the Future Won't Look Like Functions at All",
+      "pages": "13",
+      "excerpt": "As workflows become more integrated and automated, companies move toward flatter structures with fewer fragmented functions and simpler leadership layers; coordination-heavy middle management roles shrink.",
+      "excerptRu": "По мере интеграции и автоматизации рабочих процессов компании движутся к более плоским структурам с меньшим числом фрагментированных функций и более простыми лидерскими слоями; координационные роли среднего менеджмента сокращаются."
+    },
+    {
+      "supports": "C-WEF-NGL-001",
+      "reportId": "R-WEF-NGL-2026",
+      "report": "Next Generation Leadership for a World in Transformation: Driving Dialogue and Action",
+      "pages": "3-5",
+      "excerpt": "The report proposes four strategic shifts: linear to intergenerational leadership, control to co-creation, individual authority to shared agency, and short-term performance to long-term impact.",
+      "excerptRu": "Отчёт предлагает четыре стратегических сдвига: от линейного к межпоколенческому лидерству, от контроля к совместному созданию, от индивидуальной власти к shared agency и от краткосрочной результативности к долгосрочному эффекту."
+    },
+    {
+      "supports": "C-WEF-NGL-001",
+      "reportId": "R-WEF-NGL-2026",
+      "report": "Next Generation Leadership for a World in Transformation: Driving Dialogue and Action",
+      "pages": "4",
+      "excerpt": "The report defines four systemic leverage points: leadership pipeline and selection, training and development, decision-making and action, and leadership legacy.",
+      "excerptRu": "Отчёт выделяет четыре системных рычага: лидерский резерв и отбор, обучение и развитие, принятие решений и действия, а также лидерское наследие."
+    },
+    {
+      "supports": "C-WEF-NGL-002",
+      "reportId": "R-WEF-NGL-2026",
+      "report": "Next Generation Leadership for a World in Transformation: Driving Dialogue and Action",
+      "pages": "8-9",
+      "excerpt": "The pipeline section argues that leadership selection should move from static criteria and inherited power structures toward adaptive yet principled criteria, diverse pathways and future-oriented readiness.",
+      "excerptRu": "Раздел о лидерском резерве говорит, что отбор лидеров должен уходить от статичных критериев и воспроизводства власти к адаптивным, но принципиальным критериям, разнообразным траекториям и готовности к будущему."
+    },
+    {
+      "supports": "C-WEF-NGL-002",
+      "reportId": "R-WEF-NGL-2026",
+      "report": "Next Generation Leadership for a World in Transformation: Driving Dialogue and Action",
+      "pages": "9",
+      "excerpt": "Integrating youth voices and next-generation leaders into pipeline, selection and decision-making is presented as essential for trust, legitimacy and agency in a transforming world.",
+      "excerptRu": "Интеграция молодых голосов и лидеров следующего поколения в резерв, отбор и принятие решений названа необходимой для доверия, легитимности и субъектности в трансформирующемся мире."
+    },
+    {
+      "supports": "C-WEF-NGL-003",
+      "reportId": "R-WEF-NGL-2026",
+      "report": "Next Generation Leadership for a World in Transformation: Driving Dialogue and Action",
+      "pages": "10-11",
+      "excerpt": "The training section says leaders need moral compass, empathy, adaptability, AI and deep-tech literacy, mindful listening and dialogue so leadership shifts from control to co-creation.",
+      "excerptRu": "Раздел об обучении говорит, что лидерам нужны моральный компас, эмпатия, адаптивность, AI- и deep-tech грамотность, внимательное слушание и диалог, чтобы лидерство переходило от контроля к совместному созданию."
+    },
+    {
+      "supports": "C-WEF-NGL-004",
+      "reportId": "R-WEF-NGL-2026",
+      "report": "Next Generation Leadership for a World in Transformation: Driving Dialogue and Action",
+      "pages": "12",
+      "excerpt": "The decision-making section argues that leaders should build decision-making capacity in others, use collective intelligence and shift from individual authority to shared agency.",
+      "excerptRu": "Раздел о принятии решений утверждает, что лидеры должны развивать способность принимать решения у других, использовать коллективный интеллект и переходить от индивидуальной власти к shared agency."
+    },
+    {
+      "supports": "C-WEF-NGL-005",
+      "reportId": "R-WEF-NGL-2026",
+      "report": "Next Generation Leadership for a World in Transformation: Driving Dialogue and Action",
+      "pages": "13",
+      "excerpt": "Evidence-informed leadership in the generative AI era requires data literacy, the ability to evaluate AI outputs, ethical awareness, dialogue and adaptive governance as evidence changes.",
+      "excerptRu": "Доказательное лидерство в эпоху GenAI требует грамотности в данных, способности оценивать AI-результаты, этической осознанности, диалога и адаптивного управления по мере изменения доказательств."
+    },
+    {
+      "supports": "C-WEF-NGL-006",
+      "reportId": "R-WEF-NGL-2026",
+      "report": "Next Generation Leadership for a World in Transformation: Driving Dialogue and Action",
+      "pages": "14",
+      "excerpt": "The legacy section reframes leadership legacy as being a good ancestor: leaving future generations more options and agency through humility, long-term perspective and succession renewal.",
+      "excerptRu": "Раздел о наследии переопределяет лидерское наследие как позицию доброго предка: оставлять будущим поколениям больше возможностей и субъектности через скромность, долгосрочную перспективу и обновление преемственности."
+    },
+    {
+      "supports": "C-WEF-NGL-007",
+      "reportId": "R-WEF-NGL-2026",
+      "report": "Next Generation Leadership for a World in Transformation: Driving Dialogue and Action",
+      "pages": "15",
+      "excerpt": "The leadership impact scorecard would track long-term trust, legitimacy, baton passing, initiative continuity, representation of women and minorities in pipelines, wellbeing and intergenerational impact.",
+      "excerptRu": "Leadership impact scorecard должен отслеживать долгосрочное доверие, легитимность, передачу эстафеты, преемственность инициатив, представленность женщин и меньшинств в лидерских резервах, благополучие и межпоколенческий эффект."
+    },
+    {
+      "supports": "C-WEF-NGL-001",
+      "reportId": "R-WEF-NGL-2026",
+      "report": "Next Generation Leadership for a World in Transformation: Driving Dialogue and Action",
+      "pages": "16",
+      "excerpt": "The global leadership lab is framed around convening, curating, cultivating and catalysing leadership innovation across generations, regions and sectors.",
+      "excerptRu": "Глобальная лаборатория лидерства описана через созыв, кураторство, развитие и запуск лидерских инноваций между поколениями, регионами и секторами; это evidence, а не отдельный источник-специфичный бабл."
+    },
+    {
+      "supports": "C-IBM-CEO-001",
+      "reportId": "R-IBM-CEO-2026",
+      "report": "2026 CEO Study: Rewiring the C-suite - The fast track to 2030",
+      "pages": "5-8",
+      "excerpt": "IBM frames AI as a structural shift in how organizations think, decide and compete, arguing that successful enterprises will operate AI-first as a new operating model rather than as a technology layer.",
+      "excerptRu": "IBM описывает AI как структурный сдвиг в том, как организации думают, принимают решения и конкурируют, и утверждает, что успешные компании будут работать AI-first как в новой операционной модели, а не как с технологическим слоем."
+    },
+    {
+      "supports": "C-IBM-CEO-003",
+      "reportId": "R-IBM-CEO-2026",
+      "report": "2026 CEO Study: Rewiring the C-suite - The fast track to 2030",
+      "pages": "17-18",
+      "excerpt": "CEOs rewiring the C-suite appoint CAIOs with real authority to orchestrate transformation enterprise-wide; when bounded properly, CAIOs set AI targets and guidelines while business leaders remain accountable for outcomes.",
+      "excerptRu": "CEO, перестраивающие C-suite, назначают CAIO с реальными полномочиями для оркестрации трансформации на уровне компании; при правильных границах CAIO задаёт AI-цели и правила, а бизнес-лидеры отвечают за результаты."
+    },
+    {
+      "supports": "C-IBM-CEO-002",
+      "reportId": "R-IBM-CEO-2026",
+      "report": "2026 CEO Study: Rewiring the C-suite - The fast track to 2030",
+      "pages": "18-20",
+      "excerpt": "IBM says C-suite leaders must reinvent themselves as cross-enterprise orchestrators rather than functional specialists, with all functional leaders becoming technology experts in their domains.",
+      "excerptRu": "IBM пишет, что лидеры C-suite должны переизобрести себя как кросс-корпоративные оркестраторы, а не функциональные специалисты, причём все функциональные руководители должны стать технологическими экспертами в своей области."
+    },
+    {
+      "supports": "C-IBM-CEO-004",
+      "reportId": "R-IBM-CEO-2026",
+      "report": "2026 CEO Study: Rewiring the C-suite - The fast track to 2030",
+      "pages": "20-21",
+      "excerpt": "The report recommends redesigning decision rights before changing the org chart: identify enterprise decisions that slow execution, assign one owner, explicit authority and clear escalation rules.",
+      "excerptRu": "Отчёт рекомендует перепроектировать права принятия решений до изменения оргструктуры: выявить корпоративные решения, замедляющие исполнение, назначить одного владельца, явные полномочия и правила эскалации."
+    },
+    {
+      "supports": "C-IBM-CEO-005",
+      "reportId": "R-IBM-CEO-2026",
+      "report": "2026 CEO Study: Rewiring the C-suite - The fast track to 2030",
+      "pages": "23-25",
+      "excerpt": "Future-focused CEOs boost productivity, reinvest gains into innovation, embed AI in end-to-end workflows and create a financial flywheel that transforms the business model and operating model.",
+      "excerptRu": "Future-focused CEO повышают продуктивность, реинвестируют высвобождённые ресурсы в инновации, встраивают AI в сквозные процессы и создают финансовый маховик, меняющий бизнес-модель и операционную модель."
+    },
+    {
+      "supports": "C-IBM-CEO-006",
+      "reportId": "R-IBM-CEO-2026",
+      "report": "2026 CEO Study: Rewiring the C-suite - The fast track to 2030",
+      "pages": "24-25",
+      "excerpt": "CEOs say 25% of operational decisions are already made by AI without human intervention and expect nearly 48% by 2030; humans shift to decision logic, guardrails, exceptions and audit.",
+      "excerptRu": "CEO говорят, что 25% операционных решений уже принимаются AI без участия человека, а к 2030 году ожидают почти 48%; роль людей смещается к логике решений, ограничениям, исключениям и аудиту."
+    },
+    {
+      "supports": "C-IBM-CEO-007",
+      "reportId": "R-IBM-CEO-2026",
+      "report": "2026 CEO Study: Rewiring the C-suite - The fast track to 2030",
+      "pages": "29-32",
+      "excerpt": "IBM argues that successful AI scaling depends on the right AI mix: foundation models, smaller task-specific models and ultra-specialized models using proprietary data and IP, rather than defaulting to one large model.",
+      "excerptRu": "IBM утверждает, что успешное масштабирование AI зависит от правильного AI-микса: базовых моделей, малых специализированных моделей и ультраспециализированных моделей на собственных данных и интеллектуальной собственности, а не от выбора одной крупной модели по умолчанию."
+    },
+    {
+      "supports": "C-IBM-CEO-008",
+      "reportId": "R-IBM-CEO-2026",
+      "report": "2026 CEO Study: Rewiring the C-suite - The fast track to 2030",
+      "pages": "31-32",
+      "excerpt": "The report says AI agents should embody the organization’s culture, values, competitive edge, decision rules, risk tolerances, operating philosophy and approved decision criteria.",
+      "excerptRu": "Отчёт говорит, что AI-агенты должны воплощать культуру, ценности, конкурентное преимущество, правила решений, риск-аппетит, операционную философию и утверждённые критерии решений организации."
+    },
+    {
+      "supports": "C-IBM-CEO-009",
+      "reportId": "R-IBM-CEO-2026",
+      "report": "2026 CEO Study: Rewiring the C-suite - The fast track to 2030",
+      "pages": "35-39",
+      "excerpt": "IBM finds that only 25% of the workforce uses AI regularly despite CEOs saying 86% have AI collaboration skills, concluding the gap is more an organizational design problem than a skills problem.",
+      "excerptRu": "IBM показывает, что только 25% рабочей силы регулярно использует AI, хотя CEO считают, что 86% имеют навыки сотрудничества с AI; вывод: разрыв скорее связан с организационным дизайном, чем с нехваткой навыков."
+    },
+    {
+      "supports": "C-IBM-CEO-010",
+      "reportId": "R-IBM-CEO-2026",
+      "report": "2026 CEO Study: Rewiring the C-suite - The fast track to 2030",
+      "pages": "41-45",
+      "excerpt": "IBM frames AI-first capability as the foundation for quantum-era advantage, recommending cross-functional exploration teams, quantum literacy, adaptable foundations and ecosystem partnerships.",
+      "excerptRu": "IBM рассматривает AI-first способность как основу преимущества в квантовую эпоху и рекомендует кросс-функциональные исследовательские команды, квантовую грамотность, адаптивные основания и экосистемные партнёрства."
+    },
+    {
+      "supports": "C-IBM-CEO-001",
+      "reportId": "R-IBM-CEO-2026",
+      "report": "2026 CEO Study: Rewiring the C-suite - The fast track to 2030",
+      "pages": "47",
+      "excerpt": "The methodology defines integrated AI maturity through cross-functional collaboration, AI embedded across workflows, long-term differentiation, people-centred adoption and emerging technology assessment.",
+      "excerptRu": "Методология определяет интегрированную AI-зрелость через кросс-функциональное взаимодействие, AI в рабочих процессах, долгосрочную дифференциацию, человекоцентричное внедрение и оценку новых технологий."
+    },
+    {
+      "supports": "C-IBM-CEO-001",
+      "reportId": "R-IBM-CEO-2026",
+      "report": "2026 CEO Study: Rewiring the C-suite - The fast track to 2030",
+      "pages": "47",
+      "excerpt": "IBM’s leadership redesign composite includes shifts in C-suite authority and influence, elevation of the CAIO, and CEO-driven redesign of decision rights and accountability mechanisms.",
+      "excerptRu": "Композит лидерского редизайна IBM включает сдвиги полномочий и влияния в C-suite, усиление роли CAIO и инициированное CEO перепроектирование прав принятия решений и механизмов ответственности."
+    },
+    {
+      "supports": "C-IBM-ENT2030-001",
+      "reportId": "R-IBM-ENT2030-2026",
+      "report": "The enterprise in 2030: Engineered for perpetual innovation",
+      "pages": "7-8",
+      "excerpt": "The report frames the future enterprise as less monolithic and more modular, with AI turning static design into dynamic intelligence and embedding transformation into operational DNA.",
+      "excerptRu": "Отчёт описывает компанию будущего как менее монолитную и более модульную: AI превращает статичный дизайн в динамический интеллект и встраивает трансформацию в операционную ДНК."
+    },
+    {
+      "supports": "C-IBM-ENT2030-002",
+      "reportId": "R-IBM-ENT2030-2026",
+      "report": "The enterprise in 2030: Engineered for perpetual innovation",
+      "pages": "8",
+      "excerpt": "IBM contrasts AI-enabled with AI-first: the smarter enterprise processes market signals continuously, adjusts course in real time, dynamically deploys talent and experiments with new revenue streams.",
+      "excerptRu": "IBM противопоставляет AI-enabled и AI-first: умная компания непрерывно обрабатывает рыночные сигналы, корректирует курс в реальном времени, динамически распределяет таланты и экспериментирует с новыми потоками выручки."
+    },
+    {
+      "supports": "C-IBM-ENT2030-003",
+      "reportId": "R-IBM-ENT2030-2026",
+      "report": "The enterprise in 2030: Engineered for perpetual innovation",
+      "pages": "14-17",
+      "excerpt": "The report says 2030 winners will make bigger bets faster with less complete information, prioritizing speed of execution, AI-supported market learning and intelligent risk-taking.",
+      "excerptRu": "Отчёт утверждает, что победители 2030 года будут делать более крупные ставки быстрее и при неполной информации, опираясь на скорость исполнения, AI-поддержанное рыночное обучение и осмысленное принятие риска."
+    },
+    {
+      "supports": "C-IBM-ENT2030-004",
+      "reportId": "R-IBM-ENT2030-2026",
+      "report": "The enterprise in 2030: Engineered for perpetual innovation",
+      "pages": "24-25",
+      "excerpt": "IBM argues that smarter enterprises will operate with resource abundance as AI reduces the scarcity behind trade-offs between growth, profitability, innovation, efficiency, scale and agility.",
+      "excerptRu": "IBM утверждает, что умные компании будут действовать в логике ресурсного изобилия, потому что AI снижает дефицит, лежащий в основе компромиссов между ростом, прибыльностью, инновациями, эффективностью, масштабом и гибкостью."
+    },
+    {
+      "supports": "C-IBM-ENT2030-005",
+      "reportId": "R-IBM-ENT2030-2026",
+      "report": "The enterprise in 2030: Engineered for perpetual innovation",
+      "pages": "23-27",
+      "excerpt": "The report recommends a productivity-to-opportunity map that connects each AI efficiency gain to a revenue-generating capability, supported by annual milestones, ownership, efficiency sprints and rotating AI sandboxes.",
+      "excerptRu": "Отчёт рекомендует карту перехода от продуктивности к возможностям, связывающую каждое AI-ускорение эффективности с выручкообразующей способностью, годовыми этапами, владельцами, спринтами эффективности и ротируемыми AI-песочницами."
+    },
+    {
+      "supports": "C-IBM-ENT2030-006",
+      "reportId": "R-IBM-ENT2030-2026",
+      "report": "The enterprise in 2030: Engineered for perpetual innovation",
+      "pages": "32-36",
+      "excerpt": "IBM says competitive AI advantage depends on multi-model portfolios, proprietary data, a neutral orchestration layer across platforms, apps and agents, and governance mechanisms including access controls, audit trails and decision logs.",
+      "excerptRu": "IBM пишет, что конкурентное AI-преимущество зависит от мультимодельных портфелей, собственных данных, нейтрального слоя оркестрации между платформами, приложениями и агентами, а также механизмов управления: прав доступа, аудиторских следов и журналов решений."
+    },
+    {
+      "supports": "C-IBM-ENT2030-007",
+      "reportId": "R-IBM-ENT2030-2026",
+      "report": "The enterprise in 2030: Engineered for perpetual innovation",
+      "pages": "40-42",
+      "excerpt": "The report describes a shift toward human-led, agent-operated teams where personal agents and enterprise agents reshape functions and create new roles such as functional AI agent supervisors and AI safety engineers.",
+      "excerptRu": "Отчёт описывает сдвиг к командам под руководством людей и с работой AI-агентов: персональные и корпоративные агенты меняют функции и создают новые роли, включая функциональных супервизоров AI-агентов и инженеров AI-безопасности."
+    },
+    {
+      "supports": "C-IBM-ENT2030-008",
+      "reportId": "R-IBM-ENT2030-2026",
+      "report": "The enterprise in 2030: Engineered for perpetual innovation",
+      "pages": "45-46",
+      "excerpt": "IBM recommends replacing fixed job descriptions with outcome-based mandates that evolve as AI capabilities expand, while empowering employees to identify use cases, build low-code or no-code agents and work within guardrails.",
+      "excerptRu": "IBM рекомендует заменить фиксированные должностные инструкции мандатами на результат, которые меняются по мере расширения AI-возможностей, и дать сотрудникам возможность находить сценарии применения, создавать low-code/no-code агентов и действовать в заданных правилах."
+    },
+    {
+      "supports": "C-IBM-ENT2030-009",
+      "reportId": "R-IBM-ENT2030-2026",
+      "report": "The enterprise in 2030: Engineered for perpetual innovation",
+      "pages": "43-46",
+      "excerpt": "The report says AI assistants can simultaneously reshape work and deliver personalized learning, coaching, courses and credentials in the flow of work, turning technological disruption into human advancement.",
+      "excerptRu": "Отчёт говорит, что AI-ассистенты могут одновременно менять работу и встроенно давать персонализированное обучение, коучинг, курсы и подтверждения квалификации, превращая технологическую дисрапцию в развитие людей."
+    },
+    {
+      "supports": "C-IBM-CEO-010",
+      "reportId": "R-IBM-ENT2030-2026",
+      "report": "The enterprise in 2030: Engineered for perpetual innovation",
+      "pages": "50-54",
+      "excerpt": "IBM frames quantum and AI as a tandem roadmap: organizations should build flexible operations, infrastructure, partnerships, quantum skills, experiments and post-quantum cryptography before quantum advantage arrives.",
+      "excerptRu": "IBM описывает quantum и AI как совместную дорожную карту: компаниям нужны гибкие операции, инфраструктура, партнёрства, квантовые навыки, эксперименты и постквантовая криптография до появления квантового преимущества."
+    },
+    {
+      "supports": "C-IBM-ENT2030-003",
+      "reportId": "R-IBM-ENT2030-2026",
+      "report": "The enterprise in 2030: Engineered for perpetual innovation",
+      "pages": "35-37",
+      "excerpt": "The report says AI fluency should become as essential as financial literacy for senior roles, because leaders must direct dynamic AI portfolios that learn, adapt and interact with customers and operations.",
+      "excerptRu": "Отчёт утверждает, что AI-грамотность должна стать для руководителей такой же обязательной, как финансовая грамотность, потому что лидерам нужно направлять динамические AI-портфели, которые учатся, адаптируются и взаимодействуют с клиентами и операциями."
+    },
+    {
+      "supports": "C-IBM-T26-001",
+      "reportId": "R-IBM-TRENDS26-2026",
+      "report": "5 trends for 2026: Capture fleeting opportunities with confidence",
+      "pages": "4-9",
+      "excerpt": "IBM frames 2026 leadership around an appetite for ambiguity: volatility creates openings, 95% of executives must make faster decisions, and 74% say economic and geopolitical volatility will create new business opportunities.",
+      "excerptRu": "IBM описывает лидерство 2026 года через аппетит к неоднозначности: волатильность создаёт окна возможностей, 95% руководителей должны принимать более быстрые решения, а 74% считают, что экономическая и геополитическая волатильность создаст новые бизнес-возможности."
+    },
+    {
+      "supports": "C-IBM-T26-002",
+      "reportId": "R-IBM-TRENDS26-2026",
+      "report": "5 trends for 2026: Capture fleeting opportunities with confidence",
+      "pages": "9-10",
+      "excerpt": "The report says agentic AI helps organizations make better, faster decisions and reallocate resources amid disruption; leaders should give agents authority to adjust pricing, messaging and product variations when thresholds are met.",
+      "excerptRu": "Отчёт говорит, что agentic AI помогает организациям быстрее и лучше принимать решения и перераспределять ресурсы в условиях дисрапции; лидерам стоит давать агентам полномочия менять цены, сообщения и продуктовые варианты при достижении заданных порогов."
+    },
+    {
+      "supports": "C-IBM-T26-003",
+      "reportId": "R-IBM-TRENDS26-2026",
+      "report": "5 trends for 2026: Capture fleeting opportunities with confidence",
+      "pages": "12-13",
+      "excerpt": "Across age groups, employees are at least twice as likely to embrace rather than resist greater employer use of AI; 61% say AI makes work less mundane and more strategic.",
+      "excerptRu": "Во всех возрастных группах сотрудники как минимум вдвое чаще готовы принять расширение AI у работодателя, чем сопротивляться ему; 61% говорят, что AI делает работу менее рутинной и более стратегической."
+    },
+    {
+      "supports": "C-IBM-T26-004",
+      "reportId": "R-IBM-TRENDS26-2026",
+      "report": "5 trends for 2026: Capture fleeting opportunities with confidence",
+      "pages": "13",
+      "excerpt": "IBM recommends asking employees which daily tasks AI can augment or automate and which cannot, then focusing human talent on judgment, relationships, ambiguity navigation and innovation.",
+      "excerptRu": "IBM рекомендует спрашивать сотрудников, какие ежедневные задачи AI может усилить или автоматизировать, а какие нет, а затем фокусировать человеческий талант на суждении, отношениях, навигации в неоднозначности и инновациях."
+    },
+    {
+      "supports": "C-IBM-T26-005",
+      "reportId": "R-IBM-TRENDS26-2026",
+      "report": "5 trends for 2026: Capture fleeting opportunities with confidence",
+      "pages": "15-16",
+      "excerpt": "Consumers want to know when they interact with AI, understand how AI uses their data, remove their data, trace recommendations and opt in; two-thirds would switch brands if AI involvement were intentionally concealed.",
+      "excerptRu": "Потребители хотят знать, когда взаимодействуют с AI, понимать, как AI использует их данные, удалять данные, прослеживать рекомендации и выбирать opt-in; две трети сменили бы бренд, если бы участие AI намеренно скрывалось."
+    },
+    {
+      "supports": "C-IBM-T26-006",
+      "reportId": "R-IBM-TRENDS26-2026",
+      "report": "5 trends for 2026: Capture fleeting opportunities with confidence",
+      "pages": "17-18",
+      "excerpt": "IBM defines AI sovereignty as the ability to control and govern AI systems, data and infrastructure at all times; 93% of executives say they must factor AI sovereignty into their 2026 business strategy.",
+      "excerptRu": "IBM определяет AI-суверенитет как способность постоянно контролировать и управлять AI-системами, данными и инфраструктурой; 93% руководителей говорят, что должны учитывать AI-суверенитет в стратегии на 2026 год."
+    },
+    {
+      "supports": "C-IBM-T26-007",
+      "reportId": "R-IBM-TRENDS26-2026",
+      "report": "5 trends for 2026: Capture fleeting opportunities with confidence",
+      "pages": "18-19",
+      "excerpt": "The report links resilience to local data, models, talent, trusted locations, providers, compliance automation, explainability, documented agent decision pathways and continuous model-drift monitoring.",
+      "excerptRu": "Отчёт связывает устойчивость с локальными данными, моделями, талантами, доверенными локациями и провайдерами, автоматизацией соблюдения требований, объяснимостью, документированием путей решений агентов и постоянным мониторингом дрейфа моделей."
+    },
+    {
+      "supports": "C-IBM-T26-008",
+      "reportId": "R-IBM-TRENDS26-2026",
+      "report": "5 trends for 2026: Capture fleeting opportunities with confidence",
+      "pages": "21-22",
+      "excerpt": "Quantum-ready organizations are three times as likely to belong to multiple ecosystems; partners provide data, compute and expertise that help accelerate technology adoption, improve AI tools and make quantum advantage practical.",
+      "excerptRu": "Квантово готовые организации в три раза чаще состоят в нескольких экосистемах; партнёры дают данные, вычислительные мощности и экспертизу, которые ускоряют внедрение технологий, улучшают AI-инструменты и делают квантовое преимущество практичным."
+    },
+    {
+      "supports": "C-IBM-CEO25-001",
+      "reportId": "R-IBM-CEO25-MINDSHIFTS-2025",
+      "report": "2025 CEO Study: 5 mindshifts to supercharge business growth",
+      "pages": "8-9",
+      "excerpt": "IBM identifies Luminary CEOs as top performers with connected workflows, decisive action, robust AI regulatory responsibility, future-focused investment, workforce AI impact assessment and unimpeded technology adoption.",
+      "excerptRu": "IBM определяет Luminary CEO как лидеров с лучшими результатами: они имеют связанные рабочие процессы, решительность, сильную ответственность по AI-регулированию, инвестиции в будущее, оценку влияния AI на рабочую силу и способность быстро внедрять технологии."
+    },
+    {
+      "supports": "C-IBM-CEO25-002",
+      "reportId": "R-IBM-CEO25-MINDSHIFTS-2025",
+      "report": "2025 CEO Study: 5 mindshifts to supercharge business growth",
+      "pages": "11-13",
+      "excerpt": "The report says courage comes from confidence rather than certainty: shared outcomes, broad leadership authority, real-time information, simulations and tools that show domino effects across reputation, customers and employees.",
+      "excerptRu": "Отчёт говорит, что смелость возникает из уверенности, а не из полной определённости: общие результаты, широкие лидерские полномочия, информация в реальном времени, симуляции и инструменты, показывающие эффект домино для репутации, клиентов и сотрудников."
+    },
+    {
+      "supports": "C-IBM-CEO25-003",
+      "reportId": "R-IBM-CEO25-MINDSHIFTS-2025",
+      "report": "2025 CEO Study: 5 mindshifts to supercharge business growth",
+      "pages": "12-13",
+      "excerpt": "IBM recommends innovation liquidity: earmarked investment, budget flexibility, real-time adjustments and funding small innovation bets that can build momentum for larger transformation.",
+      "excerptRu": "IBM рекомендует инновационную ликвидность: целевые инвестиции, гибкость бюджета, корректировки в реальном времени и финансирование небольших инновационных ставок, которые создают импульс для более крупной трансформации."
+    },
+    {
+      "supports": "C-IBM-CEO25-004",
+      "reportId": "R-IBM-CEO25-MINDSHIFTS-2025",
+      "report": "2025 CEO Study: 5 mindshifts to supercharge business growth",
+      "pages": "15-17",
+      "excerpt": "IBM says 68% of CEOs report AI changes core parts of their business and recommends using AI-fueled creative destruction to rethink business models, operating models, innovation mindset and success metrics.",
+      "excerptRu": "IBM пишет, что 68% CEO считают: AI меняет части бизнеса, которые они считают ядром; отчёт рекомендует использовать креативную дисрапцию на базе AI для переосмысления бизнес-модели, операционной модели, инновационного мышления и метрик успеха."
+    },
+    {
+      "supports": "C-IBM-CEO25-005",
+      "reportId": "R-IBM-CEO25-MINDSHIFTS-2025",
+      "report": "2025 CEO Study: 5 mindshifts to supercharge business growth",
+      "pages": "16-17",
+      "excerpt": "The report recommends avoiding model lock-in through a model-agnostic approach, comparing model performance and selecting the most effective and efficient model for each task rather than defaulting to large complex models.",
+      "excerptRu": "Отчёт рекомендует избегать зависимости от одной модели через model-agnostic подход: сравнивать результативность моделей и выбирать наиболее эффективную и экономичную модель для каждой задачи вместо автоматического выбора больших сложных моделей."
+    },
+    {
+      "supports": "C-IBM-CEO25-006",
+      "reportId": "R-IBM-CEO25-MINDSHIFTS-2025",
+      "report": "2025 CEO Study: 5 mindshifts to supercharge business growth",
+      "pages": "17",
+      "excerpt": "IBM recommends an AI-centric insight engine that defines how assistants and agents operate, who validates their work, how effectiveness is monitored, and where AI automates decisions versus supports human choices.",
+      "excerptRu": "IBM рекомендует AI-центрированный insight engine, который определяет, как работают ассистенты и агенты, кто проверяет их работу, как отслеживается результативность и где AI автоматизирует решения, а где поддерживает человеческий выбор."
+    },
+    {
+      "supports": "C-IBM-CEO25-007",
+      "reportId": "R-IBM-CEO25-MINDSHIFTS-2025",
+      "report": "2025 CEO Study: 5 mindshifts to supercharge business growth",
+      "pages": "22-24",
+      "excerpt": "The report says proprietary data and integrated enterprise-wide data architecture are critical for generative AI value; CEOs should build a data fabric, data quality framework, cloud-native platform and access/security framework.",
+      "excerptRu": "Отчёт говорит, что собственные данные и интегрированная корпоративная архитектура данных критичны для ценности generative AI; CEO должны строить data fabric, рамку качества данных, cloud-native платформу и рамку доступа и безопасности."
+    },
+    {
+      "supports": "C-IBM-CEO25-008",
+      "reportId": "R-IBM-CEO25-MINDSHIFTS-2025",
+      "report": "2025 CEO Study: 5 mindshifts to supercharge business growth",
+      "pages": "24",
+      "excerpt": "IBM recommends training AI assistants and agents on organizational data, ethical considerations, security and privacy policies and desired customer outcomes, then using their feedback to improve data quality and business processes.",
+      "excerptRu": "IBM рекомендует обучать AI-ассистентов и агентов на данных организации, этических требованиях, политиках безопасности и приватности и целевых клиентских результатах, а затем использовать их обратную связь для улучшения качества данных и бизнес-процессов."
+    },
+    {
+      "supports": "C-IBM-CEO25-009",
+      "reportId": "R-IBM-CEO25-MINDSHIFTS-2025",
+      "report": "2025 CEO Study: 5 mindshifts to supercharge business growth",
+      "pages": "27-29",
+      "excerpt": "IBM says only 25% of AI initiatives delivered expected ROI and only 16% scaled enterprise-wide; CEOs should broaden innovation ROI beyond cost reduction to metrics such as data value realization, innovation yield and time-to-insight.",
+      "excerptRu": "IBM пишет, что только 25% AI-инициатив дали ожидаемый ROI и только 16% масштабировались на всю компанию; CEO должны расширять ROI инноваций за пределы сокращения затрат, включая ценность данных, инновационную отдачу и время до получения инсайта."
+    },
+    {
+      "supports": "C-IBM-CEO25-010",
+      "reportId": "R-IBM-CEO25-MINDSHIFTS-2025",
+      "report": "2025 CEO Study: 5 mindshifts to supercharge business growth",
+      "pages": "33-35",
+      "excerpt": "The report describes a build, buy, bot, borrow approach: reskill existing talent, hire needed talent, add AI assistants and agents to workflows and borrow high-end expertise from strategic ecosystem partners.",
+      "excerptRu": "Отчёт описывает подход build-buy-bot-borrow: развивать существующих сотрудников, нанимать нужных специалистов, добавлять AI-ассистентов и агентов в рабочие процессы и привлекать высокоуровневую экспертизу у стратегических партнёров экосистемы."
+    },
+    {
+      "supports": "C-IBM-CEO25-011",
+      "reportId": "R-IBM-CEO25-MINDSHIFTS-2025",
+      "report": "2025 CEO Study: 5 mindshifts to supercharge business growth",
+      "pages": "35",
+      "excerpt": "IBM recommends building an AI board that blends technical and business skills, works across functional silos, has authority to look at the bigger picture and reports directly to the CEO.",
+      "excerptRu": "IBM рекомендует создать AI-совет, объединяющий технические и бизнес-компетенции, работающий между функциональными силосами, имеющий полномочия видеть общую картину и напрямую отчитывающийся CEO."
+    },
+    {
+      "supports": "C-LI-TV-001",
+      "reportId": "R-LINKEDIN-TV-2026",
+      "report": "2026 LinkedIn Talent Report: The talent velocity advantage",
+      "pages": "2",
+      "excerpt": "LinkedIn defines talent velocity as the ability to see skills, build or acquire what is needed, and mobilize talent in real time to get ahead of market demands; 86% of companies lack adequate talent velocity.",
+      "excerptRu": "LinkedIn определяет talent velocity как способность видеть навыки, развивать или привлекать нужные компетенции и мобилизовать таланты в реальном времени, чтобы опережать рыночный спрос; 86% компаний не имеют достаточной talent velocity."
+    },
+    {
+      "supports": "C-LI-TV-002",
+      "reportId": "R-LINKEDIN-TV-2026",
+      "report": "2026 LinkedIn Talent Report: The talent velocity advantage",
+      "pages": "19-20",
+      "excerpt": "The Talent Velocity Curve describes five maturity levels, from static organizations where day-to-day priorities block progress to leading organizations where transformation across all five accelerators is established and measured.",
+      "excerptRu": "Talent Velocity Curve описывает пять уровней зрелости: от статичных организаций, где ежедневные приоритеты блокируют прогресс, до лидеров, у которых трансформация по пяти акселераторам выстроена и измеряется."
+    },
+    {
+      "supports": "C-LI-TV-003",
+      "reportId": "R-LINKEDIN-TV-2026",
+      "report": "2026 LinkedIn Talent Report: The talent velocity advantage",
+      "pages": "11-12",
+      "excerpt": "The report says 56% of organizations prioritize gig opportunities and 72% say internal mobility is more important than ever, while 90% of leaders expect teams to organize around skills needed for tasks or projects.",
+      "excerptRu": "Отчёт говорит, что 56% организаций повышают приоритет gig-возможностей, 72% считают внутреннюю мобильность важнее, чем когда-либо, а 90% лидеров ожидают сборки команд вокруг навыков, необходимых для задач или проектов."
+    },
+    {
+      "supports": "C-LI-TV-004",
+      "reportId": "R-LINKEDIN-TV-2026",
+      "report": "2026 LinkedIn Talent Report: The talent velocity advantage",
+      "pages": "12-14",
+      "excerpt": "CPOs need holistic systems and living data: 90% see increasing need for real-time skills visibility and resourcing insights; Genpact shifted talent supply to real-time skills intelligence instead of static job titles.",
+      "excerptRu": "CPO нуждаются в целостных системах и живых данных: 90% видят растущую потребность в видимости навыков и ресурсных инсайтах в реальном времени; Genpact перевёл talent supply на skills intelligence в реальном времени вместо статичных должностей."
+    },
+    {
+      "supports": "C-LI-TV-005",
+      "reportId": "R-LINKEDIN-TV-2026",
+      "report": "2026 LinkedIn Talent Report: The talent velocity advantage",
+      "pages": "12-14",
+      "excerpt": "LinkedIn reports that organizations will increasingly organize teams based on skills needed for specific tasks or projects; Genpact saw faster staffing cycles and more precise talent allocation from real-time skills intelligence.",
+      "excerptRu": "LinkedIn пишет, что организации всё чаще будут собирать команды по навыкам, нужным для конкретных задач или проектов; Genpact получил более быстрые циклы подбора команд и более точное распределение талантов благодаря skills intelligence в реальном времени."
+    },
+    {
+      "supports": "C-LI-TV-006",
+      "reportId": "R-LINKEDIN-TV-2026",
+      "report": "2026 LinkedIn Talent Report: The talent velocity advantage",
+      "pages": "22-24",
+      "excerpt": "Velocity leaders use talent architecture as the source of truth for roles, skills and career pathways across HR, development, acquisition and business leaders, aligning internal upskilling and mobility with external hiring needs.",
+      "excerptRu": "Лидеры talent velocity используют talent architecture как источник истины по ролям, навыкам и карьерным траекториям между HR, развитием, подбором и бизнес-лидерами, связывая внутреннее развитие навыков и мобильность с внешними потребностями найма."
+    },
+    {
+      "supports": "C-LI-TV-007",
+      "reportId": "R-LINKEDIN-TV-2026",
+      "report": "2026 LinkedIn Talent Report: The talent velocity advantage",
+      "pages": "21-24",
+      "excerpt": "LinkedIn identifies AI-powered employee development and career wayfinding as a strategic compass: AI-powered guidance maps people’s goals to opportunities and points employees to high-impact skills.",
+      "excerptRu": "LinkedIn выделяет AI-powered employee development и карьерную навигацию как стратегический компас: AI-гайденс сопоставляет цели людей с возможностями и направляет сотрудников к навыкам с высоким влиянием."
+    },
+    {
+      "supports": "C-LI-TV-008",
+      "reportId": "R-LINKEDIN-TV-2026",
+      "report": "2026 LinkedIn Talent Report: The talent velocity advantage",
+      "pages": "35",
+      "excerpt": "Velocity leaders ensure every employee has a career goal and plan, using manager-led and AI-powered guidance, skills-based principles and career conversations in onboarding and annual reviews.",
+      "excerptRu": "Лидеры talent velocity добиваются, чтобы у каждого сотрудника были карьерная цель и план, используя менеджерский и AI-гайденс, skills-based принципы и карьерные разговоры в онбординге и ежегодных оценочных циклах."
+    },
+    {
+      "supports": "C-LI-TV-009",
+      "reportId": "R-LINKEDIN-TV-2026",
+      "report": "2026 LinkedIn Talent Report: The talent velocity advantage",
+      "pages": "11",
+      "excerpt": "LinkedIn reports that gig opportunities are a higher priority for 56% of organizations, alongside internal mobility, coaching, mentoring and learning opportunities as retention and skills-agility mechanisms.",
+      "excerptRu": "LinkedIn пишет, что gig-возможности стали более высоким приоритетом для 56% организаций наряду с внутренней мобильностью, коучингом, менторством и обучением как механизмами удержания и гибкости навыков."
+    },
+    {
+      "supports": "C-LI-TV-010",
+      "reportId": "R-LINKEDIN-TV-2026",
+      "report": "2026 LinkedIn Talent Report: The talent velocity advantage",
+      "pages": "24-33",
+      "excerpt": "The integrated talent ecosystem connects hiring, learning and mobility through shared data and talent architecture so every stage of the employee experience feels connected and skills data informs business strategy.",
+      "excerptRu": "Интегрированная экосистема талантов связывает найм, обучение и мобильность через общие данные и talent architecture, чтобы каждый этап employee experience был связанным, а данные о навыках входили в бизнес-стратегию."
+    },
+    {
+      "supports": "C-LI-TV-011",
+      "reportId": "R-LINKEDIN-TV-2026",
+      "report": "2026 LinkedIn Talent Report: The talent velocity advantage",
+      "pages": "31-32",
+      "excerpt": "Talent velocity leaders move beyond scattered AI experiments toward AI-first talent strategy, connecting dynamic skills data to upskilling, career guidance, mobility and AI-powered coaching in daily tasks.",
+      "excerptRu": "Лидеры talent velocity уходят от разрозненных AI-экспериментов к AI-first talent strategy, связывая динамические данные о навыках с upskilling, карьерной навигацией, мобильностью и AI-коучингом в ежедневных задачах."
+    },
+    {
+      "supports": "C-LI-TV-012",
+      "reportId": "R-LINKEDIN-TV-2026",
+      "report": "2026 LinkedIn Talent Report: The talent velocity advantage",
+      "pages": "8-10",
+      "excerpt": "LinkedIn says velocity leaders are more likely to develop AI literacy, AI engineering and in-demand human skills such as communication, relationship skills and adaptability; 93% say human skills are more important than ever.",
+      "excerptRu": "LinkedIn пишет, что лидеры velocity чаще развивают AI-грамотность, AI-инжиниринг и востребованные человеческие навыки: коммуникацию, отношения и адаптивность; 93% считают человеческие навыки важнее, чем когда-либо."
+    },
+    {
+      "supports": "C-LI-TV-013",
+      "reportId": "R-LINKEDIN-TV-2026",
+      "report": "2026 LinkedIn Talent Report: The talent velocity advantage",
+      "pages": "27-30",
+      "excerpt": "The report recommends embedding talent priorities into company operating rhythms, making employee growth visible alongside revenue growth, and using leaders to sponsor career transformation.",
+      "excerptRu": "Отчёт рекомендует встраивать talent-приоритеты в операционные ритмы компании, делая рост сотрудников видимым рядом с ростом выручки, и использовать лидеров как спонсоров карьерной трансформации."
+    },
+    {
+      "supports": "C-LI-TV-014",
+      "reportId": "R-LINKEDIN-TV-2026",
+      "report": "2026 LinkedIn Talent Report: The talent velocity advantage",
+      "pages": "29-30",
+      "excerpt": "LinkedIn describes a culture where learning flows through daily work, microlearning, post-project debriefs, informal forums and AI-powered coaching, making development a strategic advantage rather than an afterthought.",
+      "excerptRu": "LinkedIn описывает культуру, где обучение встроено в ежедневную работу, microlearning, разборы после проектов, неформальные форумы и AI-коучинг, превращая развитие в стратегическое преимущество, а не в второстепенную активность."
+    },
+    {
+      "supports": "C-ACC-LR25-001",
+      "reportId": "R-ACC-LR25-2025",
+      "report": "Learning, Reinvented: Accelerating collaboration between humans and AI",
+      "pages": "5-8",
+      "excerpt": "Accenture defines co-learning as people teaching technology and simultaneously learning from it, with technology adapting to individual needs and improving through every interaction; organizations need four conditions for co-learning to thrive.",
+      "excerptRu": "Accenture определяет co-learning как процесс, в котором люди обучают технологию и одновременно учатся у неё: технология адаптируется к потребностям человека и улучшается с каждым взаимодействием; для этого нужны четыре условия."
+    },
+    {
+      "supports": "C-ACC-LR25-002",
+      "reportId": "R-ACC-LR25-2025",
+      "report": "Learning, Reinvented: Accelerating collaboration between humans and AI",
+      "pages": "8",
+      "excerpt": "The report contrasts flow-of-work learning with full co-learning: in a call-center example, the human edits or rates AI suggestions, the AI treats that as feedback, and both human technique and AI prompts improve.",
+      "excerptRu": "Отчёт противопоставляет learning in the flow of work полноценному co-learning: в примере call center человек редактирует или оценивает AI-подсказки, AI воспринимает это как обратную связь, и улучшаются и техника человека, и prompts AI."
+    },
+    {
+      "supports": "C-ACC-LR25-003",
+      "reportId": "R-ACC-LR25-2025",
+      "report": "Learning, Reinvented: Accelerating collaboration between humans and AI",
+      "pages": "10-12",
+      "excerpt": "Accenture says leaders should frame gen AI as a catalyst for creativity and innovation, make collaboration visible, recognize early adopters, support peer learning and normalize experimentation through real work examples.",
+      "excerptRu": "Accenture пишет, что лидеры должны показывать gen AI как катализатор креативности и инноваций, делать collaboration видимой, признавать early adopters, поддерживать peer learning и нормализовать эксперименты через реальные рабочие примеры."
+    },
+    {
+      "supports": "C-ACC-LR25-004",
+      "reportId": "R-ACC-LR25-2025",
+      "report": "Learning, Reinvented: Accelerating collaboration between humans and AI",
+      "pages": "12",
+      "excerpt": "The report recommends making gen AI uptake and related achievements a measurable executive responsibility, updating performance measures and rewards to reflect successful human-AI collaboration rather than basic adoption.",
+      "excerptRu": "Отчёт рекомендует сделать освоение gen AI и связанные достижения измеримой ответственностью руководителей, обновляя performance measures и вознаграждения так, чтобы отражать успешную human-AI collaboration, а не простое внедрение."
+    },
+    {
+      "supports": "C-ACC-LR25-005",
+      "reportId": "R-ACC-LR25-2025",
+      "report": "Learning, Reinvented: Accelerating collaboration between humans and AI",
+      "pages": "13-14",
+      "excerpt": "Accenture says learning should become part of the job through modular content, just-in-time support, contextual simulations and AI-powered coaching; workers want real-time feedback and tools aligned with career goals.",
+      "excerptRu": "Accenture пишет, что обучение должно стать частью работы через модульный контент, поддержку в моменте, контекстные симуляции и AI-коучинг; сотрудники хотят обратную связь в реальном времени и инструменты, согласованные с карьерными целями."
+    },
+    {
+      "supports": "C-ACC-LR25-006",
+      "reportId": "R-ACC-LR25-2025",
+      "report": "Learning, Reinvented: Accelerating collaboration between humans and AI",
+      "pages": "15-16",
+      "excerpt": "A biopharma case used Bronze, Silver and Gold AI training levels: governance and compliance, prompt engineering and AI interaction, then workshops and best-practice sharing, enabling scientists to work with an AI research assistant.",
+      "excerptRu": "Кейс biopharma использовал уровни AI-обучения Bronze, Silver и Gold: управление AI и соблюдение требований, создание запросов и взаимодействие с AI, затем воркшопы и обмен лучшими практиками, что позволило учёным работать с AI research assistant."
+    },
+    {
+      "supports": "C-ACC-LR25-007",
+      "reportId": "R-ACC-LR25-2025",
+      "report": "Learning, Reinvented: Accelerating collaboration between humans and AI",
+      "pages": "16",
+      "excerpt": "The report recommends creating AI-native roles focused on guiding complex AI environments, learning communities for overseeing human-AI collaboration, and visible growth pathways tied to AI fluency and collaboration skills.",
+      "excerptRu": "Отчёт рекомендует создавать AI-native роли для управления сложными AI-средами, учебные сообщества для oversight human-AI collaboration и видимые траектории роста, связанные с AI-грамотностью и навыками collaboration."
+    },
+    {
+      "supports": "C-ACC-LR25-008",
+      "reportId": "R-ACC-LR25-2025",
+      "report": "Learning, Reinvented: Accelerating collaboration between humans and AI",
+      "pages": "17-19",
+      "excerpt": "Accenture says more than half of workers do not know who is accountable when AI goes wrong; co-learning requires clear accountability, explainability tools, employee challenge channels and dynamic human oversight.",
+      "excerptRu": "Accenture пишет, что более половины сотрудников не знают, кто отвечает, если AI ошибается; co-learning требует ясной ответственности, explainability tools, каналов для оспаривания сотрудниками и динамического человеческого надзора."
+    },
+    {
+      "supports": "C-ACC-LR25-009",
+      "reportId": "R-ACC-LR25-2025",
+      "report": "Learning, Reinvented: Accelerating collaboration between humans and AI",
+      "pages": "19",
+      "excerpt": "The report recommends structured onboarding and evaluation criteria for AI agents to ensure alignment with business goals, ethical standards and compliance requirements as AI autonomy evolves.",
+      "excerptRu": "Отчёт рекомендует структурированный онбординг и критерии оценки AI-агентов, чтобы обеспечить соответствие бизнес-целям, этическим стандартам и требованиям соблюдения правил по мере роста автономии AI."
+    },
+    {
+      "supports": "C-ACC-LR25-010",
+      "reportId": "R-ACC-LR25-2025",
+      "report": "Learning, Reinvented: Accelerating collaboration between humans and AI",
+      "pages": "20-22",
+      "excerpt": "Accenture says AI tools must fit naturally into employee work activities, be intuitive from first interaction, include help and coaching, and improve through usability testing, feedback and employee experience mechanisms.",
+      "excerptRu": "Accenture пишет, что AI-инструменты должны естественно встраиваться в рабочие активности сотрудников, быть интуитивными с первого взаимодействия, включать помощь и коучинг и улучшаться через тестирование удобства, обратную связь и механизмы employee experience."
+    },
+    {
+      "supports": "C-ACC-LR25-011",
+      "reportId": "R-ACC-LR25-2025",
+      "report": "Learning, Reinvented: Accelerating collaboration between humans and AI",
+      "pages": "21-22",
+      "excerpt": "The marketing case embedded 14 AI-powered agents across workflows and used human feedback to train agents; the report recommends designing for shared value across business units and redesigning work and learning together.",
+      "excerptRu": "В маркетинговом кейсе 14 AI-агентов были встроены в рабочие процессы, а человеческая обратная связь использовалась для обучения агентов; отчёт рекомендует проектировать общую ценность между бизнес-единицами и перепроектировать работу и обучение вместе."
+    },
+    {
+      "supports": "C-OAI-AIJTF-001",
+      "reportId": "R-OAI-AIJTF-2026",
+      "report": "The AI Jobs Transition Framework: Mapping AI’s Near-Term Impact on Jobs",
+      "pages": "4-7",
+      "excerpt": "The report argues that AI exposure alone is too blunt and introduces a framework combining technical exposure, human necessity, demand elasticity and observed ChatGPT usage to classify occupations into automation risk, reorganization, AI-growth and less immediate change.",
+      "excerptRu": "Отчет утверждает, что одной подверженности AI недостаточно, и вводит рамку, которая объединяет техническую подверженность, необходимость участия человека, эластичность спроса и наблюдаемое использование ChatGPT для классификации профессий по четырем траекториям."
+    },
+    {
+      "supports": "C-OAI-AIJTF-002",
+      "reportId": "R-OAI-AIJTF-2026",
+      "report": "The AI Jobs Transition Framework: Mapping AI’s Near-Term Impact on Jobs",
+      "pages": "8-10",
+      "excerpt": "The report classifies human necessity into regulatory and accountability necessity, relational necessity and physical necessity, explaining why teachers, nurses, lawyers and similar roles can remain human-led despite high AI exposure.",
+      "excerptRu": "Отчет классифицирует необходимость участия человека на регуляторную, связанную с ответственностью, отношенческую и физическую, объясняя, почему учителя, медсестры, юристы и похожие роли могут оставаться человекоцентричными даже при высокой подверженности AI."
+    },
+    {
+      "supports": "C-OAI-AIJTF-003",
+      "reportId": "R-OAI-AIJTF-2026",
+      "report": "The AI Jobs Transition Framework: Mapping AI’s Near-Term Impact on Jobs",
+      "pages": "11-13",
+      "excerpt": "The report uses occupation-level demand elasticity to estimate whether lower effective costs from AI are likely to unlock more use, customization or new customers, or instead translate mainly into lower labor demand.",
+      "excerptRu": "Отчет использует эластичность спроса на уровне профессий, чтобы оценить, приведет ли снижение эффективной стоимости благодаря AI к большему использованию, кастомизации и новым потребителям или прежде всего к снижению спроса на труд."
+    },
+    {
+      "supports": "C-OAI-AIJTF-004",
+      "reportId": "R-OAI-AIJTF-2026",
+      "report": "The AI Jobs Transition Framework: Mapping AI’s Near-Term Impact on Jobs",
+      "pages": "17-20",
+      "excerpt": "The report compares theoretical exposure with realized work-related ChatGPT usage and finds a large capability overhang that varies by occupation and archetype, showing where capability has not yet turned into adoption.",
+      "excerptRu": "Отчет сравнивает теоретическую подверженность с фактическим рабочим использованием ChatGPT и показывает большой разрыв возможностей, который различается по профессиям и архетипам: во многих местах возможности AI еще не превратились во внедрение."
+    },
+    {
+      "supports": "C-OAI-AIJTF-005",
+      "reportId": "R-OAI-AIJTF-2026",
+      "report": "The AI Jobs Transition Framework: Mapping AI’s Near-Term Impact on Jobs",
+      "pages": "22-24",
+      "excerpt": "For jobs at higher automation risk, the report recommends early-warning systems, transition assistance, reskilling support and local monitoring of labor-market disruption, especially to help workers move into roles where people remain essential.",
+      "excerptRu": "Для профессий с повышенным риском автоматизации отчет рекомендует системы раннего предупреждения, помощь в переходе, поддержку переобучения и локальный мониторинг сбоев на рынке труда, особенно для перехода в роли, где человек остается необходимым."
+    },
+    {
+      "supports": "C-OAI-AIJTF-006",
+      "reportId": "R-OAI-AIJTF-2026",
+      "report": "The AI Jobs Transition Framework: Mapping AI’s Near-Term Impact on Jobs",
+      "pages": "24-25",
+      "excerpt": "For jobs that will reorganize, the report says the priority is shaping how AI changes work through staffing standards, professional guidance and guardrails for workload, service quality and worker autonomy.",
+      "excerptRu": "Для профессий, которые будут реорганизованы, отчет называет приоритетом управление тем, как AI меняет работу: через стандарты численности, профессиональные рекомендации и защитные правила для нагрузки, качества услуг и автономии работников."
+    },
+    {
+      "supports": "C-OAI-AIJTF-007",
+      "reportId": "R-OAI-AIJTF-2026",
+      "report": "The AI Jobs Transition Framework: Mapping AI’s Near-Term Impact on Jobs",
+      "pages": "24-26",
+      "excerpt": "For jobs that grow with AI, the report recommends capacity-building, procurement reform, reimbursement redesign and expanded access so more workers and communities can benefit from growth created by lower effective costs.",
+      "excerptRu": "Для профессий, которые растут вместе с AI, отчет рекомендует развитие пропускной способности, реформу закупок, пересмотр возмещения расходов и расширение доступа, чтобы больше работников и сообществ могли выиграть от роста, созданного снижением эффективной стоимости."
+    },
+    {
+      "supports": "C-OAI-AIJTF-008",
+      "reportId": "R-OAI-AIJTF-2026",
+      "report": "The AI Jobs Transition Framework: Mapping AI’s Near-Term Impact on Jobs",
+      "pages": "2-3",
+      "excerpt": "The report frames the AI transition as a force that can be shaped, not simply observed, and argues for sharing data so workers, firms and policymakers can act with better information while avoiding both short-term overstatement and long-term complacency.",
+      "excerptRu": "Отчет описывает AI-переход как процесс, который можно формировать, а не просто наблюдать, и подчеркивает необходимость раскрывать данные, чтобы работники, компании и политики действовали на основе более качественной информации, избегая как преувеличения краткосрочного сбоя, так и недооценки долгосрочного влияния."
+    },
+    {
+      "supports": "C-OAI-AIJTF-009",
+      "reportId": "R-OAI-AIJTF-2026",
+      "report": "The AI Jobs Transition Framework: Mapping AI’s Near-Term Impact on Jobs",
+      "pages": "22-27",
+      "excerpt": "The report says governments should invest in better occupational measurement and continued monitoring, linking occupation archetypes, exposure measures and labor-market outcomes so the public can understand and respond to AI effects.",
+      "excerptRu": "Отчет говорит, что государствам следует инвестировать в более качественное измерение профессий и постоянный мониторинг, связывая архетипы профессий, показатели подверженности и результаты на рынке труда, чтобы общество могло понимать последствия AI и реагировать на них."
+    },
+    {
+      "supports": "C-OAI-AIJTF-010",
+      "reportId": "R-OAI-AIJTF-2026",
+      "report": "The AI Jobs Transition Framework: Mapping AI’s Near-Term Impact on Jobs",
+      "pages": "24-26",
+      "excerpt": "The policy section maps different responses to job archetypes: early warning and reskilling for automation risk, workload and autonomy guardrails for reorganizing jobs, capacity-building for jobs that grow with AI, and monitoring for less immediate change.",
+      "excerptRu": "Раздел о политических мерах сопоставляет разные ответы с архетипами профессий: раннее предупреждение и переобучение для риска автоматизации, правила нагрузки и автономии для реорганизуемых профессий, развитие пропускной способности для профессий, растущих вместе с AI, и мониторинг для более медленных изменений."
+    },
+    {
+      "supports": "C-WEF-CPO26-001",
+      "reportId": "R-WEF-CPO26-2026",
+      "report": "Chief People Officers’ Outlook May 2026",
+      "pages": "4-6",
+      "excerpt": "The report says the most acute talent challenge is not total supply but talent matching and access to critical skills; a CPO perspective says skills-based workforce strategies can help bridge that gap.",
+      "excerptRu": "Отчет говорит, что самый острый вызов в талантах связан не с общим предложением труда, а с сопоставлением талантов и доступом к критическим навыкам; CPO-перспектива подчеркивает роль стратегий рабочей силы, основанных на навыках."
+    },
+    {
+      "supports": "C-WEF-CPO26-002",
+      "reportId": "R-WEF-CPO26-2026",
+      "report": "Chief People Officers’ Outlook May 2026",
+      "pages": "8-9",
+      "excerpt": "A CPO perspective says mandatory AI training did not stick and AI only scales when grounded in how people actually work, requiring a strategic look at workflows across the company.",
+      "excerptRu": "CPO-перспектива говорит, что обязательное AI-обучение не закрепилось, а AI масштабируется только тогда, когда привязан к тому, как люди реально работают, и требует стратегического взгляда на рабочие процессы в компании."
+    },
+    {
+      "supports": "C-WEF-CPO26-003",
+      "reportId": "R-WEF-CPO26-2026",
+      "report": "Chief People Officers’ Outlook May 2026",
+      "pages": "4-9",
+      "excerpt": "The report says 83% of CPOs expect AI to be in the scaling phase within 6-12 months and attention is shifting from individual upskilling toward redesigning roles, workflows, performance management and talent processes.",
+      "excerptRu": "Отчет пишет, что 83% CPO ожидают перехода AI в фазу масштабирования в течение 6-12 месяцев, а внимание смещается от индивидуального повышения квалификации к редизайну ролей, рабочих процессов, управления результативностью и процессов управления талантами."
+    },
+    {
+      "supports": "C-WEF-CPO26-004",
+      "reportId": "R-WEF-CPO26-2026",
+      "report": "Chief People Officers’ Outlook May 2026",
+      "pages": "9",
+      "excerpt": "The report notes that earlier CPO priorities around collaborating with technical departments on AI tools and policies are now translating into broader organizational rollout.",
+      "excerptRu": "Отчет отмечает, что прежние приоритеты CPO по сотрудничеству с техническими подразделениями над AI-инструментами и политиками теперь превращаются в более широкое организационное внедрение."
+    },
+    {
+      "supports": "C-WEF-CPO26-005",
+      "reportId": "R-WEF-CPO26-2026",
+      "report": "Chief People Officers’ Outlook May 2026",
+      "pages": "10",
+      "excerpt": "The report says geopolitics is no longer confined to trade, technology and capital flows; it directly affects people mobility and workforce planning, including labor-market interventions, migration restrictions, cyberthreats and competition for strategic skills.",
+      "excerptRu": "Отчет говорит, что геополитика больше не ограничивается торговлей, технологиями и капиталом; она напрямую влияет на мобильность людей и планирование рабочей силы через вмешательства в рынок труда, миграционные ограничения, киберугрозы и конкуренцию за стратегические навыки."
+    },
+    {
+      "supports": "C-WEF-CPO26-006",
+      "reportId": "R-WEF-CPO26-2026",
+      "report": "Chief People Officers’ Outlook May 2026",
+      "pages": "11",
+      "excerpt": "In response to geoeconomic and geopolitical disruption, the top strategic workforce planning priority is enhancing internal mobility and rapid redeployment capabilities, selected by 50% of surveyed CPOs.",
+      "excerptRu": "В ответ на геоэкономические и геополитические сбои главным приоритетом стратегического планирования рабочей силы стало усиление внутренней мобильности и возможностей быстрого перераспределения, выбранное 50% опрошенных CPO."
+    },
+    {
+      "supports": "C-WEF-CPO26-007",
+      "reportId": "R-WEF-CPO26-2026",
+      "report": "Chief People Officers’ Outlook May 2026",
+      "pages": "10-11",
+      "excerpt": "CPOs list cyberthreats, industrial espionage and data breaches among the top disruptions and prioritize enhancing cybersecurity and data protection and safeguarding sensitive workforce roles.",
+      "excerptRu": "CPO называют киберугрозы, промышленный шпионаж и утечки данных среди главных сбоев и выделяют усиление кибербезопасности, защиты данных и защиты чувствительных ролей рабочей силы."
+    },
+    {
+      "supports": "C-WEF-CPO26-008",
+      "reportId": "R-WEF-CPO26-2026",
+      "report": "Chief People Officers’ Outlook May 2026",
+      "pages": "11",
+      "excerpt": "The report lists reviewing reward, pay and benefits frameworks to reflect regulatory and protectionist changes among the workforce planning priorities in response to geopolitical developments.",
+      "excerptRu": "Отчет включает пересмотр систем вознаграждения, оплаты и льгот с учетом регуляторных и протекционистских изменений в число приоритетов планирования рабочей силы в ответ на геополитические сдвиги."
+    },
+    {
+      "supports": "C-WEF-CPO26-009",
+      "reportId": "R-WEF-CPO26-2026",
+      "report": "Chief People Officers’ Outlook May 2026",
+      "pages": "11",
+      "excerpt": "The report says organizations are developing regional or diversified talent hubs, localization, targeted upskilling, domestic capability-building and strategic international mobility to reduce geopolitical dependency.",
+      "excerptRu": "Отчет говорит, что организации развивают региональные или диверсифицированные хабы талантов, локализацию, целевое развитие навыков, внутренние национальные компетенции и стратегическую международную мобильность, чтобы снизить геополитическую зависимость."
+    },
+    {
+      "supports": "C-WEF-CPO26-010",
+      "reportId": "R-WEF-CPO26-2026",
+      "report": "Chief People Officers’ Outlook May 2026",
+      "pages": "12",
+      "excerpt": "The conclusion says durable workforce resilience requires ecosystem approaches, shifting from competition for talent to collaboration on talent across governments, academia and industry.",
+      "excerptRu": "В заключении говорится, что устойчивая способность рабочей силы выдерживать шоки требует экосистемных подходов и перехода от конкуренции за таланты к сотрудничеству в развитии талантов между государством, академической средой и индустрией."
+    },
+    {
+      "supports": "C-ACC-COINT-001",
+      "reportId": "R-ACC-COINT-2026",
+      "report": "The Age of Co-Intelligence: How Humans, AI Agents and Robots Are Redefining Value",
+      "pages": "3",
+      "excerpt": "The executive summary says AI has shifted from augmentation to co-intelligence, where humans set direction, guardrails, challenge analysis, make trade-offs and own outcomes while AI executes bounded work.",
+      "excerptRu": "В резюме говорится, что AI переходит от аугментации к co-intelligence: люди задают направление и ограничения, оспаривают анализ, принимают компромиссы и владеют результатами, а AI выполняет работу в заданных границах."
+    },
+    {
+      "supports": "C-ACC-COINT-002",
+      "reportId": "R-ACC-COINT-2026",
+      "report": "The Age of Co-Intelligence: How Humans, AI Agents and Robots Are Redefining Value",
+      "pages": "16",
+      "excerpt": "The economics section says productivity becomes growth only through redeployment: freed capacity must be redirected to higher-value work rather than treated only as cost reduction.",
+      "excerptRu": "Раздел об экономике говорит, что продуктивность превращается в рост только через перераспределение: высвобожденную мощность нужно направлять в более ценную работу, а не рассматривать только как сокращение затрат."
+    },
+    {
+      "supports": "C-ACC-COINT-003",
+      "reportId": "R-ACC-COINT-2026",
+      "report": "The Age of Co-Intelligence: How Humans, AI Agents and Robots Are Redefining Value",
+      "pages": "16",
+      "excerpt": "The report describes a task-level model that estimates agentic impact across companies, functions, roles and tasks, combining cost efficiencies, growth dynamics and risk-sensitive decision volume.",
+      "excerptRu": "Отчет описывает модель на уровне задач, которая оценивает влияние агентных систем по компаниям, функциям, ролям и задачам, объединяя экономию, динамику роста и объем риск-чувствительных решений."
+    },
+    {
+      "supports": "C-ACC-COINT-004",
+      "reportId": "R-ACC-COINT-2026",
+      "report": "The Age of Co-Intelligence: How Humans, AI Agents and Robots Are Redefining Value",
+      "pages": "10-12",
+      "excerpt": "The agentic organization section identifies a minimum viable organization of about 60 enterprise agents and notes that many agents recur across functions and industries, creating scale economies.",
+      "excerptRu": "Раздел об агентной организации описывает минимально жизнеспособную организацию примерно из 60 корпоративных агентов и отмечает, что многие агенты повторно используются между функциями и отраслями, создавая экономию масштаба."
+    },
+    {
+      "supports": "C-ACC-COINT-005",
+      "reportId": "R-ACC-COINT-2026",
+      "report": "The Age of Co-Intelligence: How Humans, AI Agents and Robots Are Redefining Value",
+      "pages": "37",
+      "excerpt": "The conclusion says leaders must define what an agent is, how agents are embedded in workflows and decision flows, and establish boundaries, escalation paths, decision rights and accountability.",
+      "excerptRu": "В заключении говорится, что лидеры должны определить, что считается агентом, как агенты встроены в рабочие процессы и потоки решений, а также задать границы, пути эскалации, права принятия решений и ответственность."
+    },
+    {
+      "supports": "C-ACC-COINT-006",
+      "reportId": "R-ACC-COINT-2026",
+      "report": "The Age of Co-Intelligence: How Humans, AI Agents and Robots Are Redefining Value",
+      "pages": "37",
+      "excerpt": "The report says adding AI to existing processes will not create meaningful value; organizations must redesign how humans and agents work across roles, teams and workflows and create a human-in-the-lead value proposition for employees.",
+      "excerptRu": "Отчет говорит, что добавление AI к существующим процессам не создает значимой ценности; организациям нужно перепроектировать работу людей и агентов между ролями, командами и процессами и создать ценностное предложение для сотрудника в роли человека-лидера."
+    },
+    {
+      "supports": "C-ACC-COINT-007",
+      "reportId": "R-ACC-COINT-2026",
+      "report": "The Age of Co-Intelligence: How Humans, AI Agents and Robots Are Redefining Value",
+      "pages": "4-28",
+      "excerpt": "The report presents a skills-based view of work and the Wharton-Accenture Skills Index as a way to decompose jobs into tasks and skills, link them to economic value and redesign work and compensation.",
+      "excerptRu": "Отчет представляет взгляд на работу через навыки и Wharton-Accenture Skills Index как способ разложить должности на задачи и навыки, связать их с экономической ценностью и перепроектировать работу и оплату."
+    },
+    {
+      "supports": "C-ACC-COINT-008",
+      "reportId": "R-ACC-COINT-2026",
+      "report": "The Age of Co-Intelligence: How Humans, AI Agents and Robots Are Redefining Value",
+      "pages": "35",
+      "excerpt": "The society section states that capability parity does not imply responsibility parity: AI may generate ideas and reasoning, but moral accountability, legitimacy and long-term societal obligation remain human.",
+      "excerptRu": "Раздел о обществе утверждает, что паритет возможностей не означает паритет ответственности: AI может генерировать идеи и рассуждения, но моральная ответственность, легитимность и долгосрочные общественные обязательства остаются человеческими."
+    },
+    {
+      "supports": "C-ACC-COINT-009",
+      "reportId": "R-ACC-COINT-2026",
+      "report": "The Age of Co-Intelligence: How Humans, AI Agents and Robots Are Redefining Value",
+      "pages": "37-38",
+      "excerpt": "The conclusion frames the leadership mandate as designing, guiding and overseeing human-agent systems through coordinated choices across operating models, economics, talent, learning, technology and governance.",
+      "excerptRu": "Заключение формулирует лидерский мандат как проектирование, направление и надзор за human-agent systems через согласованные решения в операционных моделях, экономике, талантах, обучении, технологиях и управлении."
+    },
+    {
+      "supports": "C-LI-LMR-001",
+      "reportId": "R-LINKEDIN-LMR-2026",
+      "report": "Labor Market Report: Building a Future of Work That Works",
+      "pages": "16-20",
+      "excerpt": "US hiring slowdown is presented as mainly tied to macro conditions; high-AI-exposure roles are not uniquely weaker than other functions.",
+      "excerptRu": "Замедление найма в США объясняется прежде всего макроусловиями; функции с высокой AI-экспозицией не выглядят непропорционально ослабленными."
+    },
+    {
+      "supports": "C-LI-LMR-002",
+      "reportId": "R-LINKEDIN-LMR-2026",
+      "report": "Labor Market Report: Building a Future of Work That Works",
+      "pages": "10-11",
+      "excerpt": "AI investment is associated with new jobs in annotation, AI engineering, forward-deployed roles, and data-center operations.",
+      "excerptRu": "Инвестиции в AI связаны с появлением и ростом ролей в разметке данных, AI-engineering, forward-deployed work и операциях дата-центров."
+    },
+    {
+      "supports": "C-LI-LMR-003",
+      "reportId": "R-LINKEDIN-LMR-2026",
+      "report": "Labor Market Report: Building a Future of Work That Works",
+      "pages": "10-33",
+      "excerpt": "Forward-deployed engineers and managers are described as emerging roles focused on effective AI integration and workflow ROI.",
+      "excerptRu": "Forward-deployed engineers и managers описаны как новые роли, которые отвечают за эффективную интеграцию AI и отдачу в рабочих процессах."
+    },
+    {
+      "supports": "C-LI-LMR-004",
+      "reportId": "R-LINKEDIN-LMR-2026",
+      "report": "Labor Market Report: Building a Future of Work That Works",
+      "pages": "33",
+      "excerpt": "Internal mobility and skills-based matching are framed as a way to expand AI talent pipelines beyond degrees and job titles.",
+      "excerptRu": "Внутренняя мобильность и skills-based matching представлены как способ расширить AI-пайплайн за пределы дипломов и названий должностей."
+    },
+    {
+      "supports": "C-LI-LMR-005",
+      "reportId": "R-LINKEDIN-LMR-2026",
+      "report": "Labor Market Report: Building a Future of Work That Works",
+      "pages": "12",
+      "excerpt": "AI engineering talent is shown as far more cross-border mobile than the average professional, reshaping competition among talent hubs.",
+      "excerptRu": "AI-инженерные специалисты показаны как значительно более мобильные между странами, что меняет конкуренцию между хабами талантов."
+    },
+    {
+      "supports": "C-LI-LMR-006",
+      "reportId": "R-LINKEDIN-LMR-2026",
+      "report": "Labor Market Report: Building a Future of Work That Works",
+      "pages": "27",
+      "excerpt": "Hiring beyond headquarters increasingly favors global teams and specific markets, making location flexibility a growth lever.",
+      "excerptRu": "Найм за пределами стран штаб-квартир все чаще поддерживает глобальные команды и отдельные рынки, превращая географическую гибкость в рычаг роста."
+    },
+    {
+      "supports": "C-LI-LMR-007",
+      "reportId": "R-LINKEDIN-LMR-2026",
+      "report": "Labor Market Report: Building a Future of Work That Works",
+      "pages": "18-20",
+      "excerpt": "AI skills remain concentrated in a few functions; high-AI-adoption and high-AI-exposure roles do not show a simple hiring decline pattern.",
+      "excerptRu": "AI-навыки остаются сосредоточенными в нескольких функциях; роли с высокой AI-экспозицией не показывают простой картины падения найма."
+    },
+    {
+      "supports": "C-LI-LMR-008",
+      "reportId": "R-LINKEDIN-LMR-2026",
+      "report": "Labor Market Report: Building a Future of Work That Works",
+      "pages": "32",
+      "excerpt": "As application volumes rise, candidates with employee connections are much more likely to convert into hires.",
+      "excerptRu": "На фоне роста числа откликов кандидаты, связанные с сотрудниками компании, заметно чаще доходят до найма."
+    },
+    {
+      "supports": "C-LI-LMR-009",
+      "reportId": "R-LINKEDIN-LMR-2026",
+      "report": "Labor Market Report: Building a Future of Work That Works",
+      "pages": "29-31",
+      "excerpt": "AI literacy appears among the fastest-growing skills, while AI-related learning, goals, and knowledge sharing accelerate.",
+      "excerptRu": "AI literacy входит в число самых быстрорастущих навыков, а AI-обучение, цели и обмен знаниями заметно ускоряются."
     }
   ],
   "aliases": {
@@ -16784,6 +21668,545 @@ window.GRAPH_DATA = {
     ],
     "C-WDOM-013": [
       "portfolio capacity redeployment"
+    ],
+    "C-MCK-Q125-LM-001": [
+      "leadership factory",
+      "leadership bench"
+    ],
+    "C-MCK-Q125-LM-002": [
+      "21st-century leadership",
+      "leadership attributes"
+    ],
+    "C-MCK-Q125-LM-003": [
+      "personal operating model",
+      "priorities roles time energy"
+    ],
+    "C-MCK-Q125-LM-004": [
+      "moments of truth conversations",
+      "leadership narrative sequencing"
+    ],
+    "C-MCK-Q125-LM-005": [
+      "operating cadence wired for speed",
+      "clear decision rights"
+    ],
+    "C-MCK-Q125-LM-006": [
+      "team health drivers",
+      "team effectiveness index"
+    ],
+    "C-MCK-Q125-LM-007": [
+      "cycling relay rowing teams",
+      "task and outcome interdependence"
+    ],
+    "C-MCK-Q125-LM-008": [
+      "resilience and adaptability",
+      "North Star psychological safety social learning"
+    ],
+    "C-MCK-Q125-LM-009": [
+      "vulnerability-based trust",
+      "trigger management"
+    ],
+    "C-FWF-MM-001": [
+      "middle management connective tissue",
+      "leadership in the middle"
+    ],
+    "C-FWF-MM-002": [
+      "manager as sense-maker",
+      "from compliance to coherence"
+    ],
+    "C-FWF-MM-003": [
+      "coaches connectors champions",
+      "from control to catalyst"
+    ],
+    "C-FWF-MM-004": [
+      "career lattice",
+      "lateral career growth"
+    ],
+    "C-FWF-MM-005": [
+      "hybrid conductor",
+      "collaborative intelligence conductor"
+    ],
+    "C-FWF-MM-006": [
+      "future-fit middle managers",
+      "conversation labs"
+    ],
+    "C-FWF-MM-007": [
+      "boundary spanning leadership",
+      "working relationships leadership"
+    ],
+    "C-FWF-MM-008": [
+      "architects of collaboration",
+      "trust-based collaborative systems"
+    ],
+    "C-FWF-MM-009": [
+      "self-managed team enablement",
+      "adult-adult contracts"
+    ],
+    "C-FWF-MM-010": [
+      "capability-based pay",
+      "contribution-based incentives"
+    ],
+    "C-BCG-FOF-001": [
+      "functions of the future",
+      "FoF model"
+    ],
+    "C-BCG-FOF-002": [
+      "AI-first functions",
+      "G&A redesign"
+    ],
+    "C-BCG-FOF-003": [
+      "autonomous GBS",
+      "AI-enabled GBS platform"
+    ],
+    "C-BCG-FOF-004": [
+      "cost per exception resolved",
+      "human-AI capacity utilization"
+    ],
+    "C-BCG-FOF-005": [
+      "AI justification",
+      "AI justification before hiring"
+    ],
+    "C-BCG-FOF-006": [
+      "preventative cost management",
+      "AI-based structural guardrails"
+    ],
+    "C-BCG-FOF-007": [
+      "consolidated administrative leader",
+      "chief administrative officer"
+    ],
+    "C-BCG-FOF-008": [
+      "FoF workforce transition",
+      "transactional G&A roles"
+    ],
+    "C-WEF-NGL-001": [
+      "future-proof leadership",
+      "leadership leverage points"
+    ],
+    "C-WEF-NGL-002": [
+      "intergenerational leadership",
+      "next-generation leadership pipeline"
+    ],
+    "C-WEF-NGL-003": [
+      "control to co-creation",
+      "mindful listening"
+    ],
+    "C-WEF-NGL-004": [
+      "shared agency",
+      "participatory decision-making"
+    ],
+    "C-WEF-NGL-005": [
+      "evidence-informed decision-making",
+      "leadership with AI"
+    ],
+    "C-WEF-NGL-006": [
+      "good ancestor leadership",
+      "living legacy"
+    ],
+    "C-WEF-NGL-007": [
+      "leadership impact scorecard",
+      "wellbeing intelligence"
+    ],
+    "C-IBM-CEO-001": [
+      "rewiring the C-suite",
+      "AI-first C-suite"
+    ],
+    "C-IBM-CEO-002": [
+      "cross-enterprise orchestrators",
+      "functional leaders as technology experts"
+    ],
+    "C-IBM-CEO-003": [
+      "CAIO authority",
+      "AI funding gates"
+    ],
+    "C-IBM-CEO-004": [
+      "decision rights before org chart"
+    ],
+    "C-IBM-CEO-005": [
+      "AI-agent flywheel",
+      "productivity reinvestment flywheel"
+    ],
+    "C-IBM-CEO-006": [
+      "operational decisions made by AI",
+      "decision quality and velocity"
+    ],
+    "C-IBM-CEO-007": [
+      "hybrid AI model strategy",
+      "AI sovereignty"
+    ],
+    "C-IBM-CEO-008": [
+      "agents unmistakably yours"
+    ],
+    "C-IBM-CEO-009": [
+      "AI usage as operating metric",
+      "AI deployment gap"
+    ],
+    "C-IBM-CEO-010": [
+      "quantum optionality",
+      "quantum literacy"
+    ],
+    "C-IBM-ENT2030-001": [
+      "smarter enterprise",
+      "modular AI-first enterprise"
+    ],
+    "C-IBM-ENT2030-002": [
+      "always-on enterprise learning",
+      "AI-powered market scanning"
+    ],
+    "C-IBM-ENT2030-003": [
+      "big-bet governance",
+      "machine-speed strategic bets"
+    ],
+    "C-IBM-ENT2030-004": [
+      "resource abundance"
+    ],
+    "C-IBM-ENT2030-005": [
+      "productivity-to-opportunity map",
+      "AI efficiency sprints",
+      "AI sandboxes"
+    ],
+    "C-IBM-ENT2030-006": [
+      "neutral orchestration layer",
+      "AI governance orchestration layer"
+    ],
+    "C-IBM-ENT2030-007": [
+      "human-led agent-operated teams",
+      "functional AI agent supervisors"
+    ],
+    "C-IBM-ENT2030-008": [
+      "outcome-based mandates",
+      "evolving role mandates"
+    ],
+    "C-IBM-ENT2030-009": [
+      "agentic AI coaches",
+      "learning in the workflow"
+    ],
+    "C-IBM-T26-001": [
+      "appetite for ambiguity",
+      "uncertainty as asset"
+    ],
+    "C-IBM-T26-002": [
+      "agentic rapid response",
+      "threshold-based agent authority"
+    ],
+    "C-IBM-T26-003": [
+      "employee AI appetite",
+      "AI enthusiasm perception gap"
+    ],
+    "C-IBM-T26-004": [
+      "human competitive battlegrounds",
+      "role frameworks not rigid job descriptions"
+    ],
+    "C-IBM-T26-005": [
+      "customer AI accountability",
+      "traceable AI recommendations"
+    ],
+    "C-IBM-T26-006": [
+      "AI sovereignty",
+      "local AI safety net",
+      "AI resilience architecture"
+    ],
+    "C-IBM-T26-007": [
+      "chaos-ready orchestration",
+      "agent decision pathways",
+      "model drift safeguards"
+    ],
+    "C-IBM-T26-008": [
+      "quantum ecosystem multiplier",
+      "ecosystem data for quantum advantage"
+    ],
+    "C-IBM-CEO25-001": [
+      "Luminary CEO",
+      "connected decisive responsible future-focused informed unimpeded"
+    ],
+    "C-IBM-CEO25-002": [
+      "make courage your core",
+      "courage core"
+    ],
+    "C-IBM-CEO25-003": [
+      "innovation liquidity",
+      "budget flexibility for digital opportunities"
+    ],
+    "C-IBM-CEO25-004": [
+      "AI-fueled creative destruction",
+      "controlled AI burn"
+    ],
+    "C-IBM-CEO25-005": [
+      "model lock-in avoidance",
+      "right AI model for every job"
+    ],
+    "C-IBM-CEO25-006": [
+      "AI-centric insight engine",
+      "agent validation metrics"
+    ],
+    "C-IBM-CEO25-007": [
+      "vibrant data environment",
+      "data fabric for AI agents"
+    ],
+    "C-IBM-CEO25-008": [
+      "teach AI agents then become the student",
+      "agent feedback for data quality"
+    ],
+    "C-IBM-CEO25-009": [
+      "ignore the FOMO lean into ROI",
+      "innovation yield"
+    ],
+    "C-IBM-CEO25-010": [
+      "build buy bot borrow",
+      "borrowed talent"
+    ],
+    "C-IBM-CEO25-011": [
+      "AI board",
+      "CEO-sponsored AI board"
+    ],
+    "C-LI-TV-001": [
+      "talent velocity",
+      "velocity gap"
+    ],
+    "C-LI-TV-002": [
+      "Talent Velocity Curve"
+    ],
+    "C-LI-TV-003": [
+      "fluid talent ecosystem",
+      "skills agility"
+    ],
+    "C-LI-TV-004": [
+      "real-time skills visibility",
+      "resourcing insights"
+    ],
+    "C-LI-TV-005": [
+      "skills-based team assembly",
+      "task-based team formation"
+    ],
+    "C-LI-TV-006": [
+      "talent architecture",
+      "job-to-skills map",
+      "shared skills intelligence"
+    ],
+    "C-LI-TV-007": [
+      "AI-powered career guidance",
+      "career wayfinding"
+    ],
+    "C-LI-TV-008": [
+      "career goal and plan",
+      "career power"
+    ],
+    "C-LI-TV-009": [
+      "internal gig opportunities",
+      "stretch assignments marketplace"
+    ],
+    "C-LI-TV-010": [
+      "integrated talent ecosystem",
+      "cohesive planning across hiring learning mobility"
+    ],
+    "C-LI-TV-011": [
+      "AI-first talent strategy",
+      "AI is the way we work now"
+    ],
+    "C-LI-TV-012": [
+      "human + AI edge",
+      "in-demand human skills"
+    ],
+    "C-LI-TV-013": [
+      "talent priorities operating rhythms"
+    ],
+    "C-LI-TV-014": [
+      "daily-work learning",
+      "learning and innovation forum"
+    ],
+    "C-ACC-LR25-001": [
+      "co-learning readiness",
+      "four conditions for co-learning"
+    ],
+    "C-ACC-LR25-002": [
+      "human-AI mutual learning loop",
+      "two-way learning loop"
+    ],
+    "C-ACC-LR25-003": [
+      "gen AI catalyst initiative",
+      "strategic gen AI experimentation"
+    ],
+    "C-ACC-LR25-004": [
+      "co-learning leadership priority",
+      "human + AI collaboration outcomes"
+    ],
+    "C-ACC-LR25-005": [
+      "just-in-time AI coaching",
+      "real-time AI feedback"
+    ],
+    "C-ACC-LR25-006": [
+      "tiered AI fluency",
+      "Bronze Silver Gold AI training"
+    ],
+    "C-ACC-LR25-007": [
+      "AI-native roles",
+      "AI fluency advancement pathways"
+    ],
+    "C-ACC-LR25-008": [
+      "trust-by-design co-learning",
+      "dynamic human oversight"
+    ],
+    "C-ACC-LR25-009": [
+      "AI agent onboarding",
+      "agent evaluation criteria"
+    ],
+    "C-ACC-LR25-010": [
+      "work-shaped AI design",
+      "AI usability feedback mechanisms"
+    ],
+    "C-ACC-LR25-011": [
+      "horizontal human-AI value redesign",
+      "redesign work and learning together"
+    ],
+    "C-OAI-AIJTF-001": [
+      "AI job transition archetypes",
+      "automation risk reorganization growth framework"
+    ],
+    "C-OAI-AIJTF-002": [
+      "human necessity",
+      "regulatory relational physical necessity"
+    ],
+    "C-OAI-AIJTF-003": [
+      "demand elasticity for AI transition",
+      "AI productivity demand offset"
+    ],
+    "C-OAI-AIJTF-004": [
+      "theoretical vs realized AI exposure",
+      "AI capability overhang"
+    ],
+    "C-OAI-AIJTF-005": [
+      "AI transition early warning",
+      "localized transition planning"
+    ],
+    "C-OAI-AIJTF-006": [
+      "guardrails for reorganized work",
+      "worker autonomy guardrails"
+    ],
+    "C-OAI-AIJTF-007": [
+      "AI-growth jobs",
+      "scale effects from AI"
+    ],
+    "C-OAI-AIJTF-008": [
+      "shapeable AI transition",
+      "AI transition as institutional design"
+    ],
+    "C-OAI-AIJTF-009": [
+      "occupational measurement infrastructure",
+      "AI labor-market monitoring infrastructure"
+    ],
+    "C-OAI-AIJTF-010": [
+      "job archetype policy portfolio",
+      "AI transition response portfolio"
+    ],
+    "C-WEF-CPO26-001": [
+      "critical skills matching",
+      "talent matching gap"
+    ],
+    "C-WEF-CPO26-002": [
+      "role-grounded AI adoption",
+      "AI grounded in work"
+    ],
+    "C-WEF-CPO26-003": [
+      "workforce outcome AI redesign",
+      "AI role workflow talent redesign"
+    ],
+    "C-WEF-CPO26-004": [
+      "CPO tech partnership",
+      "people-tech AI rollout"
+    ],
+    "C-WEF-CPO26-005": [
+      "geopolitical workforce radar",
+      "people mobility risk sensing"
+    ],
+    "C-WEF-CPO26-006": [
+      "rapid redeployment resilience",
+      "internal mobility resilience"
+    ],
+    "C-WEF-CPO26-007": [
+      "sensitive role safeguarding",
+      "workforce role data protection"
+    ],
+    "C-WEF-CPO26-008": [
+      "regulatory rewards review",
+      "pay benefits regulatory adaptation"
+    ],
+    "C-WEF-CPO26-009": [
+      "diversified regional talent hubs",
+      "talent hubs for resilience"
+    ],
+    "C-WEF-CPO26-010": [
+      "ecosystem talent collaboration",
+      "collaboration on talent"
+    ],
+    "C-ACC-COINT-001": [
+      "co-intelligence enterprise",
+      "human-led operating system"
+    ],
+    "C-ACC-COINT-002": [
+      "agentic dividend",
+      "capacity redeployment for growth"
+    ],
+    "C-ACC-COINT-003": [
+      "agentic value-risk map",
+      "risk-sensitive decision mapping"
+    ],
+    "C-ACC-COINT-004": [
+      "reusable agent portfolio",
+      "minimum viable agentic organization"
+    ],
+    "C-ACC-COINT-005": [
+      "agentic operating boundaries",
+      "agent escalation paths"
+    ],
+    "C-ACC-COINT-006": [
+      "Human+ workforce",
+      "human-in-the-lead role"
+    ],
+    "C-ACC-COINT-007": [
+      "skills-to-value mapping",
+      "Wharton-Accenture Skills Index"
+    ],
+    "C-ACC-COINT-008": [
+      "responsibility asymmetry",
+      "capability parity is not responsibility parity"
+    ],
+    "C-ACC-COINT-009": [
+      "co-intelligence leadership",
+      "human-agent system oversight"
+    ],
+    "C-LI-LMR-001": [
+      "labor market attribution",
+      "AI jobs are not the whole story"
+    ],
+    "C-LI-LMR-002": [
+      "new-collar AI roles",
+      "AI infrastructure jobs"
+    ],
+    "C-LI-LMR-003": [
+      "forward-deployed AI roles",
+      "AI integrator roles"
+    ],
+    "C-LI-LMR-004": [
+      "skills-first AI pipeline",
+      "hidden AI talent"
+    ],
+    "C-LI-LMR-005": [
+      "AI talent migration",
+      "AI talent hubs"
+    ],
+    "C-LI-LMR-006": [
+      "geo-flexible hiring",
+      "global team allocation"
+    ],
+    "C-LI-LMR-007": [
+      "AI skills concentration",
+      "AI diffusion lag"
+    ],
+    "C-LI-LMR-008": [
+      "network hiring signal",
+      "pre-connected candidates"
+    ],
+    "C-LI-LMR-009": [
+      "AI learning demand",
+      "AI goal setting"
     ]
   },
   "aliasesRu": {
@@ -18106,20 +23529,20 @@ window.GRAPH_DATA = {
       "AI Center of Excellence"
     ],
     "C-AIHR-HR26-003": [
-      "technostress",
-      "FOBO"
+      "техностресс",
+      "FOBO: страх профессионального устаревания"
     ],
     "C-AIHR-HR26-004": [
       "кросс-функциональные HR-структуры"
     ],
     "C-AIHR-HR26-005": [
-      "HR AI spending"
+      "расходы HR на AI"
     ],
     "C-AIHR-HR26-006": [
-      "human strengths"
+      "человеческие сильные стороны"
     ],
     "C-AIHR-HR26-007": [
-      "leadership expands as management shrinks"
+      "лидерство расширяется по мере сокращения управленческих слоёв"
     ],
     "C-WDOM-001": [
       "human sandwich"
@@ -18160,6 +23583,545 @@ window.GRAPH_DATA = {
     ],
     "C-WDOM-013": [
       "portfolio capacity redeployment"
+    ],
+    "C-MCK-Q125-LM-001": [
+      "фабрика лидерства",
+      "резерв лидеров"
+    ],
+    "C-MCK-Q125-LM-002": [
+      "лидерство XXI века",
+      "лидерские качества"
+    ],
+    "C-MCK-Q125-LM-003": [
+      "личная операционная модель",
+      "приоритеты роли время энергия"
+    ],
+    "C-MCK-Q125-LM-004": [
+      "ключевые лидерские разговоры",
+      "последовательность лидерского нарратива"
+    ],
+    "C-MCK-Q125-LM-005": [
+      "операционная ритмика, настроенная на скорость",
+      "ясные права принятия решений"
+    ],
+    "C-MCK-Q125-LM-006": [
+      "драйверы здоровья команды",
+      "индекс эффективности команды"
+    ],
+    "C-MCK-Q125-LM-007": [
+      "архетипы cycling relay rowing",
+      "взаимозависимость задач и результатов"
+    ],
+    "C-MCK-Q125-LM-008": [
+      "устойчивость и адаптивность",
+      "North Star психологическая безопасность социальное обучение"
+    ],
+    "C-MCK-Q125-LM-009": [
+      "доверие через уязвимость",
+      "управление триггерами"
+    ],
+    "C-FWF-MM-001": [
+      "связующая ткань среднего менеджмента",
+      "лидерство из середины организации"
+    ],
+    "C-FWF-MM-002": [
+      "менеджер как создатель смысла",
+      "от соблюдения процедур к согласованности"
+    ],
+    "C-FWF-MM-003": [
+      "коучи связующие и защитники достижений",
+      "от контроля к катализатору"
+    ],
+    "C-FWF-MM-004": [
+      "карьерная решётка",
+      "горизонтальный карьерный рост"
+    ],
+    "C-FWF-MM-005": [
+      "гибридный дирижёр human-AI работы",
+      "дирижёр коллективного интеллекта"
+    ],
+    "C-FWF-MM-006": [
+      "средние менеджеры, готовые к будущему",
+      "лаборатории управленческих разговоров"
+    ],
+    "C-FWF-MM-007": [
+      "лидерство через границы подразделений",
+      "лидерство рабочих отношений"
+    ],
+    "C-FWF-MM-008": [
+      "архитекторы сотрудничества",
+      "системы сотрудничества на основе доверия"
+    ],
+    "C-FWF-MM-009": [
+      "поддержка самоуправляемых команд",
+      "договорённости взрослый-взрослый"
+    ],
+    "C-FWF-MM-010": [
+      "оплата по компетенциям",
+      "стимулы на основе вклада"
+    ],
+    "C-BCG-FOF-001": [
+      "функции будущего",
+      "модель функций будущего"
+    ],
+    "C-BCG-FOF-002": [
+      "AI-first функции",
+      "перепроектирование G&A"
+    ],
+    "C-BCG-FOF-003": [
+      "автономный GBS",
+      "AI-платформа глобальных бизнес-сервисов"
+    ],
+    "C-BCG-FOF-004": [
+      "стоимость разрешённого исключения",
+      "загрузка человеческой и AI-мощности"
+    ],
+    "C-BCG-FOF-005": [
+      "AI-обоснование",
+      "AI-обоснование перед наймом"
+    ],
+    "C-BCG-FOF-006": [
+      "предупредительное управление затратами",
+      "AI-структурные ограничения"
+    ],
+    "C-BCG-FOF-007": [
+      "консолидированный административный руководитель",
+      "chief administrative officer"
+    ],
+    "C-BCG-FOF-008": [
+      "переход рабочей силы к функциям будущего",
+      "транзакционные роли в G&A"
+    ],
+    "C-WEF-NGL-001": [
+      "лидерство, готовое к будущему",
+      "рычаги лидерства"
+    ],
+    "C-WEF-NGL-002": [
+      "межпоколенческое лидерство",
+      "лидерский резерв следующего поколения"
+    ],
+    "C-WEF-NGL-003": [
+      "от контроля к совместному созданию",
+      "внимательное слушание"
+    ],
+    "C-WEF-NGL-004": [
+      "shared agency",
+      "партисипативное принятие решений"
+    ],
+    "C-WEF-NGL-005": [
+      "доказательное принятие решений",
+      "лидерство с AI"
+    ],
+    "C-WEF-NGL-006": [
+      "лидерство доброго предка",
+      "живое наследие"
+    ],
+    "C-WEF-NGL-007": [
+      "система оценки лидерского эффекта",
+      "интеллект благополучия"
+    ],
+    "C-IBM-CEO-001": [
+      "перестройка C-suite",
+      "AI-first C-suite"
+    ],
+    "C-IBM-CEO-002": [
+      "кросс-корпоративные оркестраторы",
+      "функциональные лидеры как технологические эксперты"
+    ],
+    "C-IBM-CEO-003": [
+      "полномочия CAIO",
+      "контрольные точки финансирования AI"
+    ],
+    "C-IBM-CEO-004": [
+      "права решений до оргструктуры"
+    ],
+    "C-IBM-CEO-005": [
+      "маховик AI-агентов",
+      "маховик реинвестирования продуктивности"
+    ],
+    "C-IBM-CEO-006": [
+      "операционные решения, принимаемые AI",
+      "качество и скорость решений"
+    ],
+    "C-IBM-CEO-007": [
+      "гибридная стратегия AI-моделей",
+      "AI-суверенитет"
+    ],
+    "C-IBM-CEO-008": [
+      "AI-агенты, отражающие организацию"
+    ],
+    "C-IBM-CEO-009": [
+      "использование AI как операционная метрика",
+      "разрыв внедрения AI"
+    ],
+    "C-IBM-CEO-010": [
+      "квантовая опциональность",
+      "квантовая грамотность"
+    ],
+    "C-IBM-ENT2030-001": [
+      "умное предприятие",
+      "модульная AI-first компания"
+    ],
+    "C-IBM-ENT2030-002": [
+      "непрерывное рыночное обучение компании",
+      "AI-анализ рыночных сигналов"
+    ],
+    "C-IBM-ENT2030-003": [
+      "управление крупными стратегическими ставками",
+      "стратегические ставки на машинной скорости"
+    ],
+    "C-IBM-ENT2030-004": [
+      "ресурсное изобилие"
+    ],
+    "C-IBM-ENT2030-005": [
+      "карта перехода от продуктивности к возможностям",
+      "AI-спринты эффективности",
+      "AI-песочницы"
+    ],
+    "C-IBM-ENT2030-006": [
+      "нейтральный оркестрационный слой",
+      "слой оркестрации и управления AI"
+    ],
+    "C-IBM-ENT2030-007": [
+      "команды под руководством людей и с работой AI-агентов",
+      "функциональные супервизоры AI-агентов"
+    ],
+    "C-IBM-ENT2030-008": [
+      "мандаты на результат",
+      "изменяемые ролевые мандаты"
+    ],
+    "C-IBM-ENT2030-009": [
+      "агентные AI-коучи",
+      "обучение в потоке работы"
+    ],
+    "C-IBM-T26-001": [
+      "аппетит к неоднозначности",
+      "неопределённость как актив"
+    ],
+    "C-IBM-T26-002": [
+      "агентная быстрая реакция",
+      "пороговые полномочия AI-агентов"
+    ],
+    "C-IBM-T26-003": [
+      "запрос сотрудников на AI",
+      "разрыв восприятия энтузиазма к AI"
+    ],
+    "C-IBM-T26-004": [
+      "человеческие зоны конкурентного преимущества",
+      "ролевые рамки вместо жёстких должностных инструкций"
+    ],
+    "C-IBM-T26-005": [
+      "клиентская подотчётность AI",
+      "прослеживаемые AI-рекомендации"
+    ],
+    "C-IBM-T26-006": [
+      "AI-суверенитет",
+      "локальная страховочная сеть для AI",
+      "архитектура AI-устойчивости"
+    ],
+    "C-IBM-T26-007": [
+      "оркестрация, готовая к хаосу",
+      "пути решений AI-агентов",
+      "защита от дрейфа модели"
+    ],
+    "C-IBM-T26-008": [
+      "квантовый экосистемный множитель",
+      "экосистемные данные для квантового преимущества"
+    ],
+    "C-IBM-CEO25-001": [
+      "Luminary CEO",
+      "connected decisive responsible future-focused informed unimpeded"
+    ],
+    "C-IBM-CEO25-002": [
+      "сделать смелость ядром",
+      "ядро смелости"
+    ],
+    "C-IBM-CEO25-003": [
+      "инновационная ликвидность",
+      "гибкость бюджета для цифровых возможностей"
+    ],
+    "C-IBM-CEO25-004": [
+      "креативная дисрапция на базе AI",
+      "контролируемое AI-сжигание устаревшего"
+    ],
+    "C-IBM-CEO25-005": [
+      "избежание зависимости от одной модели",
+      "правильная AI-модель для каждой задачи"
+    ],
+    "C-IBM-CEO25-006": [
+      "AI-центрированный механизм инсайтов",
+      "метрики проверки AI-агентов"
+    ],
+    "C-IBM-CEO25-007": [
+      "живая среда данных",
+      "data fabric для AI-агентов"
+    ],
+    "C-IBM-CEO25-008": [
+      "обучить AI-агентов, а затем учиться у них",
+      "обратная связь агентов для качества данных"
+    ],
+    "C-IBM-CEO25-009": [
+      "игнорировать FOMO и опираться на ROI",
+      "инновационная отдача"
+    ],
+    "C-IBM-CEO25-010": [
+      "build-buy-bot-borrow",
+      "заёмная экспертиза"
+    ],
+    "C-IBM-CEO25-011": [
+      "AI-совет",
+      "AI-совет под спонсорством CEO"
+    ],
+    "C-LI-TV-001": [
+      "talent velocity",
+      "разрыв скорости талантов"
+    ],
+    "C-LI-TV-002": [
+      "кривая talent velocity"
+    ],
+    "C-LI-TV-003": [
+      "текучая внутренняя talent-экосистема",
+      "гибкость навыков"
+    ],
+    "C-LI-TV-004": [
+      "видимость навыков в реальном времени",
+      "инсайты по ресурсному обеспечению"
+    ],
+    "C-LI-TV-005": [
+      "сборка команд на основе навыков",
+      "формирование команд под задачу"
+    ],
+    "C-LI-TV-006": [
+      "talent architecture",
+      "карта job-to-skills",
+      "единая skills intelligence"
+    ],
+    "C-LI-TV-007": [
+      "AI-навигация по карьере",
+      "карьерная навигация"
+    ],
+    "C-LI-TV-008": [
+      "карьерная цель и план",
+      "карьерная самостоятельность"
+    ],
+    "C-LI-TV-009": [
+      "внутренние gig-возможности",
+      "marketplace stretch assignments"
+    ],
+    "C-LI-TV-010": [
+      "интегрированная talent-экосистема",
+      "связанное планирование найма, обучения и мобильности"
+    ],
+    "C-LI-TV-011": [
+      "AI-first talent strategy",
+      "AI как текущий способ работы"
+    ],
+    "C-LI-TV-012": [
+      "человеческое + AI преимущество",
+      "востребованные человеческие навыки"
+    ],
+    "C-LI-TV-013": [
+      "операционные ритмы talent-приоритетов"
+    ],
+    "C-LI-TV-014": [
+      "обучение в ежедневной работе",
+      "форум обучения и инноваций"
+    ],
+    "C-ACC-LR25-001": [
+      "готовность к co-learning",
+      "четыре условия co-learning"
+    ],
+    "C-ACC-LR25-002": [
+      "двусторонняя петля human-AI обучения",
+      "двусторонняя петля обучения"
+    ],
+    "C-ACC-LR25-003": [
+      "gen AI catalyst initiative",
+      "стратегические gen AI-эксперименты"
+    ],
+    "C-ACC-LR25-004": [
+      "co-learning как лидерский приоритет",
+      "результаты human-AI collaboration"
+    ],
+    "C-ACC-LR25-005": [
+      "AI-коучинг в моменте работы",
+      "обратная связь AI в реальном времени"
+    ],
+    "C-ACC-LR25-006": [
+      "уровневая AI-грамотность",
+      "уровни AI-обучения Bronze Silver Gold"
+    ],
+    "C-ACC-LR25-007": [
+      "AI-native роли",
+      "траектории продвижения через AI-грамотность"
+    ],
+    "C-ACC-LR25-008": [
+      "co-learning с доверием by design",
+      "динамический человеческий надзор"
+    ],
+    "C-ACC-LR25-009": [
+      "онбординг AI-агентов",
+      "критерии оценки AI-агентов"
+    ],
+    "C-ACC-LR25-010": [
+      "дизайн AI под реальную работу",
+      "механизмы обратной связи по удобству AI"
+    ],
+    "C-ACC-LR25-011": [
+      "горизонтальный редизайн ценности human-AI",
+      "перепроектировать работу и обучение вместе"
+    ],
+    "C-OAI-AIJTF-001": [
+      "архетипы AI-перехода профессий",
+      "рамка автоматизационного риска, реорганизации и роста"
+    ],
+    "C-OAI-AIJTF-002": [
+      "необходимость участия человека",
+      "регуляторная, отношенческая и физическая необходимость"
+    ],
+    "C-OAI-AIJTF-003": [
+      "эластичность спроса для AI-перехода",
+      "компенсация спросом роста продуктивности от AI"
+    ],
+    "C-OAI-AIJTF-004": [
+      "теоретическая и фактическая подверженность AI",
+      "разрыв возможностей AI"
+    ],
+    "C-OAI-AIJTF-005": [
+      "раннее предупреждение AI-перехода",
+      "локальное планирование перехода"
+    ],
+    "C-OAI-AIJTF-006": [
+      "защитные правила для реорганизованной работы",
+      "защитные правила автономии работников"
+    ],
+    "C-OAI-AIJTF-007": [
+      "профессии, растущие вместе с AI",
+      "эффекты масштабирования от AI"
+    ],
+    "C-OAI-AIJTF-008": [
+      "управляемый AI-переход",
+      "AI-переход как институциональный дизайн"
+    ],
+    "C-OAI-AIJTF-009": [
+      "инфраструктура измерения профессий",
+      "инфраструктура мониторинга AI на рынке труда"
+    ],
+    "C-OAI-AIJTF-010": [
+      "портфель мер по архетипам профессий",
+      "портфель ответов на AI-переход"
+    ],
+    "C-WEF-CPO26-001": [
+      "matching критических навыков",
+      "разрыв matching талантов"
+    ],
+    "C-WEF-CPO26-002": [
+      "внедрение AI через реальные роли",
+      "AI, привязанный к работе"
+    ],
+    "C-WEF-CPO26-003": [
+      "редизайн результатов рабочей силы при AI",
+      "редизайн ролей, процессов и talent-систем под AI"
+    ],
+    "C-WEF-CPO26-004": [
+      "партнерство CPO и технических команд",
+      "совместное внедрение AI people и tech командами"
+    ],
+    "C-WEF-CPO26-005": [
+      "геополитический workforce radar",
+      "мониторинг рисков мобильности людей"
+    ],
+    "C-WEF-CPO26-006": [
+      "устойчивость через быстрое перераспределение",
+      "устойчивость через внутреннюю мобильность"
+    ],
+    "C-WEF-CPO26-007": [
+      "защита чувствительных ролей",
+      "защита данных чувствительных ролей"
+    ],
+    "C-WEF-CPO26-008": [
+      "пересмотр rewards под регулирование",
+      "адаптация оплаты и льгот к регулированию"
+    ],
+    "C-WEF-CPO26-009": [
+      "диверсифицированные regional talent hubs",
+      "talent hubs для устойчивости"
+    ],
+    "C-WEF-CPO26-010": [
+      "экосистемное сотрудничество в развитии талантов",
+      "сотрудничество в развитии талантов"
+    ],
+    "C-ACC-COINT-001": [
+      "co-intelligence предприятие",
+      "операционная система под человеческим лидерством"
+    ],
+    "C-ACC-COINT-002": [
+      "агентный дивиденд",
+      "перераспределение мощности в рост"
+    ],
+    "C-ACC-COINT-003": [
+      "карта ценности и риска агентных систем",
+      "картирование риск-чувствительных решений"
+    ],
+    "C-ACC-COINT-004": [
+      "портфель переиспользуемых агентов",
+      "минимально жизнеспособная агентная организация"
+    ],
+    "C-ACC-COINT-005": [
+      "границы агентной операционной модели",
+      "пути эскалации для агентов"
+    ],
+    "C-ACC-COINT-006": [
+      "Human+ workforce",
+      "роль человека в ведущей позиции"
+    ],
+    "C-ACC-COINT-007": [
+      "сопоставление навыков с ценностью",
+      "Wharton-Accenture Skills Index"
+    ],
+    "C-ACC-COINT-008": [
+      "асимметрия ответственности",
+      "паритет возможностей не равен паритету ответственности"
+    ],
+    "C-ACC-COINT-009": [
+      "лидерство в co-intelligence",
+      "надзор за human-agent system"
+    ],
+    "C-LI-LMR-001": [
+      "атрибуция замедления рынка труда",
+      "AI не объясняет весь рынок труда"
+    ],
+    "C-LI-LMR-002": [
+      "новые AI-инфраструктурные роли",
+      "работа в AI-инфраструктуре"
+    ],
+    "C-LI-LMR-003": [
+      "роли интеграции AI на местах",
+      "роли AI-интеграторов"
+    ],
+    "C-LI-LMR-004": [
+      "skills-first AI-пайплайн",
+      "скрытый AI-талант"
+    ],
+    "C-LI-LMR-005": [
+      "миграция AI-талантов",
+      "AI-хабы талантов"
+    ],
+    "C-LI-LMR-006": [
+      "географически гибкий найм",
+      "распределение глобальных команд"
+    ],
+    "C-LI-LMR-007": [
+      "концентрация AI-навыков",
+      "задержка распространения AI"
+    ],
+    "C-LI-LMR-008": [
+      "сетевой сигнал в найме",
+      "кандидаты с предварительной связью"
+    ],
+    "C-LI-LMR-009": [
+      "спрос на AI-обучение",
+      "AI-цели сотрудников"
     ]
   }
 };
