@@ -493,21 +493,24 @@ Color:#000;
 }
 
 .relation-list,
-.evidence-list {
+.evidence-list,
+.source-list {
   list-style: disc;
   margin: 8px 0 0;
   padding: 0 0 0 18px;
 }
 
 .relation-list .relation-row,
-.evidence-list .evidence-card {
+.evidence-list .evidence-card,
+.source-list .source-item {
   display: list-item;
   padding-left: 2px;
   margin-top: 10px;
 }
 
 .relation-list .relation-row::marker,
-.evidence-list .evidence-card::marker {
+.evidence-list .evidence-card::marker,
+.source-list .source-item::marker {
   color: #000;
   font-size: 13px;
 }
@@ -544,7 +547,7 @@ Color:#000;
 .source-link {
   display: block;
   text-decoration: none;
-  margin-top: 7px;
+  margin-top: 0;
 }
 
 .details .source-link {
@@ -565,10 +568,6 @@ Color:#000;
 
 .details .source-link span {
   color: #000 !important;
-}
-
-.details .source-list .source-link:first-child {
-  margin-top: 0;
 }
 
 .source-link:hover {

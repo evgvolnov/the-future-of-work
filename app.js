@@ -528,16 +528,18 @@ function selectNode(node) {
       return `<li class="evidence-card"><div>${escapeHtml(textRu(item.excerptRu, item.excerpt))}</div><span>${reportLink}${pageText}</span></li>`;
     })
     .join("");
-  const pdfLinks = reports
+  const sourceItems = reports
     .map((report) => {
       const linkText = `${report.title} — ${reportLabel(report)}`;
       if (!isPublicSourceUrl(report.url)) {
-        return `<span class="source-link source-link-static"><span>${escapeHtml(linkText)}</span></span>`;
+        return `<li class="source-item"><span class="source-link source-link-static"><span>${escapeHtml(linkText)}</span></span></li>`;
       }
       return `
-        <a class="source-link" href="${escapeHtml(report.url)}" target="_blank" rel="noreferrer">
-          <span>${escapeHtml(linkText)}</span>
-        </a>`;
+        <li class="source-item">
+          <a class="source-link" href="${escapeHtml(report.url)}" target="_blank" rel="noreferrer">
+            <span>${escapeHtml(linkText)}</span>
+          </a>
+        </li>`;
     })
     .join("");
   detailsPanel.innerHTML = `
@@ -547,7 +549,7 @@ function selectNode(node) {
     ${aliasList(node)}
     <div class="control-card detail-card">
       <div class="detail-subhead">Источники</div>
-      ${pdfLinks ? `<div class="source-list">${pdfLinks}</div>` : '<div class="empty-state"><p>Источник пока не привязан.</p></div>'}
+      ${sourceItems ? `<ul class="source-list">${sourceItems}</ul>` : '<div class="empty-state"><p>Источник пока не привязан.</p></div>'}
     </div>
     <div class="control-card detail-card">
       <div class="detail-subhead">Семантические связи</div>
